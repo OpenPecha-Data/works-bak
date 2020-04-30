@@ -1,0 +1,23 @@
+title: སྤྱོད་འཇུག
+BDRC_abstract_text_id: 
+wikidata_id: 
+instances:
+  - derge-loc:
+    - D-id: D3871
+    - google-ocr:
+    - manual:
+        ref: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
+        relevance: 0
+    - relevance: 0
+  - derge-delhi:
+    - D-id: D3871
+    - namsel-ocr:
+    - google-ocr:
+    - relevance: 2
+  - peydurma:
+    - A-id:
+    - namsel-ocr:
+    - google-ocr:
+    - relevance: 1
+  - narthang:
+    - N-id:
