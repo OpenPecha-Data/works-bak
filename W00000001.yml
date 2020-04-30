@@ -1,0 +1,44 @@
+title: བཀའ་འགྱུར།
+BDRC_work_id: T2423
+wikidata_id: Q592980
+instances:
+  - derge-loc
+      - google ocr
+        - 
+      - manual: P000001
+  - derge-delhi
+    - namsel ocr
+    - google ocr
+  - peydurma
+    - namsel
+    - google
+
+    
+title: སྤྱོད་འཇུག
+BDRC_abstract_text_id: 
+wikidata_id: 
+instances:
+  - derge-loc
+      - google ocr
+      - manual: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
+  - derge-delhi
+    - namsel ocr
+    - google ocr
+  - peydurma
+    - namsel
+    - google
+
+    
+ 
+  - expression_of: https://www.github.com/OpenPecha/P000001
+    priority: 0
+    alignments:
+  - expression_of: https://www.github.com/OpenPecha/P000778
+    priority: 1
+    alignments:
+  - expression_of: https://github.com/OpenPecha/P000008
+    priority: 2
+    alignments:
+  - expression_of: https://github.com/OpenPecha/P000005
+    priority: 3
+    alignments:
