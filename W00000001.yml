@@ -14,21 +14,6 @@ instances:
     - google
 
     
-title: སྤྱོད་འཇུག
-BDRC_abstract_text_id: 
-wikidata_id: 
-instances:
-  - derge-loc
-      - google ocr
-      - manual: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
-  - derge-delhi
-    - namsel ocr
-    - google ocr
-  - peydurma
-    - namsel
-    - google
-
-    
  
   - expression_of: https://www.github.com/OpenPecha/P000001
     priority: 0
