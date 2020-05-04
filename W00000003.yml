@@ -1,7 +1,9 @@
 title: སྤྱོད་འཇུག
-BDRC_abstract_text_id: 
-wikidata_id: 
+author:
+bdrc-work-id:
+wikidata-id:
 instances:
+  - W4CZ5369 sde dge par khang chen mo: # bdrc work and publisher name
   - derge-loc:
     - D-id: D3871
     - google-ocr:
