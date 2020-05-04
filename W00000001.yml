@@ -3,7 +3,7 @@ author: # Primary Name
 bdrc-work-id: T2423 # aka BDRC abstract work ID
 wikidata-id: Q592980
 instances: # editions
-  # instances are named after publisher
+  # instances are named after publishers
   - བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance name/publisher name
     - bdrc-instance-id: W4CZ5369
     - google-ocr:
