@@ -3,15 +3,18 @@ author:
 bdrc-work-id:
 wikidata-id:
 instances:
-  - W4CZ5369 sde dge par khang chen mo: # bdrc work and publisher name
-  - derge-loc:
+  # instances are named after publishers
+  - བསྟན་འགྱུར། ༼སྡེ་དགེ་པར་མ།༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance and publisher name
+    - bdrc-instance-id: W4CZ5369
     - D-id: D3871
-    - google-ocr:
-    - manual:
-        ref: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
-        relevance: 0
+    - google-ocr: 
+    - transcription: 
+        - pecha: P000002
+        - ref: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
+        - relevance: 0
     - relevance: 0
   - derge-delhi:
+    - bdrc-instance-id: W23703
     - D-id: D3871
     - namsel-ocr:
     - google-ocr:
