@@ -1,29 +1,26 @@
-title: བཀའ་འགྱུར།
-BDRC_work_id: T2423
-wikidata_id: Q592980
-instances:
-  - derge-loc
-      - google ocr
-        - 
-      - manual: P000001
-  - derge-delhi
-    - namsel ocr
-    - google ocr
-  - peydurma
-    - namsel
-    - google
-
+title: བཀའ་འགྱུར། # Bibliographical Title
+author: # Primary Name 
+bdrc-work-id: T2423 # aka BDRC abstract work ID
+wikidata-id: Q592980
+instances: # editions
+  # instances are named after publisher
+  - sde dge par khang chen mo: # bdrc publisher name
+    - bdrc-instance-id: W4CZ5369
+    - google-ocr:
+    - transcription: P000001
+  
+  - sde dge par khang chen mo/:
+    - bdrc-instance-id: W4CZ5369
+  
+  - co ne dgon:
+    - bdrc-instance-id: W1PD96685
+    - google-ocr:
+  
+  - krung go'i bod rig pa'i dpe skrun khang /:
+    - bdrc-instance-id: W1PD96682
+  
+  - delhi karmapae chodhey gyalwae sungrab partun khang:
+    - bdrc-instance-id: W22084
+    - google-ocr:
+    - namsel-ocr:
     
- 
-  - expression_of: https://www.github.com/OpenPecha/P000001
-    priority: 0
-    alignments:
-  - expression_of: https://www.github.com/OpenPecha/P000778
-    priority: 1
-    alignments:
-  - expression_of: https://github.com/OpenPecha/P000008
-    priority: 2
-    alignments:
-  - expression_of: https://github.com/OpenPecha/P000005
-    priority: 3
-    alignments:
