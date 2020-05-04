@@ -4,15 +4,15 @@ bdrc-work-id: T2423 # aka BDRC abstract work ID
 wikidata-id: Q592980
 instances: # editions
   # instances are named after publisher
-  - sde dge par khang chen mo: # bdrc publisher name
+  - བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance name/publisher name
     - bdrc-instance-id: W4CZ5369
     - google-ocr:
     - transcription: P000001
   
-  - sde dge par khang chen mo/:
+  - བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ།:
     - bdrc-instance-id: W4CZ5369
   
-  - co ne dgon:
+  - བཀའ་འགྱུར ༼ཅོ་ནེ༽/ཅོ་ནེ་དགོན།:
     - bdrc-instance-id: W1PD96685
     - google-ocr:
   
