@@ -3,24 +3,6551 @@ author: # Primary Name
 bdrc-work-id: T2423 # aka BDRC abstract work ID
 wikidata-id: Q592980
 instances: # editions
-  # instances are named after publishers
-  - བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance name/publisher name
-    - bdrc-instance-id: W4CZ5369
-    - google-ocr:
-    - transcription: P000001
-  
-  - བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ།:
-    - bdrc-instance-id: W4CZ5369
-  
-  - བཀའ་འགྱུར ༼ཅོ་ནེ༽/ཅོ་ནེ་དགོན།:
-    - bdrc-instance-id: W1PD96685
-    - google-ocr:
-  
-  - krung go'i bod rig pa'i dpe skrun khang /:
-    - bdrc-instance-id: W1PD96682
-  
-  - delhi karmapae chodhey gyalwae sungrab partun khang:
-    - bdrc-instance-id: W22084
-    - google-ocr:
-    - namsel-ocr:
-    
+# instances are named after publishers
+- བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance name/publisher name
+  - bdrc-instance-id: W4CZ5369
+  - google-ocr: null
+  - transcription: P000001
+- བཀའ་འགྱུར ༼སྡེ་དགེ༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ།:
+  - bdrc-instance-id: W4CZ5369
+- བཀའ་འགྱུར ༼ཅོ་ནེ༽/ཅོ་ནེ་དགོན།:
+  - bdrc-instance-id: W1PD96685
+  - google-ocr: null
+- krung go'i bod rig pa'i dpe skrun khang /:
+  - bdrc-instance-id: W1PD96682
+- delhi karmapae chodhey gyalwae sungrab partun khang:
+  - bdrc-instance-id: W22084
+  - google-ocr: null
+  - namsel-ocr: null
+-  '':
+    bdrc-instance-id: W3CN5084
+-  '':
+    bdrc-instance-id: W8LS66323
+-  '':
+    bdrc-instance-id: W3PD115
+-  '':
+    bdrc-instance-id: W3CN734
+-  '':
+    bdrc-instance-id: W1PD1725
+-  '':
+    bdrc-instance-id: W2CZ6598
+-  '':
+    bdrc-instance-id: W30535
+-  '':
+    bdrc-instance-id: W8LS33977
+-  '':
+    bdrc-instance-id: W8LS67597
+-  '':
+    bdrc-instance-id: W4CZ57162
+-  '':
+    bdrc-instance-id: W4CZ333412
+-  '':
+    bdrc-instance-id: W4CZ328545
+-  '':
+    bdrc-instance-id: W3572
+-  '':
+    bdrc-instance-id: W25140
+-  '':
+    bdrc-instance-id: W29195
+-  '':
+    bdrc-instance-id: W384
+-  '':
+    bdrc-instance-id: W23693
+-  '':
+    bdrc-instance-id: W22111
+-  '':
+    bdrc-instance-id: W1KG15908
+-  '':
+    bdrc-instance-id: W1PD159520
+-  '':
+    bdrc-instance-id: W3CN6843
+-  '':
+    bdrc-instance-id: W21998
+-  '':
+    bdrc-instance-id: W8LS25501
+-  '':
+    bdrc-instance-id: W1KG4532
+-  '':
+    bdrc-instance-id: W4CZ58738
+-  '':
+    bdrc-instance-id: W22123
+-  '':
+    bdrc-instance-id: W3PD1098
+-  '':
+    bdrc-instance-id: W8LS19335
+-  '':
+    bdrc-instance-id: W8LS19332
+-  '':
+    bdrc-instance-id: W8LS19338
+-  '':
+    bdrc-instance-id: W8LS19329
+-  '':
+    bdrc-instance-id: W8LS66716
+-  '':
+    bdrc-instance-id: W4CZ20867
+-  '':
+    bdrc-instance-id: W8499
+-  '':
+    bdrc-instance-id: W22276
+-  '':
+    bdrc-instance-id: W22277
+-  '':
+    bdrc-instance-id: W1PD77570
+-  '':
+    bdrc-instance-id: W3CN21368
+-  '':
+    bdrc-instance-id: W3CN3180
+-  '':
+    bdrc-instance-id: W8LS32780
+-  '':
+    bdrc-instance-id: W4PD929
+-  '':
+    bdrc-instance-id: W23432
+-  '':
+    bdrc-instance-id: W28952
+-  '':
+    bdrc-instance-id: W3CN4624
+-  '':
+    bdrc-instance-id: W1KG21291
+-  '':
+    bdrc-instance-id: W1KG3170
+-  '':
+    bdrc-instance-id: W1KG1400
+-  '':
+    bdrc-instance-id: W3CN5393
+-  '':
+    bdrc-instance-id: W3PD390
+-  '':
+    bdrc-instance-id: W8LS15848
+-  '':
+    bdrc-instance-id: W2PD19983
+-  '':
+    bdrc-instance-id: W3CN7508
+-  '':
+    bdrc-instance-id: W2PD20772
+-  '':
+    bdrc-instance-id: W2PD19982
+-  '':
+    bdrc-instance-id: W3CN18507
+-  '':
+    bdrc-instance-id: W1KG22570
+-  '':
+    bdrc-instance-id: W1KG8928
+-  '':
+    bdrc-instance-id: W2PD20233
+-  '':
+    bdrc-instance-id: W4PD1458
+-  '':
+    bdrc-instance-id: W27503
+-  '':
+    bdrc-instance-id: W28856
+-  '':
+    bdrc-instance-id: W23747
+-  '':
+    bdrc-instance-id: W2DB25428
+-  '':
+    bdrc-instance-id: W2DB25427
+-  '':
+    bdrc-instance-id: W7734
+-  '':
+    bdrc-instance-id: W2623
+-  '':
+    bdrc-instance-id: W21683
+-  '':
+    bdrc-instance-id: W1KG20876
+-  '':
+    bdrc-instance-id: W2CZ7965
+-  '':
+    bdrc-instance-id: W21586
+-  '':
+    bdrc-instance-id: W1KG14750
+-  '':
+    bdrc-instance-id: W22981
+-  '':
+    bdrc-instance-id: W4CZ321195
+-  '':
+    bdrc-instance-id: W4CZ45266
+-  '':
+    bdrc-instance-id: W4CZ333398
+-  '':
+    bdrc-instance-id: W2CZ6606
+-  '':
+    bdrc-instance-id: W1KG5476
+-  '':
+    bdrc-instance-id: W1NLM317
+-  '':
+    bdrc-instance-id: W1NLM367
+-  '':
+    bdrc-instance-id: W1NLM94
+-  '':
+    bdrc-instance-id: W4CZ74177
+-  '':
+    bdrc-instance-id: W4CZ296779
+-  '':
+    bdrc-instance-id: W4CZ45282
+-  '':
+    bdrc-instance-id: W2EE1
+-  '':
+    bdrc-instance-id: W4CZ52587
+-  '':
+    bdrc-instance-id: W1EE31
+-  '':
+    bdrc-instance-id: W2EE2
+-  '':
+    bdrc-instance-id: W1EE32
+-  '':
+    bdrc-instance-id: W4CZ74526
+-  '':
+    bdrc-instance-id: W26007
+-  '':
+    bdrc-instance-id: W1KG9285
+-  '':
+    bdrc-instance-id: W4CZ57602
+-  '':
+    bdrc-instance-id: W2PD19801
+-  '':
+    bdrc-instance-id: W3CN3383
+-  '':
+    bdrc-instance-id: W8LS20525
+-  '':
+    bdrc-instance-id: W3CN12882
+-  '':
+    bdrc-instance-id: W2KG209077
+-  '':
+    bdrc-instance-id: W21505
+-  '':
+    bdrc-instance-id: W29482
+-  '':
+    bdrc-instance-id: W3PD1000
+-  '':
+    bdrc-instance-id: W1KG23033
+-  '':
+    bdrc-instance-id: W8LS18237
+-  '':
+    bdrc-instance-id: W4CZ307969
+-  '':
+    bdrc-instance-id: W23445
+-  '':
+    bdrc-instance-id: W8LS16412
+-  '':
+    bdrc-instance-id: W3CN15301
+-  '':
+    bdrc-instance-id: W8LS16339
+-  '':
+    bdrc-instance-id: W2PD17482
+-  '':
+    bdrc-instance-id: W2PD17483
+-  '':
+    bdrc-instance-id: W3CN3020
+-  '':
+    bdrc-instance-id: W4CZ302665
+-  '':
+    bdrc-instance-id: W2046
+-  '':
+    bdrc-instance-id: W1KG3568
+-  '':
+    bdrc-instance-id: W23919
+-  '':
+    bdrc-instance-id: W1KG1617
+-  '':
+    bdrc-instance-id: W30116
+-  '':
+    bdrc-instance-id: W4CZ74207
+-  '':
+    bdrc-instance-id: W2CZ8040
+-  '':
+    bdrc-instance-id: W23809
+-  '':
+    bdrc-instance-id: W2CZ9158
+-  '':
+    bdrc-instance-id: W4PD1462
+-  '':
+    bdrc-instance-id: W8LS25063
+-  '':
+    bdrc-instance-id: W4CZ295082
+-  '':
+    bdrc-instance-id: W8LS43964
+-  '':
+    bdrc-instance-id: W3CN20442
+-  '':
+    bdrc-instance-id: W23860
+-  '':
+    bdrc-instance-id: W23891
+-  '':
+    bdrc-instance-id: W1KG10493
+-  '':
+    bdrc-instance-id: W1KG26085
+-  '':
+    bdrc-instance-id: W2CZ7698
+-  '':
+    bdrc-instance-id: W913
+-  '':
+    bdrc-instance-id: W8LS32582
+-  '':
+    bdrc-instance-id: W929
+-  '':
+    bdrc-instance-id: W2KG208132
+-  '':
+    bdrc-instance-id: W8LS31189
+-  '':
+    bdrc-instance-id: W1KG21706
+-  '':
+    bdrc-instance-id: W2KG208152
+-  '':
+    bdrc-instance-id: W4CZ302695
+-  '':
+    bdrc-instance-id: W8LS66506
+-  '':
+    bdrc-instance-id: W3CN510
+-  '':
+    bdrc-instance-id: W4CZ346636
+-  '':
+    bdrc-instance-id: W1KG25581
+-  '':
+    bdrc-instance-id: W1KG18483
+-  '':
+    bdrc-instance-id: W2PD17416
+-  '':
+    bdrc-instance-id: W2MS2257
+-  '':
+    bdrc-instance-id: W1PD88988
+-  '':
+    bdrc-instance-id: W1PD88991
+-  '':
+    bdrc-instance-id: W1PD88982
+-  '':
+    bdrc-instance-id: W1PD88993
+-  '':
+    bdrc-instance-id: W1PD88995
+-  '':
+    bdrc-instance-id: W1PD88986
+-  '':
+    bdrc-instance-id: W1PD88978
+-  '':
+    bdrc-instance-id: W1PD88985
+-  '':
+    bdrc-instance-id: W1PD88994
+-  '':
+    bdrc-instance-id: W1PD88984
+-  '':
+    bdrc-instance-id: W1PD88992
+-  '':
+    bdrc-instance-id: W1PD88990
+-  '':
+    bdrc-instance-id: W1PD88987
+-  '':
+    bdrc-instance-id: W1PD88989
+-  '':
+    bdrc-instance-id: W1PD88981
+-  '':
+    bdrc-instance-id: W1PD88996
+-  '':
+    bdrc-instance-id: W27917
+-  '':
+    bdrc-instance-id: W8LS66313
+-  '':
+    bdrc-instance-id: W22083
+-  '':
+    bdrc-instance-id: W4CZ5370
+-  '':
+    bdrc-instance-id: W21872
+-  '':
+    bdrc-instance-id: W1PD128753
+-  '':
+    bdrc-instance-id: W1PD96685
+-  '':
+    bdrc-instance-id: W4CZ5369
+-  '':
+    bdrc-instance-id: W26071
+-  '':
+    bdrc-instance-id: W4CZ45308
+-  '':
+    bdrc-instance-id: W1PD127393
+-  '':
+    bdrc-instance-id: W4CZ45314
+-  '':
+    bdrc-instance-id: W1PD96684
+-  '':
+    bdrc-instance-id: W1KG14700
+-  '':
+    bdrc-instance-id: W3CN20612
+-  '':
+    bdrc-instance-id: W29468
+-  '':
+    bdrc-instance-id: W30532
+-  '':
+    bdrc-instance-id: W2PD17098
+-  '':
+    bdrc-instance-id: W1KG26108
+-  '':
+    bdrc-instance-id: W4CZ45303
+-  '':
+    bdrc-instance-id: W4PD3142
+-  '':
+    bdrc-instance-id: W1KG13607
+-  '':
+    bdrc-instance-id: W3CN1094
+-  '':
+    bdrc-instance-id: W4CZ7445
+-  '':
+    bdrc-instance-id: W22084
+-  '':
+    bdrc-instance-id: W8LS16106
+-  '':
+    bdrc-instance-id: W4CZ45313
+-  '':
+    bdrc-instance-id: W22703
+-  '':
+    bdrc-instance-id: W3CN981
+-  '':
+    bdrc-instance-id: W4CZ45315
+-  '':
+    bdrc-instance-id: W23741
+-  '':
+    bdrc-instance-id: W3CN3373
+-  '':
+    bdrc-instance-id: W4CZ302241
+-  '':
+    bdrc-instance-id: W8LS66754
+-  '':
+    bdrc-instance-id: W3CN1554
+-  '':
+    bdrc-instance-id: W3CN5589
+-  '':
+    bdrc-instance-id: W1KG26084
+-  '':
+    bdrc-instance-id: W8LS17287
+-  '':
+    bdrc-instance-id: W3CN2450
+-  '':
+    bdrc-instance-id: W8LS29377
+-  '':
+    bdrc-instance-id: W1PD137786
+-  '':
+    bdrc-instance-id: W21840
+-  '':
+    bdrc-instance-id: W1NLM518
+-  '':
+    bdrc-instance-id: W5842
+-  '':
+    bdrc-instance-id: W1NLM533
+-  '':
+    bdrc-instance-id: W2PD19769
+-  '':
+    bdrc-instance-id: W3CN1700
+-  '':
+    bdrc-instance-id: W3CN1709
+-  '':
+    bdrc-instance-id: W8LS20284
+-  '':
+    bdrc-instance-id: W2DB4599
+-  '':
+    bdrc-instance-id: W28964
+-  '':
+    bdrc-instance-id: W1PD137867
+-  '':
+    bdrc-instance-id: W1PD137871
+-  '':
+    bdrc-instance-id: W1PD137870
+-  '':
+    bdrc-instance-id: W1PD137868
+-  '':
+    bdrc-instance-id: W1PD137869
+-  '':
+    bdrc-instance-id: W1PD137866
+-  '':
+    bdrc-instance-id: W2KG208434
+-  '':
+    bdrc-instance-id: W4CZ301724
+-  '':
+    bdrc-instance-id: W21027
+-  '':
+    bdrc-instance-id: W23202
+-  '':
+    bdrc-instance-id: W1KG3827
+-  '':
+    bdrc-instance-id: W8LS41699
+-  '':
+    bdrc-instance-id: W6004
+-  '':
+    bdrc-instance-id: W28064
+-  '':
+    bdrc-instance-id: W2DB20795
+-  '':
+    bdrc-instance-id: W1KG15884
+-  '':
+    bdrc-instance-id: W1KG25135
+-  '':
+    bdrc-instance-id: W22072
+-  '':
+    bdrc-instance-id: W1KG4471
+-  '':
+    bdrc-instance-id: W1KG25086
+-  '':
+    bdrc-instance-id: W2DB4615
+-  '':
+    bdrc-instance-id: W2CZ7854
+-  '':
+    bdrc-instance-id: W3CN4033
+-  '':
+    bdrc-instance-id: W8LS32769
+-  '':
+    bdrc-instance-id: W22273
+-  '':
+    bdrc-instance-id: W22274
+-  '':
+    bdrc-instance-id: W22272
+-  '':
+    bdrc-instance-id: W4CZ302670
+-  '':
+    bdrc-instance-id: W29193
+-  '':
+    bdrc-instance-id: W22109
+-  '':
+    bdrc-instance-id: W635
+-  '':
+    bdrc-instance-id: W2KG208030
+-  '':
+    bdrc-instance-id: W3PD188
+-  '':
+    bdrc-instance-id: W8LS17300
+-  '':
+    bdrc-instance-id: W30367
+-  '':
+    bdrc-instance-id: W1KG8902
+-  '':
+    bdrc-instance-id: W1KG4470
+-  '':
+    bdrc-instance-id: W8LS18012
+-  '':
+    bdrc-instance-id: W1KG16133
+-  '':
+    bdrc-instance-id: W4CZ302676
+-  '':
+    bdrc-instance-id: W1KG12670
+-  '':
+    bdrc-instance-id: W8LS16064
+-  '':
+    bdrc-instance-id: W4CZ302669
+-  '':
+    bdrc-instance-id: W1EE54
+-  '':
+    bdrc-instance-id: W3CZ2
+-  '':
+    bdrc-instance-id: W3CZ1
+-  '':
+    bdrc-instance-id: W1KG12771
+-  '':
+    bdrc-instance-id: W3CN1807
+-  '':
+    bdrc-instance-id: W3CN1616
+-  '':
+    bdrc-instance-id: W8LS17182
+-  '':
+    bdrc-instance-id: W3JT13747
+-  '':
+    bdrc-instance-id: W8LS16058
+-  '':
+    bdrc-instance-id: W4CZ302707
+-  '':
+    bdrc-instance-id: W4PD1455
+-  '':
+    bdrc-instance-id: W8LS16217
+-  '':
+    bdrc-instance-id: W3CN21532
+-  '':
+    bdrc-instance-id: W8LS16480
+-  '':
+    bdrc-instance-id: W3JT13357
+-  '':
+    bdrc-instance-id: W1NLM128
+-  '':
+    bdrc-instance-id: W3CN6721
+-  '':
+    bdrc-instance-id: W3CN6718
+-  '':
+    bdrc-instance-id: W00EGS1017359
+-  '':
+    bdrc-instance-id: W30446
+-  '':
+    bdrc-instance-id: W24053
+-  '':
+    bdrc-instance-id: W27605
+-  '':
+    bdrc-instance-id: W21813
+-  '':
+    bdrc-instance-id: W3JT13350
+-  '':
+    bdrc-instance-id: W1KG1573
+-  '':
+    bdrc-instance-id: W2PD17470
+-  '':
+    bdrc-instance-id: W7516
+-  '':
+    bdrc-instance-id: W1PD6
+-  '':
+    bdrc-instance-id: W8LS18463
+-  '':
+    bdrc-instance-id: W4CZ301828
+-  '':
+    bdrc-instance-id: W8LS17755
+-  '':
+    bdrc-instance-id: W23745
+-  '':
+    bdrc-instance-id: W27214
+-  '':
+    bdrc-instance-id: W20103
+-  '':
+    bdrc-instance-id: W2KG207557
+-  '':
+    bdrc-instance-id: W22032
+-  '':
+    bdrc-instance-id: W2KG207558
+-  '':
+    bdrc-instance-id: W21984
+-  '':
+    bdrc-instance-id: W3CN4933
+-  '':
+    bdrc-instance-id: W1NLM47
+-  '':
+    bdrc-instance-id: W8LS20751
+-  '':
+    bdrc-instance-id: W00KG03690
+-  '':
+    bdrc-instance-id: W1KG16211
+-  '':
+    bdrc-instance-id: W1NLM242
+-  '':
+    bdrc-instance-id: W4CZ307396
+-  '':
+    bdrc-instance-id: W26009
+-  '':
+    bdrc-instance-id: W23748
+-  '':
+    bdrc-instance-id: W4CZ302690
+-  '':
+    bdrc-instance-id: W2CZ8058
+-  '':
+    bdrc-instance-id: W1NLM189
+-  '':
+    bdrc-instance-id: W8LS31893
+-  '':
+    bdrc-instance-id: W8LS32739
+-  '':
+    bdrc-instance-id: W2CZ8023
+-  '':
+    bdrc-instance-id: W3CN2229
+-  '':
+    bdrc-instance-id: W2KG207552
+-  '':
+    bdrc-instance-id: W1KG5772
+-  '':
+    bdrc-instance-id: W3CN681
+-  '':
+    bdrc-instance-id: W3CN15333
+-  '':
+    bdrc-instance-id: W1KG5762
+-  '':
+    bdrc-instance-id: W4CZ74375
+-  '':
+    bdrc-instance-id: W3CN3380
+-  '':
+    bdrc-instance-id: W7494
+-  '':
+    bdrc-instance-id: W3CN3331
+-  '':
+    bdrc-instance-id: W8LS32381
+-  '':
+    bdrc-instance-id: W8LS29249
+-  '':
+    bdrc-instance-id: W23711
+-  '':
+    bdrc-instance-id: W2KG208035
+-  '':
+    bdrc-instance-id: W8LS29243
+-  '':
+    bdrc-instance-id: W4CZ74450
+-  '':
+    bdrc-instance-id: W8LS29246
+-  '':
+    bdrc-instance-id: W3CN2382
+-  '':
+    bdrc-instance-id: W8LS29341
+-  '':
+    bdrc-instance-id: W3CN7499
+-  '':
+    bdrc-instance-id: W1KG25186
+-  '':
+    bdrc-instance-id: W1PD88207
+-  '':
+    bdrc-instance-id: W1PD88783
+-  '':
+    bdrc-instance-id: W1PD88206
+-  '':
+    bdrc-instance-id: W4CZ45306
+-  '':
+    bdrc-instance-id: W3CN7475
+-  '':
+    bdrc-instance-id: W8LS29368
+-  '':
+    bdrc-instance-id: W22346
+-  '':
+    bdrc-instance-id: W8LS29371
+-  '':
+    bdrc-instance-id: W1PD88197
+-  '':
+    bdrc-instance-id: W8LS32726
+-  '':
+    bdrc-instance-id: W8LS17463
+-  '':
+    bdrc-instance-id: W930
+-  '':
+    bdrc-instance-id: W22119
+-  '':
+    bdrc-instance-id: W2CZ5022
+-  '':
+    bdrc-instance-id: W2PD20579
+-  '':
+    bdrc-instance-id: W8LS23993
+-  '':
+    bdrc-instance-id: W23817
+-  '':
+    bdrc-instance-id: W2DB4612
+-  '':
+    bdrc-instance-id: W1KG89192
+-  '':
+    bdrc-instance-id: W1KG5097
+-  '':
+    bdrc-instance-id: W8LS22446
+-  '':
+    bdrc-instance-id: W22270
+-  '':
+    bdrc-instance-id: W8LS18308
+-  '':
+    bdrc-instance-id: W1KG1578
+-  '':
+    bdrc-instance-id: W4PD913
+-  '':
+    bdrc-instance-id: W2KG208161
+-  '':
+    bdrc-instance-id: W1KG25095
+-  '':
+    bdrc-instance-id: W4CZ328536
+-  '':
+    bdrc-instance-id: W1KG24038
+-  '':
+    bdrc-instance-id: W4CZ74453
+-  '':
+    bdrc-instance-id: W30098
+-  '':
+    bdrc-instance-id: W1NLM92
+-  '':
+    bdrc-instance-id: W2KG208142
+-  '':
+    bdrc-instance-id: W8LS19787
+-  '':
+    bdrc-instance-id: W1KG5451
+-  '':
+    bdrc-instance-id: W3CN4924
+-  '':
+    bdrc-instance-id: W8LS22932
+-  '':
+    bdrc-instance-id: W8LS22938
+-  '':
+    bdrc-instance-id: W8LS23406
+-  '':
+    bdrc-instance-id: W8LS22944
+-  '':
+    bdrc-instance-id: W21555
+-  '':
+    bdrc-instance-id: W21237
+-  '':
+    bdrc-instance-id: W4CZ57660
+-  '':
+    bdrc-instance-id: W4CZ307278
+-  '':
+    bdrc-instance-id: W2PD17526
+-  '':
+    bdrc-instance-id: W4CZ295072
+-  '':
+    bdrc-instance-id: W30261
+-  '':
+    bdrc-instance-id: W3CN15291
+-  '':
+    bdrc-instance-id: W3CN8317
+-  '':
+    bdrc-instance-id: W8LS16042
+-  '':
+    bdrc-instance-id: W2PD17407
+-  '':
+    bdrc-instance-id: W4PD211
+-  '':
+    bdrc-instance-id: W3CN3090
+-  '':
+    bdrc-instance-id: W23726
+-  '':
+    bdrc-instance-id: W4CZ302655
+-  '':
+    bdrc-instance-id: W21507
+-  '':
+    bdrc-instance-id: W8LS16309
+-  '':
+    bdrc-instance-id: W3CN1560
+-  '':
+    bdrc-instance-id: W3CN3114
+-  '':
+    bdrc-instance-id: W21971
+-  '':
+    bdrc-instance-id: W8LS43901
+-  '':
+    bdrc-instance-id: W3JT13311
+-  '':
+    bdrc-instance-id: W8880
+-  '':
+    bdrc-instance-id: W2PD17467
+-  '':
+    bdrc-instance-id: W1KG2778
+-  '':
+    bdrc-instance-id: W1KG17431
+-  '':
+    bdrc-instance-id: W8LS35917
+-  '':
+    bdrc-instance-id: W30013
+-  '':
+    bdrc-instance-id: W1PD162101
+-  '':
+    bdrc-instance-id: W22280
+-  '':
+    bdrc-instance-id: W4CZ321183
+-  '':
+    bdrc-instance-id: W8LS31201
+-  '':
+    bdrc-instance-id: W4CZ45222
+-  '':
+    bdrc-instance-id: W1KG10853
+-  '':
+    bdrc-instance-id: W10347
+-  '':
+    bdrc-instance-id: W2CZ7700
+-  '':
+    bdrc-instance-id: W1KG22408
+-  '':
+    bdrc-instance-id: W3CN4936
+-  '':
+    bdrc-instance-id: W1KG1616
+-  '':
+    bdrc-instance-id: W8LS32552
+-  '':
+    bdrc-instance-id: W1KG21892
+-  '':
+    bdrc-instance-id: W8LS66416
+-  '':
+    bdrc-instance-id: W1NLM778
+-  '':
+    bdrc-instance-id: W29201
+-  '':
+    bdrc-instance-id: W4CZ332936
+-  '':
+    bdrc-instance-id: W28960
+-  '':
+    bdrc-instance-id: W1PD85356
+-  '':
+    bdrc-instance-id: W741
+-  '':
+    bdrc-instance-id: W3CN21508
+-  '':
+    bdrc-instance-id: W3CN15681
+-  '':
+    bdrc-instance-id: W30023
+-  '':
+    bdrc-instance-id: W4CZ332265
+-  '':
+    bdrc-instance-id: W23431
+-  '':
+    bdrc-instance-id: W2PD17093
+-  '':
+    bdrc-instance-id: W23434
+-  '':
+    bdrc-instance-id: W8LS66424
+-  '':
+    bdrc-instance-id: W3CN5429
+-  '':
+    bdrc-instance-id: W3CN7853
+-  '':
+    bdrc-instance-id: W4CZ34264
+-  '':
+    bdrc-instance-id: W3CN4642
+-  '':
+    bdrc-instance-id: W9848
+-  '':
+    bdrc-instance-id: W4CZ302664
+-  '':
+    bdrc-instance-id: W4PD2021
+-  '':
+    bdrc-instance-id: W3MS829
+-  '':
+    bdrc-instance-id: W23789
+-  '':
+    bdrc-instance-id: W23867
+-  '':
+    bdrc-instance-id: W8LS31210
+-  '':
+    bdrc-instance-id: W1KG746
+-  '':
+    bdrc-instance-id: W3PD1100
+-  '':
+    bdrc-instance-id: W00EGS1017147
+-  '':
+    bdrc-instance-id: W2PD17419
+-  '':
+    bdrc-instance-id: W8LS31018
+-  '':
+    bdrc-instance-id: W3CN4735
+-  '':
+    bdrc-instance-id: W23700
+-  '':
+    bdrc-instance-id: W2KG200900
+-  '':
+    bdrc-instance-id: W1KG25056
+-  '':
+    bdrc-instance-id: W3CN544
+-  '':
+    bdrc-instance-id: W4CZ302677
+-  '':
+    bdrc-instance-id: W4CZ307778
+-  '':
+    bdrc-instance-id: W1KG26088
+-  '':
+    bdrc-instance-id: W26034
+-  '':
+    bdrc-instance-id: W8LS19201
+-  '':
+    bdrc-instance-id: W1NLM392
+-  '':
+    bdrc-instance-id: W2KG209074
+-  '':
+    bdrc-instance-id: W22025
+-  '':
+    bdrc-instance-id: W27903
+-  '':
+    bdrc-instance-id: W7479
+-  '':
+    bdrc-instance-id: W1KG15817
+-  '':
+    bdrc-instance-id: W1KG16601
+-  '':
+    bdrc-instance-id: W1KG16602
+-  '':
+    bdrc-instance-id: W1KG16600
+-  '':
+    bdrc-instance-id: W1KG16603
+-  '':
+    bdrc-instance-id: W1KG1940
+-  '':
+    bdrc-instance-id: W1KG5760
+-  '':
+    bdrc-instance-id: W22042
+-  '':
+    bdrc-instance-id: W3CN3435
+-  '':
+    bdrc-instance-id: W2DB4591
+-  '':
+    bdrc-instance-id: W22185
+-  '':
+    bdrc-instance-id: W22112
+-  '':
+    bdrc-instance-id: W1KG9408
+-  '':
+    bdrc-instance-id: W1NLM988
+-  '':
+    bdrc-instance-id: W3CN18521
+-  '':
+    bdrc-instance-id: W3CN12691
+-  '':
+    bdrc-instance-id: W8LS18961
+-  '':
+    bdrc-instance-id: W4CZ294740
+-  '':
+    bdrc-instance-id: W4CZ302689
+-  '':
+    bdrc-instance-id: W29570
+-  '':
+    bdrc-instance-id: W23773
+-  '':
+    bdrc-instance-id: W4PD1452
+-  '':
+    bdrc-instance-id: W22167
+-  '':
+    bdrc-instance-id: W2PD17478
+-  '':
+    bdrc-instance-id: W1KG12283
+-  '':
+    bdrc-instance-id: W1KG23518
+-  '':
+    bdrc-instance-id: W8LS19240
+-  '':
+    bdrc-instance-id: W2PD16805
+-  '':
+    bdrc-instance-id: W3CN2385
+-  '':
+    bdrc-instance-id: W1NLM471
+-  '':
+    bdrc-instance-id: W3CN5586
+-  '':
+    bdrc-instance-id: W3CN2361
+-  '':
+    bdrc-instance-id: W23841
+-  '':
+    bdrc-instance-id: W30450
+-  '':
+    bdrc-instance-id: W1PD88781
+-  '':
+    bdrc-instance-id: W1KG18255
+-  '':
+    bdrc-instance-id: W30451
+-  '':
+    bdrc-instance-id: W1PD180877
+-  '':
+    bdrc-instance-id: W23712
+-  '':
+    bdrc-instance-id: W1PD88780
+-  '':
+    bdrc-instance-id: W8LS32733
+-  '':
+    bdrc-instance-id: W8LS18736
+-  '':
+    bdrc-instance-id: W1KG11900
+-  '':
+    bdrc-instance-id: W3CN2635
+-  '':
+    bdrc-instance-id: W3JT13305
+-  '':
+    bdrc-instance-id: W1PD90129
+-  '':
+    bdrc-instance-id: W8LS16868
+-  '':
+    bdrc-instance-id: W2CZ7896
+-  '':
+    bdrc-instance-id: W29194
+-  '':
+    bdrc-instance-id: W23692
+-  '':
+    bdrc-instance-id: W22110
+-  '':
+    bdrc-instance-id: W676
+-  '':
+    bdrc-instance-id: W4CZ2710
+-  '':
+    bdrc-instance-id: W1NLM519
+-  '':
+    bdrc-instance-id: W8LS31899
+-  '':
+    bdrc-instance-id: W8LS17375
+-  '':
+    bdrc-instance-id: W8859
+-  '':
+    bdrc-instance-id: W687
+-  '':
+    bdrc-instance-id: W3CN607
+-  '':
+    bdrc-instance-id: W8LS66766
+-  '':
+    bdrc-instance-id: W3CN6739
+-  '':
+    bdrc-instance-id: W3CN6736
+-  '':
+    bdrc-instance-id: W1KG11901
+-  '':
+    bdrc-instance-id: W8LS19204
+-  '':
+    bdrc-instance-id: W3CN1669
+-  '':
+    bdrc-instance-id: W1KG17604
+-  '':
+    bdrc-instance-id: W1GS49554
+-  '':
+    bdrc-instance-id: W1GS49575
+-  '':
+    bdrc-instance-id: W636
+-  '':
+    bdrc-instance-id: W29232
+-  '':
+    bdrc-instance-id: W1KG1604
+-  '':
+    bdrc-instance-id: W1KG472
+-  '':
+    bdrc-instance-id: W1KG25053
+-  '':
+    bdrc-instance-id: W3PD1004
+-  '':
+    bdrc-instance-id: W30516
+-  '':
+    bdrc-instance-id: W4CZ307982
+-  '':
+    bdrc-instance-id: W1KG21751
+-  '':
+    bdrc-instance-id: W2PD17412
+-  '':
+    bdrc-instance-id: W1KG10871
+-  '':
+    bdrc-instance-id: W22038
+-  '':
+    bdrc-instance-id: W8LS66808
+-  '':
+    bdrc-instance-id: W22063
+-  '':
+    bdrc-instance-id: W22064
+-  '':
+    bdrc-instance-id: W23224
+-  '':
+    bdrc-instance-id: W2KG209121
+-  '':
+    bdrc-instance-id: W3CN1691
+-  '':
+    bdrc-instance-id: W20041
+-  '':
+    bdrc-instance-id: W1KG16590
+-  '':
+    bdrc-instance-id: W8LS18146
+-  '':
+    bdrc-instance-id: W8LS25510
+-  '':
+    bdrc-instance-id: W21707
+-  '':
+    bdrc-instance-id: W3CN5645
+-  '':
+    bdrc-instance-id: W1KG22270
+-  '':
+    bdrc-instance-id: W1KG13019
+-  '':
+    bdrc-instance-id: W1CZ1013
+-  '':
+    bdrc-instance-id: W1KG3680
+-  '':
+    bdrc-instance-id: W3CN6882
+-  '':
+    bdrc-instance-id: W3CN5624
+-  '':
+    bdrc-instance-id: W4CZ315253
+-  '':
+    bdrc-instance-id: W23477
+-  '':
+    bdrc-instance-id: W8LS19506
+-  '':
+    bdrc-instance-id: W1KG16794
+-  '':
+    bdrc-instance-id: W3PD989
+-  '':
+    bdrc-instance-id: W3JT13714
+-  '':
+    bdrc-instance-id: W8LS31541
+-  '':
+    bdrc-instance-id: W8LS66409
+-  '':
+    bdrc-instance-id: W1KG21993
+-  '':
+    bdrc-instance-id: W4CZ45310
+-  '':
+    bdrc-instance-id: W4CZ73905
+-  '':
+    bdrc-instance-id: W3CN14271
+-  '':
+    bdrc-instance-id: W3CN3400
+-  '':
+    bdrc-instance-id: W3CN5462
+-  '':
+    bdrc-instance-id: W2DB4602
+-  '':
+    bdrc-instance-id: W29571
+-  '':
+    bdrc-instance-id: W8LS17769
+-  '':
+    bdrc-instance-id: W8LS20442
+-  '':
+    bdrc-instance-id: W29186
+-  '':
+    bdrc-instance-id: W8LS17841
+-  '':
+    bdrc-instance-id: W8LS17095
+-  '':
+    bdrc-instance-id: W8LS66819
+-  '':
+    bdrc-instance-id: W8LS66822
+-  '':
+    bdrc-instance-id: W1KG12671
+-  '':
+    bdrc-instance-id: W1NLM452
+-  '':
+    bdrc-instance-id: W1NLM393
+-  '':
+    bdrc-instance-id: W1NLM738
+-  '':
+    bdrc-instance-id: W1KG20706
+-  '':
+    bdrc-instance-id: W8LS19084
+-  '':
+    bdrc-instance-id: W3PD1092
+-  '':
+    bdrc-instance-id: W1KG4280
+-  '':
+    bdrc-instance-id: W1KG21300
+-  '':
+    bdrc-instance-id: W29483
+-  '':
+    bdrc-instance-id: W29703
+-  '':
+    bdrc-instance-id: W8LS16220
+-  '':
+    bdrc-instance-id: W4CZ295938
+-  '':
+    bdrc-instance-id: W28732
+-  '':
+    bdrc-instance-id: W3CN4064
+-  '':
+    bdrc-instance-id: W30337
+-  '':
+    bdrc-instance-id: W1KG14303
+-  '':
+    bdrc-instance-id: W24007
+-  '':
+    bdrc-instance-id: W1PD96945
+-  '':
+    bdrc-instance-id: W00KG02334
+-  '':
+    bdrc-instance-id: W6113
+-  '':
+    bdrc-instance-id: W20489
+-  '':
+    bdrc-instance-id: W3CN5593
+-  '':
+    bdrc-instance-id: W4CZ58529
+-  '':
+    bdrc-instance-id: W8LS29654
+-  '':
+    bdrc-instance-id: W3CN3425
+-  '':
+    bdrc-instance-id: W8LS18013
+-  '':
+    bdrc-instance-id: W1KG22056
+-  '':
+    bdrc-instance-id: W4CZ45251
+-  '':
+    bdrc-instance-id: W1NLM535
+-  '':
+    bdrc-instance-id: W1NLM749
+-  '':
+    bdrc-instance-id: W23610
+-  '':
+    bdrc-instance-id: W30103
+-  '':
+    bdrc-instance-id: W23725
+-  '':
+    bdrc-instance-id: W1KG6048
+-  '':
+    bdrc-instance-id: W1KG9606
+-  '':
+    bdrc-instance-id: W4CZ307787
+-  '':
+    bdrc-instance-id: W4CZ333410
+-  '':
+    bdrc-instance-id: W1KG21836
+-  '':
+    bdrc-instance-id: W3CN1956
+-  '':
+    bdrc-instance-id: W8LS17313
+-  '':
+    bdrc-instance-id: W3CN684
+-  '':
+    bdrc-instance-id: W30541
+-  '':
+    bdrc-instance-id: W8LS16382
+-  '':
+    bdrc-instance-id: W3CN2865
+-  '':
+    bdrc-instance-id: W21518
+-  '':
+    bdrc-instance-id: W2PD17382
+-  '':
+    bdrc-instance-id: W4CZ332955
+-  '':
+    bdrc-instance-id: W21521
+-  '':
+    bdrc-instance-id: W21939
+-  '':
+    bdrc-instance-id: W3CN6760
+-  '':
+    bdrc-instance-id: W3CN8197
+-  '':
+    bdrc-instance-id: W8LS42177
+-  '':
+    bdrc-instance-id: W3CN1592
+-  '':
+    bdrc-instance-id: W20036
+-  '':
+    bdrc-instance-id: W6458
+-  '':
+    bdrc-instance-id: W4CZ45275
+-  '':
+    bdrc-instance-id: W4CZ74496
+-  '':
+    bdrc-instance-id: W4CZ74493
+-  '':
+    bdrc-instance-id: W1KG22450
+-  '':
+    bdrc-instance-id: W2CZ9147
+-  '':
+    bdrc-instance-id: W4CZ16922
+-  '':
+    bdrc-instance-id: W8230
+-  '':
+    bdrc-instance-id: W2PD17501
+-  '':
+    bdrc-instance-id: W1KG21847
+-  '':
+    bdrc-instance-id: W23811
+-  '':
+    bdrc-instance-id: W23504
+-  '':
+    bdrc-instance-id: W1CZ1193
+-  '':
+    bdrc-instance-id: W23555
+-  '':
+    bdrc-instance-id: W8LS16271
+-  '':
+    bdrc-instance-id: W1NLM327
+-  '':
+    bdrc-instance-id: W1NLM556
+-  '':
+    bdrc-instance-id: W20479
+-  '':
+    bdrc-instance-id: W8LS32711
+-  '':
+    bdrc-instance-id: W1PD133170
+-  '':
+    bdrc-instance-id: W7487
+-  '':
+    bdrc-instance-id: W25007
+-  '':
+    bdrc-instance-id: W23907
+-  '':
+    bdrc-instance-id: W2DB4604
+-  '':
+    bdrc-instance-id: W2DB4607
+-  '':
+    bdrc-instance-id: W2DB4609
+-  '':
+    bdrc-instance-id: W2DB4608
+-  '':
+    bdrc-instance-id: W2DB4606
+-  '':
+    bdrc-instance-id: W2DB4605
+-  '':
+    bdrc-instance-id: W22160
+-  '':
+    bdrc-instance-id: W22044
+-  '':
+    bdrc-instance-id: W1EE72
+-  '':
+    bdrc-instance-id: W4CZ45312
+-  '':
+    bdrc-instance-id: W1KG12113
+-  '':
+    bdrc-instance-id: W1KG5988
+-  '':
+    bdrc-instance-id: W3CN2447
+-  '':
+    bdrc-instance-id: W1NLM558
+-  '':
+    bdrc-instance-id: W3CN17743
+-  '':
+    bdrc-instance-id: W1NLM534
+-  '':
+    bdrc-instance-id: W4CZ295934
+-  '':
+    bdrc-instance-id: W3CN6024
+-  '':
+    bdrc-instance-id: W27024
+-  '':
+    bdrc-instance-id: W1KG17445
+-  '':
+    bdrc-instance-id: W1KG25110
+-  '':
+    bdrc-instance-id: W21847
+-  '':
+    bdrc-instance-id: W24826
+-  '':
+    bdrc-instance-id: W9366
+-  '':
+    bdrc-instance-id: W27414
+-  '':
+    bdrc-instance-id: W1NLM723
+-  '':
+    bdrc-instance-id: W2PD17429
+-  '':
+    bdrc-instance-id: W4CZ302668
+-  '':
+    bdrc-instance-id: W27883
+-  '':
+    bdrc-instance-id: W2PD14777
+-  '':
+    bdrc-instance-id: W4CZ302658
+-  '':
+    bdrc-instance-id: W4CZ65556
+-  '':
+    bdrc-instance-id: W11847
+-  '':
+    bdrc-instance-id: W7477
+-  '':
+    bdrc-instance-id: W27300
+-  '':
+    bdrc-instance-id: W8LS24644
+-  '':
+    bdrc-instance-id: W8LS32610
+-  '':
+    bdrc-instance-id: W4CZ302238
+-  '':
+    bdrc-instance-id: W8LS16491
+-  '':
+    bdrc-instance-id: W3CN12963
+-  '':
+    bdrc-instance-id: W20089
+-  '':
+    bdrc-instance-id: W23621
+-  '':
+    bdrc-instance-id: W29248
+-  '':
+    bdrc-instance-id: W3CN7651
+-  '':
+    bdrc-instance-id: W3CN7810
+-  '':
+    bdrc-instance-id: W29513
+-  '':
+    bdrc-instance-id: W4PD759
+-  '':
+    bdrc-instance-id: W3PD1002
+-  '':
+    bdrc-instance-id: W8LS31241
+-  '':
+    bdrc-instance-id: W2DB4577
+-  '':
+    bdrc-instance-id: W21730
+-  '':
+    bdrc-instance-id: W1PD181209
+-  '':
+    bdrc-instance-id: W3PD1003
+-  '':
+    bdrc-instance-id: W2PD17538
+-  '':
+    bdrc-instance-id: W1PD181208
+-  '':
+    bdrc-instance-id: W2KG208130
+-  '':
+    bdrc-instance-id: W8LS15847
+-  '':
+    bdrc-instance-id: W8LS32779
+-  '':
+    bdrc-instance-id: W3CN6454
+-  '':
+    bdrc-instance-id: W2PD19078
+-  '':
+    bdrc-instance-id: W4PD2043
+-  '':
+    bdrc-instance-id: W1KG12048
+-  '':
+    bdrc-instance-id: W1KG9720
+-  '':
+    bdrc-instance-id: W4PD2049
+-  '':
+    bdrc-instance-id: W1KG89103
+-  '':
+    bdrc-instance-id: W4CZ302678
+-  '':
+    bdrc-instance-id: W1KG89102
+-  '':
+    bdrc-instance-id: W8LS19213
+-  '':
+    bdrc-instance-id: W1PD105896
+-  '':
+    bdrc-instance-id: W1KG21992
+-  '':
+    bdrc-instance-id: W3CN7662
+-  '':
+    bdrc-instance-id: W8LS16666
+-  '':
+    bdrc-instance-id: W1KG14137
+-  '':
+    bdrc-instance-id: W00KG01591
+-  '':
+    bdrc-instance-id: W1KG5994
+-  '':
+    bdrc-instance-id: W8LS23439
+-  '':
+    bdrc-instance-id: W1KG12626
+-  '':
+    bdrc-instance-id: W1KG4257
+-  '':
+    bdrc-instance-id: W3CN3419
+-  '':
+    bdrc-instance-id: W3CN6326
+-  '':
+    bdrc-instance-id: W1KG24281
+-  '':
+    bdrc-instance-id: W23653
+-  '':
+    bdrc-instance-id: W3CN4594
+-  '':
+    bdrc-instance-id: W3CN14378
+-  '':
+    bdrc-instance-id: W3CN5513
+-  '':
+    bdrc-instance-id: W21687
+-  '':
+    bdrc-instance-id: W1KG6044
+-  '':
+    bdrc-instance-id: W4CZ346648
+-  '':
+    bdrc-instance-id: W3CN4311
+-  '':
+    bdrc-instance-id: W1KG20635
+-  '':
+    bdrc-instance-id: W871
+-  '':
+    bdrc-instance-id: W23566
+-  '':
+    bdrc-instance-id: W4CZ301826
+-  '':
+    bdrc-instance-id: W23439
+-  '':
+    bdrc-instance-id: W8LS16354
+-  '':
+    bdrc-instance-id: W23444
+-  '':
+    bdrc-instance-id: W3CN21523
+-  '':
+    bdrc-instance-id: W1KG24814
+-  '':
+    bdrc-instance-id: W00KG09730
+-  '':
+    bdrc-instance-id: W11902
+-  '':
+    bdrc-instance-id: W8LS16005
+-  '':
+    bdrc-instance-id: W8LS26123
+-  '':
+    bdrc-instance-id: W8LS15993
+-  '':
+    bdrc-instance-id: W27215
+-  '':
+    bdrc-instance-id: W29247
+-  '':
+    bdrc-instance-id: W23770
+-  '':
+    bdrc-instance-id: W4CZ315278
+-  '':
+    bdrc-instance-id: W8LS19177
+-  '':
+    bdrc-instance-id: W26625
+-  '':
+    bdrc-instance-id: W30021
+-  '':
+    bdrc-instance-id: W8LS26194
+-  '':
+    bdrc-instance-id: W3CN8320
+-  '':
+    bdrc-instance-id: W4CZ1042
+-  '':
+    bdrc-instance-id: W4CZ42297
+-  '':
+    bdrc-instance-id: W24031
+-  '':
+    bdrc-instance-id: W20916
+-  '':
+    bdrc-instance-id: W8LS43799
+-  '':
+    bdrc-instance-id: W4CZ74475
+-  '':
+    bdrc-instance-id: W7499
+-  '':
+    bdrc-instance-id: W28792
+-  '':
+    bdrc-instance-id: W1PD96069
+-  '':
+    bdrc-instance-id: W1KG24245
+-  '':
+    bdrc-instance-id: W8LS19006
+-  '':
+    bdrc-instance-id: W8LS19987
+-  '':
+    bdrc-instance-id: W1KG5761
+-  '':
+    bdrc-instance-id: W3CN4633
+-  '':
+    bdrc-instance-id: W1PD95796
+-  '':
+    bdrc-instance-id: W3CN14262
+-  '':
+    bdrc-instance-id: W2CZ6759
+-  '':
+    bdrc-instance-id: W8LS32722
+-  '':
+    bdrc-instance-id: W20456
+-  '':
+    bdrc-instance-id: W4CZ307964
+-  '':
+    bdrc-instance-id: W5833
+-  '':
+    bdrc-instance-id: W2PD17505
+-  '':
+    bdrc-instance-id: W2CZ6761
+-  '':
+    bdrc-instance-id: W3CN12960
+-  '':
+    bdrc-instance-id: W5062
+-  '':
+    bdrc-instance-id: W2DB16631
+-  '':
+    bdrc-instance-id: W20088
+-  '':
+    bdrc-instance-id: W8226
+-  '':
+    bdrc-instance-id: W1NLM645
+-  '':
+    bdrc-instance-id: W1NLM643
+-  '':
+    bdrc-instance-id: W2PD17406
+-  '':
+    bdrc-instance-id: W8LS66826
+-  '':
+    bdrc-instance-id: W8LS17754
+-  '':
+    bdrc-instance-id: W4CZ15299
+-  '':
+    bdrc-instance-id: W1PD108093
+-  '':
+    bdrc-instance-id: W3CN3357
+-  '':
+    bdrc-instance-id: W23703
+-  '':
+    bdrc-instance-id: W1PD95844
+-  '':
+    bdrc-instance-id: W1KG13126
+-  '':
+    bdrc-instance-id: W23702
+-  '':
+    bdrc-instance-id: W22704
+-  '':
+    bdrc-instance-id: W8LS16918
+-  '':
+    bdrc-instance-id: W20865
+-  '':
+    bdrc-instance-id: W2DB4597
+-  '':
+    bdrc-instance-id: W4CZ302671
+-  '':
+    bdrc-instance-id: W28979
+-  '':
+    bdrc-instance-id: W4CZ302702
+-  '':
+    bdrc-instance-id: W1NLM607
+-  '':
+    bdrc-instance-id: W8LS32743
+-  '':
+    bdrc-instance-id: W21985
+-  '':
+    bdrc-instance-id: W8LS66343
+-  '':
+    bdrc-instance-id: W1NLM843
+-  '':
+    bdrc-instance-id: W8LS19228
+-  '':
+    bdrc-instance-id: W3PD229
+-  '':
+    bdrc-instance-id: W3CN2914
+-  '':
+    bdrc-instance-id: W22080
+-  '':
+    bdrc-instance-id: W1KG89189
+-  '':
+    bdrc-instance-id: W8LS25584
+-  '':
+    bdrc-instance-id: W8LS25465
+-  '':
+    bdrc-instance-id: W3CN21626
+-  '':
+    bdrc-instance-id: W4CZ301727
+-  '':
+    bdrc-instance-id: W30137
+-  '':
+    bdrc-instance-id: W30141
+-  '':
+    bdrc-instance-id: W30134
+-  '':
+    bdrc-instance-id: W3CN2582
+-  '':
+    bdrc-instance-id: W1NLM38
+-  '':
+    bdrc-instance-id: W1NLM43
+-  '':
+    bdrc-instance-id: W1NLM34
+-  '':
+    bdrc-instance-id: W1KG3567
+-  '':
+    bdrc-instance-id: W23893
+-  '':
+    bdrc-instance-id: W6462
+-  '':
+    bdrc-instance-id: W8LS17747
+-  '':
+    bdrc-instance-id: W6473
+-  '':
+    bdrc-instance-id: W22138
+-  '':
+    bdrc-instance-id: W1KG16588
+-  '':
+    bdrc-instance-id: W22137
+-  '':
+    bdrc-instance-id: W1KG16732
+-  '':
+    bdrc-instance-id: W21019
+-  '':
+    bdrc-instance-id: W20007
+-  '':
+    bdrc-instance-id: W1KG16800
+-  '':
+    bdrc-instance-id: W1KG18325
+-  '':
+    bdrc-instance-id: W23574
+-  '':
+    bdrc-instance-id: W27877
+-  '':
+    bdrc-instance-id: W8LS17500
+-  '':
+    bdrc-instance-id: W29619
+-  '':
+    bdrc-instance-id: W8LS17782
+-  '':
+    bdrc-instance-id: W29145
+-  '':
+    bdrc-instance-id: W8LS15996
+-  '':
+    bdrc-instance-id: W3CN5555
+-  '':
+    bdrc-instance-id: W1PD127771
+-  '':
+    bdrc-instance-id: W3CN2604
+-  '':
+    bdrc-instance-id: W1NLM610
+-  '':
+    bdrc-instance-id: W4CZ301812
+-  '':
+    bdrc-instance-id: W8LS19174
+-  '':
+    bdrc-instance-id: W8LS42272
+-  '':
+    bdrc-instance-id: W8LS16551
+-  '':
+    bdrc-instance-id: W8LS16290
+-  '':
+    bdrc-instance-id: W3CN418
+-  '':
+    bdrc-instance-id: W3CN546
+-  '':
+    bdrc-instance-id: W3CN9098
+-  '':
+    bdrc-instance-id: W4CZ332276
+-  '':
+    bdrc-instance-id: W3CN2353
+-  '':
+    bdrc-instance-id: W1KG16652
+-  '':
+    bdrc-instance-id: W1KG8897
+-  '':
+    bdrc-instance-id: W23200
+-  '':
+    bdrc-instance-id: W8LS32575
+-  '':
+    bdrc-instance-id: W1KG16928
+-  '':
+    bdrc-instance-id: W8LS32616
+-  '':
+    bdrc-instance-id: W3CN6638
+-  '':
+    bdrc-instance-id: W2PD20769
+-  '':
+    bdrc-instance-id: W3CN5456
+-  '':
+    bdrc-instance-id: W21661
+-  '':
+    bdrc-instance-id: W1KG5200
+-  '':
+    bdrc-instance-id: W22030
+-  '':
+    bdrc-instance-id: W8LS66517
+-  '':
+    bdrc-instance-id: W21560
+-  '':
+    bdrc-instance-id: W30426
+-  '':
+    bdrc-instance-id: W21891
+-  '':
+    bdrc-instance-id: W2KG200899
+-  '':
+    bdrc-instance-id: W3CN4844
+-  '':
+    bdrc-instance-id: W22159
+-  '':
+    bdrc-instance-id: W3CN2862
+-  '':
+    bdrc-instance-id: W8LS26108
+-  '':
+    bdrc-instance-id: W2PD17481
+-  '':
+    bdrc-instance-id: W8LS19754
+-  '':
+    bdrc-instance-id: W2PD19491
+-  '':
+    bdrc-instance-id: W3CN513
+-  '':
+    bdrc-instance-id: W4CZ346634
+-  '':
+    bdrc-instance-id: W30039
+-  '':
+    bdrc-instance-id: W3CN5577
+-  '':
+    bdrc-instance-id: W29035
+-  '':
+    bdrc-instance-id: W2PD17430
+-  '':
+    bdrc-instance-id: W8LS32550
+-  '':
+    bdrc-instance-id: W8LS29350
+-  '':
+    bdrc-instance-id: W8LS29353
+-  '':
+    bdrc-instance-id: W8LS29347
+-  '':
+    bdrc-instance-id: W2PD19833
+-  '':
+    bdrc-instance-id: W8LS19210
+-  '':
+    bdrc-instance-id: W1KG3412
+-  '':
+    bdrc-instance-id: W29519
+-  '':
+    bdrc-instance-id: W3CN5597
+-  '':
+    bdrc-instance-id: W3817
+-  '':
+    bdrc-instance-id: W1KG8583
+-  '':
+    bdrc-instance-id: W30110
+-  '':
+    bdrc-instance-id: W21618
+-  '':
+    bdrc-instance-id: W1KG26087
+-  '':
+    bdrc-instance-id: W3CN507
+-  '':
+    bdrc-instance-id: W3CN4044
+-  '':
+    bdrc-instance-id: W4PD1463
+-  '':
+    bdrc-instance-id: W4PD5014
+-  '':
+    bdrc-instance-id: W8LS16351
+-  '':
+    bdrc-instance-id: W8222
+-  '':
+    bdrc-instance-id: W2CZ7844
+-  '':
+    bdrc-instance-id: W27491
+-  '':
+    bdrc-instance-id: W8LS20766
+-  '':
+    bdrc-instance-id: W4CZ74459
+-  '':
+    bdrc-instance-id: W4CZ295924
+-  '':
+    bdrc-instance-id: W8LS18502
+-  '':
+    bdrc-instance-id: W4CZ34266
+-  '':
+    bdrc-instance-id: W1CZ3
+-  '':
+    bdrc-instance-id: W2KG208150
+-  '':
+    bdrc-instance-id: W28260
+-  '':
+    bdrc-instance-id: W8224
+-  '':
+    bdrc-instance-id: W3CN5090
+-  '':
+    bdrc-instance-id: W1NLM967
+-  '':
+    bdrc-instance-id: W8LS66503
+-  '':
+    bdrc-instance-id: W1EE74
+-  '':
+    bdrc-instance-id: W4CZ302696
+-  '':
+    bdrc-instance-id: W4CZ58510
+-  '':
+    bdrc-instance-id: W4CZ73
+-  '':
+    bdrc-instance-id: W3CN5042
+-  '':
+    bdrc-instance-id: W2KG208145
+-  '':
+    bdrc-instance-id: W30173
+-  '':
+    bdrc-instance-id: W21850
+-  '':
+    bdrc-instance-id: W4CZ354434
+-  '':
+    bdrc-instance-id: W28967
+-  '':
+    bdrc-instance-id: W2CZ6655
+-  '':
+    bdrc-instance-id: W4PD2082
+-  '':
+    bdrc-instance-id: W1KG5926
+-  '':
+    bdrc-instance-id: W8LS42247
+-  '':
+    bdrc-instance-id: W3CN5399
+-  '':
+    bdrc-instance-id: W3JT13308
+-  '':
+    bdrc-instance-id: W4CZ57142
+-  '':
+    bdrc-instance-id: W8LS18646
+-  '':
+    bdrc-instance-id: W8621
+-  '':
+    bdrc-instance-id: W21503
+-  '':
+    bdrc-instance-id: W1KG9409
+-  '':
+    bdrc-instance-id: W1KG24277
+-  '':
+    bdrc-instance-id: W22186
+-  '':
+    bdrc-instance-id: W2PD20778
+-  '':
+    bdrc-instance-id: W3CN3377
+-  '':
+    bdrc-instance-id: W1KG13113
+-  '':
+    bdrc-instance-id: W3PD398
+-  '':
+    bdrc-instance-id: W21982
+-  '':
+    bdrc-instance-id: W2CZ8008
+-  '':
+    bdrc-instance-id: W8LS26573
+-  '':
+    bdrc-instance-id: W8LS32707
+-  '':
+    bdrc-instance-id: W4CZ294435
+-  '':
+    bdrc-instance-id: W1NLM836
+-  '':
+    bdrc-instance-id: W30038
+-  '':
+    bdrc-instance-id: W1KG21887
+-  '':
+    bdrc-instance-id: W1PD133159
+-  '':
+    bdrc-instance-id: W24168
+-  '':
+    bdrc-instance-id: W8LS25389
+-  '':
+    bdrc-instance-id: W21782
+-  '':
+    bdrc-instance-id: W1KG6050
+-  '':
+    bdrc-instance-id: W4CZ302687
+-  '':
+    bdrc-instance-id: W25111
+-  '':
+    bdrc-instance-id: W1KG4324
+-  '':
+    bdrc-instance-id: W1NLM889
+-  '':
+    bdrc-instance-id: W8LS17566
+-  '':
+    bdrc-instance-id: W1KG5129
+-  '':
+    bdrc-instance-id: W8LS18547
+-  '':
+    bdrc-instance-id: W4CZ302686
+-  '':
+    bdrc-instance-id: W8LS43889
+-  '':
+    bdrc-instance-id: W8LS43977
+-  '':
+    bdrc-instance-id: W1KG4777
+-  '':
+    bdrc-instance-id: W1EE68
+-  '':
+    bdrc-instance-id: W2EE5
+-  '':
+    bdrc-instance-id: W2EE7
+-  '':
+    bdrc-instance-id: W3MS499
+-  '':
+    bdrc-instance-id: W3MS502
+-  '':
+    bdrc-instance-id: W21655
+-  '':
+    bdrc-instance-id: W3CN2818
+-  '':
+    bdrc-instance-id: W986
+-  '':
+    bdrc-instance-id: W1KG18139
+-  '':
+    bdrc-instance-id: W1KG15058
+-  '':
+    bdrc-instance-id: W1KG15059
+-  '':
+    bdrc-instance-id: W1KG15060
+-  '':
+    bdrc-instance-id: W1KG15061
+-  '':
+    bdrc-instance-id: W5329
+-  '':
+    bdrc-instance-id: W8LS44169
+-  '':
+    bdrc-instance-id: W8LS31966
+-  '':
+    bdrc-instance-id: W2CZ7845
+-  '':
+    bdrc-instance-id: W8LS66762
+-  '':
+    bdrc-instance-id: W3CN17304
+-  '':
+    bdrc-instance-id: W22010
+-  '':
+    bdrc-instance-id: W3CN4648
+-  '':
+    bdrc-instance-id: W25156
+-  '':
+    bdrc-instance-id: W1PD96997
+-  '':
+    bdrc-instance-id: W3CN6712
+-  '':
+    bdrc-instance-id: W3CN4970
+-  '':
+    bdrc-instance-id: W1KG1626
+-  '':
+    bdrc-instance-id: W1NLM768
+-  '':
+    bdrc-instance-id: W23654
+-  '':
+    bdrc-instance-id: W3CN17859
+-  '':
+    bdrc-instance-id: W23790
+-  '':
+    bdrc-instance-id: W22927
+-  '':
+    bdrc-instance-id: W1KG14730
+-  '':
+    bdrc-instance-id: W294
+-  '':
+    bdrc-instance-id: W2KG208156
+-  '':
+    bdrc-instance-id: W2CZ5990
+-  '':
+    bdrc-instance-id: W1PD107937
+-  '':
+    bdrc-instance-id: W27476
+-  '':
+    bdrc-instance-id: W1EE69
+-  '':
+    bdrc-instance-id: W8LS30377
+-  '':
+    bdrc-instance-id: W2PD17433
+-  '':
+    bdrc-instance-id: W3CN2890
+-  '':
+    bdrc-instance-id: W1KG4884
+-  '':
+    bdrc-instance-id: W1KG3166
+-  '':
+    bdrc-instance-id: W8LS16567
+-  '':
+    bdrc-instance-id: W4CZ346650
+-  '':
+    bdrc-instance-id: W10234
+-  '':
+    bdrc-instance-id: W3CN2634
+-  '':
+    bdrc-instance-id: W4PD2079
+-  '':
+    bdrc-instance-id: W3CN17345
+-  '':
+    bdrc-instance-id: W3CN15689
+-  '':
+    bdrc-instance-id: W6489
+-  '':
+    bdrc-instance-id: W1KG3712
+-  '':
+    bdrc-instance-id: W2KG208144
+-  '':
+    bdrc-instance-id: W1KG1658
+-  '':
+    bdrc-instance-id: W2KG209067
+-  '':
+    bdrc-instance-id: W30092
+-  '':
+    bdrc-instance-id: W1KG14597
+-  '':
+    bdrc-instance-id: W1KG24221
+-  '':
+    bdrc-instance-id: W1PD45157
+-  '':
+    bdrc-instance-id: W3CN14268
+-  '':
+    bdrc-instance-id: W27933
+-  '':
+    bdrc-instance-id: W1PD89340
+-  '':
+    bdrc-instance-id: W1KG4326
+-  '':
+    bdrc-instance-id: W1PD97741
+-  '':
+    bdrc-instance-id: W22068
+-  '':
+    bdrc-instance-id: W1NLM790
+-  '':
+    bdrc-instance-id: W1NLM791
+-  '':
+    bdrc-instance-id: W1NLM789
+-  '':
+    bdrc-instance-id: W3CN14277
+-  '':
+    bdrc-instance-id: W1CZ1000
+-  '':
+    bdrc-instance-id: W1KG13760
+-  '':
+    bdrc-instance-id: W1KG15903
+-  '':
+    bdrc-instance-id: W1KG9561
+-  '':
+    bdrc-instance-id: W8LS32730
+-  '':
+    bdrc-instance-id: W2PD17543
+-  '':
+    bdrc-instance-id: W4CZ294923
+-  '':
+    bdrc-instance-id: W8LS19090
+-  '':
+    bdrc-instance-id: W2872
+-  '':
+    bdrc-instance-id: W4CZ1
+-  '':
+    bdrc-instance-id: W4CZ307376
+-  '':
+    bdrc-instance-id: W3CN4699
+-  '':
+    bdrc-instance-id: W4CZ302701
+-  '':
+    bdrc-instance-id: W8LS19111
+-  '':
+    bdrc-instance-id: W1KG18416
+-  '':
+    bdrc-instance-id: W23216
+-  '':
+    bdrc-instance-id: W389
+-  '':
+    bdrc-instance-id: W1KG5171
+-  '':
+    bdrc-instance-id: W8LS67160
+-  '':
+    bdrc-instance-id: W1KG13992
+-  '':
+    bdrc-instance-id: W26678
+-  '':
+    bdrc-instance-id: W8LS18676
+-  '':
+    bdrc-instance-id: W8LS18943
+-  '':
+    bdrc-instance-id: W28885
+-  '':
+    bdrc-instance-id: W8LS66815
+-  '':
+    bdrc-instance-id: W3JT13306
+-  '':
+    bdrc-instance-id: W24054
+-  '':
+    bdrc-instance-id: W1PD137825
+-  '':
+    bdrc-instance-id: W7956
+-  '':
+    bdrc-instance-id: W4CZ20868
+-  '':
+    bdrc-instance-id: W4CZ42596
+-  '':
+    bdrc-instance-id: W4CZ1101
+-  '':
+    bdrc-instance-id: W8LS26145
+-  '':
+    bdrc-instance-id: W24766
+-  '':
+    bdrc-instance-id: W3CN6495
+-  '':
+    bdrc-instance-id: W7735
+-  '':
+    bdrc-instance-id: W8LS26600
+-  '':
+    bdrc-instance-id: W26437
+-  '':
+    bdrc-instance-id: W4CZ294149
+-  '':
+    bdrc-instance-id: W4CZ302674
+-  '':
+    bdrc-instance-id: W20092
+-  '':
+    bdrc-instance-id: W20102
+-  '':
+    bdrc-instance-id: W4CZ295077
+-  '':
+    bdrc-instance-id: W1KG10872
+-  '':
+    bdrc-instance-id: W1KG9588
+-  '':
+    bdrc-instance-id: W3PD434
+-  '':
+    bdrc-instance-id: W1KG13016
+-  '':
+    bdrc-instance-id: W22247
+-  '':
+    bdrc-instance-id: W4CZ328534
+-  '':
+    bdrc-instance-id: W4CZ307766
+-  '':
+    bdrc-instance-id: W21841
+-  '':
+    bdrc-instance-id: W1NLM717
+-  '':
+    bdrc-instance-id: W12434
+-  '':
+    bdrc-instance-id: W2CZ6024
+-  '':
+    bdrc-instance-id: W7551
+-  '':
+    bdrc-instance-id: W1KG9323
+-  '':
+    bdrc-instance-id: W21925
+-  '':
+    bdrc-instance-id: W00KG09753
+-  '':
+    bdrc-instance-id: W4CZ295067
+-  '':
+    bdrc-instance-id: W4CZ294732
+-  '':
+    bdrc-instance-id: W24672
+-  '':
+    bdrc-instance-id: W3CN8194
+-  '':
+    bdrc-instance-id: W1KG24466
+-  '':
+    bdrc-instance-id: W1KG25080
+-  '':
+    bdrc-instance-id: W9668
+-  '':
+    bdrc-instance-id: W8LS20426
+-  '':
+    bdrc-instance-id: W29251
+-  '':
+    bdrc-instance-id: W3JT13535
+-  '':
+    bdrc-instance-id: W6466
+-  '':
+    bdrc-instance-id: W4CZ58844
+-  '':
+    bdrc-instance-id: W1KG12951
+-  '':
+    bdrc-instance-id: W1NLM291
+-  '':
+    bdrc-instance-id: W8145
+-  '':
+    bdrc-instance-id: W8LS17143
+-  '':
+    bdrc-instance-id: W4CZ301728
+-  '':
+    bdrc-instance-id: W2KG209126
+-  '':
+    bdrc-instance-id: W861
+-  '':
+    bdrc-instance-id: W4CZ57601
+-  '':
+    bdrc-instance-id: W8LS32560
+-  '':
+    bdrc-instance-id: W2CZ8096
+-  '':
+    bdrc-instance-id: W20482
+-  '':
+    bdrc-instance-id: W8LS25581
+-  '':
+    bdrc-instance-id: W22351
+-  '':
+    bdrc-instance-id: W1KG22264
+-  '':
+    bdrc-instance-id: W1KG22442
+-  '':
+    bdrc-instance-id: W28942
+-  '':
+    bdrc-instance-id: W8455
+-  '':
+    bdrc-instance-id: W21208
+-  '':
+    bdrc-instance-id: W4CZ45311
+-  '':
+    bdrc-instance-id: W23727
+-  '':
+    bdrc-instance-id: W2DB35563
+-  '':
+    bdrc-instance-id: W2DB4565
+-  '':
+    bdrc-instance-id: W1PD83972
+-  '':
+    bdrc-instance-id: W20539
+-  '':
+    bdrc-instance-id: W8LS20600
+-  '':
+    bdrc-instance-id: W8LS26173
+-  '':
+    bdrc-instance-id: W1KG15883
+-  '':
+    bdrc-instance-id: W1NLM964
+-  '':
+    bdrc-instance-id: W1KG2783
+-  '':
+    bdrc-instance-id: W21762
+-  '':
+    bdrc-instance-id: W3CN3434
+-  '':
+    bdrc-instance-id: W3CN12069
+-  '':
+    bdrc-instance-id: W4CZ301923
+-  '':
+    bdrc-instance-id: W4CZ301924
+-  '':
+    bdrc-instance-id: W3CN12075
+-  '':
+    bdrc-instance-id: W4CZ45232
+-  '':
+    bdrc-instance-id: W27311
+-  '':
+    bdrc-instance-id: W4CZ65569
+-  '':
+    bdrc-instance-id: W3CN7024
+-  '':
+    bdrc-instance-id: W1CZ1887
+-  '':
+    bdrc-instance-id: W1NLM96
+-  '':
+    bdrc-instance-id: W1NLM953
+-  '':
+    bdrc-instance-id: W3CN700
+-  '':
+    bdrc-instance-id: W27918
+-  '':
+    bdrc-instance-id: W8LS26582
+-  '':
+    bdrc-instance-id: W20081
+-  '':
+    bdrc-instance-id: W4CZ47209
+-  '':
+    bdrc-instance-id: W8LS66803
+-  '':
+    bdrc-instance-id: W4CZ45234
+-  '':
+    bdrc-instance-id: W2CZ7842
+-  '':
+    bdrc-instance-id: W1KG16726
+-  '':
+    bdrc-instance-id: W2CZ8044
+-  '':
+    bdrc-instance-id: W26445
+-  '':
+    bdrc-instance-id: W2KG208133
+-  '':
+    bdrc-instance-id: W2KG209056
+-  '':
+    bdrc-instance-id: W22086
+-  '':
+    bdrc-instance-id: W1KG17603
+-  '':
+    bdrc-instance-id: W1KG20636
+-  '':
+    bdrc-instance-id: W1NLM57
+-  '':
+    bdrc-instance-id: W1NLM72
+-  '':
+    bdrc-instance-id: W1NLM52
+-  '':
+    bdrc-instance-id: W1NLM56
+-  '':
+    bdrc-instance-id: W1KG23571
+-  '':
+    bdrc-instance-id: W25583
+-  '':
+    bdrc-instance-id: W3CN17667
+-  '':
+    bdrc-instance-id: W3CN18525
+-  '':
+    bdrc-instance-id: W3CN21562
+-  '':
+    bdrc-instance-id: W8LS29389
+-  '':
+    bdrc-instance-id: W3CN6676
+-  '':
+    bdrc-instance-id: W1KG16556
+-  '':
+    bdrc-instance-id: W8LS20767
+-  '':
+    bdrc-instance-id: W8LS31194
+-  '':
+    bdrc-instance-id: W4CZ34261
+-  '':
+    bdrc-instance-id: W29481
+-  '':
+    bdrc-instance-id: W1KG21701
+-  '':
+    bdrc-instance-id: W4CZ20872
+-  '':
+    bdrc-instance-id: W4CZ302672
+-  '':
+    bdrc-instance-id: W8LS31155
+-  '':
+    bdrc-instance-id: W2KG208147
+-  '':
+    bdrc-instance-id: W8LS16969
+-  '':
+    bdrc-instance-id: W4996
+-  '':
+    bdrc-instance-id: W22920
+-  '':
+    bdrc-instance-id: W3PD433
+-  '':
+    bdrc-instance-id: W1KG22407
+-  '':
+    bdrc-instance-id: W1KG17114
+-  '':
+    bdrc-instance-id: W8LS18964
+-  '':
+    bdrc-instance-id: W1KG4599
+-  '':
+    bdrc-instance-id: W1KG21714
+-  '':
+    bdrc-instance-id: W8LS66488
+-  '':
+    bdrc-instance-id: W1KG23418
+-  '':
+    bdrc-instance-id: W8LS20692
+-  '':
+    bdrc-instance-id: W24829
+-  '':
+    bdrc-instance-id: W1PD45158
+-  '':
+    bdrc-instance-id: W21857
+-  '':
+    bdrc-instance-id: W5832
+-  '':
+    bdrc-instance-id: W3CN21545
+-  '':
+    bdrc-instance-id: W4CZ328558
+-  '':
+    bdrc-instance-id: W1PD45496
+-  '':
+    bdrc-instance-id: W1KG15902
+-  '':
+    bdrc-instance-id: W22106
+-  '':
+    bdrc-instance-id: W2PD19089
+-  '':
+    bdrc-instance-id: W8LS24717
+-  '':
+    bdrc-instance-id: W4CZ307392
+-  '':
+    bdrc-instance-id: W22933
+-  '':
+    bdrc-instance-id: W1KG8321
+-  '':
+    bdrc-instance-id: W1NLM648
+-  '':
+    bdrc-instance-id: W4CZ346635
+-  '':
+    bdrc-instance-id: W4CZ301820
+-  '':
+    bdrc-instance-id: W1KG4194
+-  '':
+    bdrc-instance-id: W3CN4786
+-  '':
+    bdrc-instance-id: W4CZ34105
+-  '':
+    bdrc-instance-id: W29514
+-  '':
+    bdrc-instance-id: W3JT13315
+-  '':
+    bdrc-instance-id: W23782
+-  '':
+    bdrc-instance-id: W3CN18500
+-  '':
+    bdrc-instance-id: W3CN2358
+-  '':
+    bdrc-instance-id: W3CN4076
+-  '':
+    bdrc-instance-id: W1PD152287
+-  '':
+    bdrc-instance-id: W3CN14342
+-  '':
+    bdrc-instance-id: W8LS23403
+-  '':
+    bdrc-instance-id: W20085
+-  '':
+    bdrc-instance-id: W22056
+-  '':
+    bdrc-instance-id: W3PD393
+-  '':
+    bdrc-instance-id: W1KG24647
+-  '':
+    bdrc-instance-id: W20534
+-  '':
+    bdrc-instance-id: W22334
+-  '':
+    bdrc-instance-id: W4CZ57614
+-  '':
+    bdrc-instance-id: W1KG3967
+-  '':
+    bdrc-instance-id: W7555
+-  '':
+    bdrc-instance-id: W1KG5397
+-  '':
+    bdrc-instance-id: W21620
+-  '':
+    bdrc-instance-id: W1KG6046
+-  '':
+    bdrc-instance-id: W3CN16260
+-  '':
+    bdrc-instance-id: W1PD86340
+-  '':
+    bdrc-instance-id: W2519
+-  '':
+    bdrc-instance-id: W1CZ1084
+-  '':
+    bdrc-instance-id: W1CZ895
+-  '':
+    bdrc-instance-id: W22037
+-  '':
+    bdrc-instance-id: W30184
+-  '':
+    bdrc-instance-id: W3CN3329
+-  '':
+    bdrc-instance-id: W2CZ7948
+-  '':
+    bdrc-instance-id: W8LS32579
+-  '':
+    bdrc-instance-id: W4CZ6902
+-  '':
+    bdrc-instance-id: W1NLM552
+-  '':
+    bdrc-instance-id: W1KG8901
+-  '':
+    bdrc-instance-id: W3PD359
+-  '':
+    bdrc-instance-id: W8027
+-  '':
+    bdrc-instance-id: W27313
+-  '':
+    bdrc-instance-id: W30101
+-  '':
+    bdrc-instance-id: W1KG11912
+-  '':
+    bdrc-instance-id: W23743
+-  '':
+    bdrc-instance-id: W1KG3644
+-  '':
+    bdrc-instance-id: W2PD17477
+-  '':
+    bdrc-instance-id: W3CN550
+-  '':
+    bdrc-instance-id: W7732
+-  '':
+    bdrc-instance-id: W1PD88983
+-  '':
+    bdrc-instance-id: W1NLM238
+-  '':
+    bdrc-instance-id: W2KG209036
+-  '':
+    bdrc-instance-id: W20519
+-  '':
+    bdrc-instance-id: W3PD227
+-  '':
+    bdrc-instance-id: W8LS18712
+-  '':
+    bdrc-instance-id: W8LS18892
+-  '':
+    bdrc-instance-id: W2PD17383
+-  '':
+    bdrc-instance-id: W3CN5189
+-  '':
+    bdrc-instance-id: W28951
+-  '':
+    bdrc-instance-id: W8LS15813
+-  '':
+    bdrc-instance-id: W8LS20591
+-  '':
+    bdrc-instance-id: W9683
+-  '':
+    bdrc-instance-id: W20222
+-  '':
+    bdrc-instance-id: W4CZ58522
+-  '':
+    bdrc-instance-id: W1PD159380
+-  '':
+    bdrc-instance-id: W1NLM355
+-  '':
+    bdrc-instance-id: W8LS16268
+-  '':
+    bdrc-instance-id: W1NLM198
+-  '':
+    bdrc-instance-id: W20511
+-  '':
+    bdrc-instance-id: W3PD444
+-  '':
+    bdrc-instance-id: W2PD17487
+-  '':
+    bdrc-instance-id: W30090
+-  '':
+    bdrc-instance-id: W3CN17364
+-  '':
+    bdrc-instance-id: W28809
+-  '':
+    bdrc-instance-id: W15651
+-  '':
+    bdrc-instance-id: W4CZ307775
+-  '':
+    bdrc-instance-id: W8LS22410
+-  '':
+    bdrc-instance-id: W1KG23564
+-  '':
+    bdrc-instance-id: W30389
+-  '':
+    bdrc-instance-id: W1KG24016
+-  '':
+    bdrc-instance-id: W22130
+-  '':
+    bdrc-instance-id: W1KG6116
+-  '':
+    bdrc-instance-id: W30279
+-  '':
+    bdrc-instance-id: W4CZ74532
+-  '':
+    bdrc-instance-id: W2KG208163
+-  '':
+    bdrc-instance-id: W23774
+-  '':
+    bdrc-instance-id: W1PD95698
+-  '':
+    bdrc-instance-id: W20578
+-  '':
+    bdrc-instance-id: W1PD96185
+-  '':
+    bdrc-instance-id: W8LS31885
+-  '':
+    bdrc-instance-id: W27887
+-  '':
+    bdrc-instance-id: W1AC407
+-  '':
+    bdrc-instance-id: W1NLM526
+-  '':
+    bdrc-instance-id: W4CZ78
+-  '':
+    bdrc-instance-id: W8LS31182
+-  '':
+    bdrc-instance-id: W2PD19093
+-  '':
+    bdrc-instance-id: W8LS26129
+-  '':
+    bdrc-instance-id: W8LS22947
+-  '':
+    bdrc-instance-id: W8LS22950
+-  '':
+    bdrc-instance-id: W3CN21540
+-  '':
+    bdrc-instance-id: W3CN5396
+-  '':
+    bdrc-instance-id: W8LS16744
+-  '':
+    bdrc-instance-id: W3CN7744
+-  '':
+    bdrc-instance-id: W1KG18135
+-  '':
+    bdrc-instance-id: W3CN15673
+-  '':
+    bdrc-instance-id: W8LS20519
+-  '':
+    bdrc-instance-id: W22318
+-  '':
+    bdrc-instance-id: W2CZ7697
+-  '':
+    bdrc-instance-id: W3CN17912
+-  '':
+    bdrc-instance-id: W4CZ1038
+-  '':
+    bdrc-instance-id: W4CZ302233
+-  '':
+    bdrc-instance-id: W1PD153537
+-  '':
+    bdrc-instance-id: W4PD3075
+-  '':
+    bdrc-instance-id: W1KG4304
+-  '':
+    bdrc-instance-id: W1KG9407
+-  '':
+    bdrc-instance-id: W1NLM841
+-  '':
+    bdrc-instance-id: W4CZ30835
+-  '':
+    bdrc-instance-id: W8LS67196
+-  '':
+    bdrc-instance-id: W1GS103597
+-  '':
+    bdrc-instance-id: W3CN3018
+-  '':
+    bdrc-instance-id: W4CZ302662
+-  '':
+    bdrc-instance-id: W1KG16655
+-  '':
+    bdrc-instance-id: W4CZ74553
+-  '':
+    bdrc-instance-id: W3CN6335
+-  '':
+    bdrc-instance-id: W1KG25015
+-  '':
+    bdrc-instance-id: W3CN9080
+-  '':
+    bdrc-instance-id: W29516
+-  '':
+    bdrc-instance-id: W2CZ7922
+-  '':
+    bdrc-instance-id: W87
+-  '':
+    bdrc-instance-id: W30278
+-  '':
+    bdrc-instance-id: W2CZ7918
+-  '':
+    bdrc-instance-id: W4CZ16920
+-  '':
+    bdrc-instance-id: W2KG208154
+-  '':
+    bdrc-instance-id: W1NLM654
+-  '':
+    bdrc-instance-id: W1KG89135
+-  '':
+    bdrc-instance-id: W1KG1252
+-  '':
+    bdrc-instance-id: W3MS21
+-  '':
+    bdrc-instance-id: W4CZ58511
+-  '':
+    bdrc-instance-id: W1KG22335
+-  '':
+    bdrc-instance-id: W2PD19092
+-  '':
+    bdrc-instance-id: W26447
+-  '':
+    bdrc-instance-id: W1NLM188
+-  '':
+    bdrc-instance-id: W22152
+-  '':
+    bdrc-instance-id: W1KG5194
+-  '':
+    bdrc-instance-id: W1EE73
+-  '':
+    bdrc-instance-id: W3CN5580
+-  '':
+    bdrc-instance-id: W22040
+-  '':
+    bdrc-instance-id: W4CZ1106
+-  '':
+    bdrc-instance-id: W1KG1659
+-  '':
+    bdrc-instance-id: W13852
+-  '':
+    bdrc-instance-id: W29199
+-  '':
+    bdrc-instance-id: W8LS67152
+-  '':
+    bdrc-instance-id: W2KG208433
+-  '':
+    bdrc-instance-id: W1PD108085
+-  '':
+    bdrc-instance-id: W3CN17866
+-  '':
+    bdrc-instance-id: W2DB4578
+-  '':
+    bdrc-instance-id: W8LS20513
+-  '':
+    bdrc-instance-id: W30483
+-  '':
+    bdrc-instance-id: W30490
+-  '':
+    bdrc-instance-id: W22033
+-  '':
+    bdrc-instance-id: W23605
+-  '':
+    bdrc-instance-id: W20877
+-  '':
+    bdrc-instance-id: W21811
+-  '':
+    bdrc-instance-id: W2KG208159
+-  '':
+    bdrc-instance-id: W3CN3394
+-  '':
+    bdrc-instance-id: W23877
+-  '':
+    bdrc-instance-id: W1KG15900
+-  '':
+    bdrc-instance-id: W1KG18323
+-  '':
+    bdrc-instance-id: W3JT13352
+-  '':
+    bdrc-instance-id: W3CN4807
+-  '':
+    bdrc-instance-id: W9810
+-  '':
+    bdrc-instance-id: W30171
+-  '':
+    bdrc-instance-id: W1KG16714
+-  '':
+    bdrc-instance-id: W1CZ886
+-  '':
+    bdrc-instance-id: W3CN15692
+-  '':
+    bdrc-instance-id: W3CN4810
+-  '':
+    bdrc-instance-id: W23776
+-  '':
+    bdrc-instance-id: W1NLM987
+-  '':
+    bdrc-instance-id: W22132
+-  '':
+    bdrc-instance-id: W1KG8805
+-  '':
+    bdrc-instance-id: W1KG9078
+-  '':
+    bdrc-instance-id: W4CZ354427
+-  '':
+    bdrc-instance-id: W8LS41880
+-  '':
+    bdrc-instance-id: W3CN17326
+-  '':
+    bdrc-instance-id: W28978
+-  '':
+    bdrc-instance-id: W3CN626
+-  '':
+    bdrc-instance-id: W1PD95787
+-  '':
+    bdrc-instance-id: W8LS31027
+-  '':
+    bdrc-instance-id: W4PD912
+-  '':
+    bdrc-instance-id: W8LS20421
+-  '':
+    bdrc-instance-id: W8LS67558
+-  '':
+    bdrc-instance-id: W3CN14357
+-  '':
+    bdrc-instance-id: W8LS67713
+-  '':
+    bdrc-instance-id: W8LS30988
+-  '':
+    bdrc-instance-id: W3CN4657
+-  '':
+    bdrc-instance-id: W1KG17152
+-  '':
+    bdrc-instance-id: W22051
+-  '':
+    bdrc-instance-id: W4CZ1018
+-  '':
+    bdrc-instance-id: W4PD1188
+-  '':
+    bdrc-instance-id: W22353
+-  '':
+    bdrc-instance-id: W2CZ7701
+-  '':
+    bdrc-instance-id: W3CN9762
+-  '':
+    bdrc-instance-id: W4CZ74198
+-  '':
+    bdrc-instance-id: W3JT13536
+-  '':
+    bdrc-instance-id: W8LS17253
+-  '':
+    bdrc-instance-id: W20848
+-  '':
+    bdrc-instance-id: W2DB4576
+-  '':
+    bdrc-instance-id: W4CZ30697
+-  '':
+    bdrc-instance-id: W1NLM682
+-  '':
+    bdrc-instance-id: W2CZ7909
+-  '':
+    bdrc-instance-id: W2KG208153
+-  '':
+    bdrc-instance-id: W20398
+-  '':
+    bdrc-instance-id: W8LS66371
+-  '':
+    bdrc-instance-id: W3CN9996
+-  '':
+    bdrc-instance-id: W3CN15728
+-  '':
+    bdrc-instance-id: W8LS18454
+-  '':
+    bdrc-instance-id: W3CN4275
+-  '':
+    bdrc-instance-id: W1NLM268
+-  '':
+    bdrc-instance-id: W1NLM679
+-  '':
+    bdrc-instance-id: W4CZ74520
+-  '':
+    bdrc-instance-id: W8284
+-  '':
+    bdrc-instance-id: W3CN21302
+-  '':
+    bdrc-instance-id: W25983
+-  '':
+    bdrc-instance-id: W8LS27883
+-  '':
+    bdrc-instance-id: W3CN10638
+-  '':
+    bdrc-instance-id: W3CN1604
+-  '':
+    bdrc-instance-id: W1KG9256
+-  '':
+    bdrc-instance-id: W23884
+-  '':
+    bdrc-instance-id: W4CZ301806
+-  '':
+    bdrc-instance-id: W4CZ57174
+-  '':
+    bdrc-instance-id: W8LS24656
+-  '':
+    bdrc-instance-id: W8LS18598
+-  '':
+    bdrc-instance-id: W21893
+-  '':
+    bdrc-instance-id: W1KG1823
+-  '':
+    bdrc-instance-id: W1KG18315
+-  '':
+    bdrc-instance-id: W22073
+-  '':
+    bdrc-instance-id: W2KG209079
+-  '':
+    bdrc-instance-id: W4CZ58530
+-  '':
+    bdrc-instance-id: W2CZ9150
+-  '':
+    bdrc-instance-id: W29688
+-  '':
+    bdrc-instance-id: W23176
+-  '':
+    bdrc-instance-id: W8LS26616
+-  '':
+    bdrc-instance-id: W19554
+-  '':
+    bdrc-instance-id: W1KG4464
+-  '':
+    bdrc-instance-id: W3CN18511
+-  '':
+    bdrc-instance-id: W2PD17475
+-  '':
+    bdrc-instance-id: W4CZ302349
+-  '':
+    bdrc-instance-id: W00KG01617
+-  '':
+    bdrc-instance-id: W3CN12692
+-  '':
+    bdrc-instance-id: W8LS26197
+-  '':
+    bdrc-instance-id: W4CZ307988
+-  '':
+    bdrc-instance-id: W3CN3397
+-  '':
+    bdrc-instance-id: W2PD20239
+-  '':
+    bdrc-instance-id: W2PD17479
+-  '':
+    bdrc-instance-id: W27218
+-  '':
+    bdrc-instance-id: W4PD2081
+-  '':
+    bdrc-instance-id: W23842
+-  '':
+    bdrc-instance-id: W1KG12112
+-  '':
+    bdrc-instance-id: W2CZ5622
+-  '':
+    bdrc-instance-id: W1NLM508
+-  '':
+    bdrc-instance-id: W2KG208169
+-  '':
+    bdrc-instance-id: W3JT13724
+-  '':
+    bdrc-instance-id: W2CZ8088
+-  '':
+    bdrc-instance-id: W20530
+-  '':
+    bdrc-instance-id: W1KG89148
+-  '':
+    bdrc-instance-id: W3CN7829
+-  '':
+    bdrc-instance-id: W8LS31186
+-  '':
+    bdrc-instance-id: W4CZ301822
+-  '':
+    bdrc-instance-id: W1KG25177
+-  '':
+    bdrc-instance-id: W4CZ1035
+-  '':
+    bdrc-instance-id: W4CZ307779
+-  '':
+    bdrc-instance-id: W8LS16410
+-  '':
+    bdrc-instance-id: W3PD394
+-  '':
+    bdrc-instance-id: W22271
+-  '':
+    bdrc-instance-id: W1KG21753
+-  '':
+    bdrc-instance-id: W8LS25398
+-  '':
+    bdrc-instance-id: W8LS32556
+-  '':
+    bdrc-instance-id: W918
+-  '':
+    bdrc-instance-id: W23640
+-  '':
+    bdrc-instance-id: W447
+-  '':
+    bdrc-instance-id: W8LS36358
+-  '':
+    bdrc-instance-id: W3JT13428
+-  '':
+    bdrc-instance-id: W4CZ321188
+-  '':
+    bdrc-instance-id: W8LS16714
+-  '':
+    bdrc-instance-id: W1KG18291
+-  '':
+    bdrc-instance-id: W3CN6931
+-  '':
+    bdrc-instance-id: W8LS19120
+-  '':
+    bdrc-instance-id: W4CZ74199
+-  '':
+    bdrc-instance-id: W26072
+-  '':
+    bdrc-instance-id: W4CZ302666
+-  '':
+    bdrc-instance-id: W23681
+-  '':
+    bdrc-instance-id: W8LS25587
+-  '':
+    bdrc-instance-id: W3CN5438
+-  '':
+    bdrc-instance-id: W3CN3402
+-  '':
+    bdrc-instance-id: W3CN4308
+-  '':
+    bdrc-instance-id: W3PD183
+-  '':
+    bdrc-instance-id: W3CN505
+-  '':
+    bdrc-instance-id: W1KG6002
+-  '':
+    bdrc-instance-id: W00KG04094
+-  '':
+    bdrc-instance-id: W28799
+-  '':
+    bdrc-instance-id: W21959
+-  '':
+    bdrc-instance-id: W8LS18541
+-  '':
+    bdrc-instance-id: W22433
+-  '':
+    bdrc-instance-id: W8LS36307
+-  '':
+    bdrc-instance-id: W26570
+-  '':
+    bdrc-instance-id: W1PD133162
+-  '':
+    bdrc-instance-id: W3CN5048
+-  '':
+    bdrc-instance-id: W8LS18685
+-  '':
+    bdrc-instance-id: W8LS67634
+-  '':
+    bdrc-instance-id: W8LS41741
+-  '':
+    bdrc-instance-id: W8LS66807
+-  '':
+    bdrc-instance-id: W20548
+-  '':
+    bdrc-instance-id: W4CZ57130
+-  '':
+    bdrc-instance-id: W6493
+-  '':
+    bdrc-instance-id: W8LS18649
+-  '':
+    bdrc-instance-id: W3JT13351
+-  '':
+    bdrc-instance-id: W8LS19171
+-  '':
+    bdrc-instance-id: W8LS31174
+-  '':
+    bdrc-instance-id: W21963
+-  '':
+    bdrc-instance-id: W1KG9772
+-  '':
+    bdrc-instance-id: W1KG21817
+-  '':
+    bdrc-instance-id: W8LS22458
+-  '':
+    bdrc-instance-id: W8LS20156
+-  '':
+    bdrc-instance-id: W2CZ7672
+-  '':
+    bdrc-instance-id: W2CZ8020
+-  '':
+    bdrc-instance-id: W4CZ294922
+-  '':
+    bdrc-instance-id: W9140
+-  '':
+    bdrc-instance-id: W8LS25578
+-  '':
+    bdrc-instance-id: W30191
+-  '':
+    bdrc-instance-id: W759
+-  '':
+    bdrc-instance-id: W4CZ295075
+-  '':
+    bdrc-instance-id: W30324
+-  '':
+    bdrc-instance-id: W8LS16425
+-  '':
+    bdrc-instance-id: W8LS20637
+-  '':
+    bdrc-instance-id: W3CN9756
+-  '':
+    bdrc-instance-id: W4PD3927
+-  '':
+    bdrc-instance-id: W2CZ5667
+-  '':
+    bdrc-instance-id: W3CZ1323
+-  '':
+    bdrc-instance-id: W30456
+-  '':
+    bdrc-instance-id: W8LS31179
+-  '':
+    bdrc-instance-id: W4CZ45268
+-  '':
+    bdrc-instance-id: W4CZ301726
+-  '':
+    bdrc-instance-id: W4CZ307425
+-  '':
+    bdrc-instance-id: W1NLM289
+-  '':
+    bdrc-instance-id: W1EE8
+-  '':
+    bdrc-instance-id: W27602
+-  '':
+    bdrc-instance-id: W8LS31140
+-  '':
+    bdrc-instance-id: W3CN7007
+-  '':
+    bdrc-instance-id: W30132
+-  '':
+    bdrc-instance-id: W28065
+-  '':
+    bdrc-instance-id: W1NLM902
+-  '':
+    bdrc-instance-id: W3CN6421
+-  '':
+    bdrc-instance-id: W8LS15966
+-  '':
+    bdrc-instance-id: W3CN9999
+-  '':
+    bdrc-instance-id: W2DB4592
+-  '':
+    bdrc-instance-id: W4CZ65547
+-  '':
+    bdrc-instance-id: W21554
+-  '':
+    bdrc-instance-id: W3JT13319
+-  '':
+    bdrc-instance-id: W30267
+-  '':
+    bdrc-instance-id: W1NLM16
+-  '':
+    bdrc-instance-id: W4CZ57165
+-  '':
+    bdrc-instance-id: W4CZ295081
+-  '':
+    bdrc-instance-id: W1KG8900
+-  '':
+    bdrc-instance-id: W1KG25231
+-  '':
+    bdrc-instance-id: W3CN4663
+-  '':
+    bdrc-instance-id: W8228
+-  '':
+    bdrc-instance-id: W3CN4882
+-  '':
+    bdrc-instance-id: W27494
+-  '':
+    bdrc-instance-id: W3CN2809
+-  '':
+    bdrc-instance-id: W4CZ58520
+-  '':
+    bdrc-instance-id: W1KG21957
+-  '':
+    bdrc-instance-id: W8LS19652
+-  '':
+    bdrc-instance-id: W4CZ307977
+-  '':
+    bdrc-instance-id: W1KG12787
+-  '':
+    bdrc-instance-id: W1PD90416
+-  '':
+    bdrc-instance-id: W4CZ74204
+-  '':
+    bdrc-instance-id: W28990
+-  '':
+    bdrc-instance-id: W1KG25849
+-  '':
+    bdrc-instance-id: W3JT13325
+-  '':
+    bdrc-instance-id: W3JT13354
+-  '':
+    bdrc-instance-id: W3CN9061
+-  '':
+    bdrc-instance-id: W4CZ24514
+-  '':
+    bdrc-instance-id: W21968
+-  '':
+    bdrc-instance-id: W2CZ8076
+-  '':
+    bdrc-instance-id: W4CZ321186
+-  '':
+    bdrc-instance-id: W20464
+-  '':
+    bdrc-instance-id: W1KG20707
+-  '':
+    bdrc-instance-id: W23864
+-  '':
+    bdrc-instance-id: W4CZ333395
+-  '':
+    bdrc-instance-id: W1KG24762
+-  '':
+    bdrc-instance-id: W1KG8584
+-  '':
+    bdrc-instance-id: W23757
+-  '':
+    bdrc-instance-id: W3CN5552
+-  '':
+    bdrc-instance-id: W8LS29335
+-  '':
+    bdrc-instance-id: W3087
+-  '':
+    bdrc-instance-id: W23719
+-  '':
+    bdrc-instance-id: W6799
+-  '':
+    bdrc-instance-id: W8LS19036
+-  '':
+    bdrc-instance-id: W1NLM333
+-  '':
+    bdrc-instance-id: W3CN10778
+-  '':
+    bdrc-instance-id: W1KG4428
+-  '':
+    bdrc-instance-id: W4PD5018
+-  '':
+    bdrc-instance-id: W8LS17023
+-  '':
+    bdrc-instance-id: W1KG25728
+-  '':
+    bdrc-instance-id: W21757
+-  '':
+    bdrc-instance-id: W1NLM820
+-  '':
+    bdrc-instance-id: W1NLM849
+-  '':
+    bdrc-instance-id: W1KG10870
+-  '':
+    bdrc-instance-id: W1KG25350
+-  '':
+    bdrc-instance-id: W1KG12153
+-  '':
+    bdrc-instance-id: W1NLM443
+-  '':
+    bdrc-instance-id: W8LS19849
+-  '':
+    bdrc-instance-id: W8LS16377
+-  '':
+    bdrc-instance-id: W11249
+-  '':
+    bdrc-instance-id: W21715
+-  '':
+    bdrc-instance-id: W1KG15604
+-  '':
+    bdrc-instance-id: W8LS20114
+-  '':
+    bdrc-instance-id: W4CZ295763
+-  '':
+    bdrc-instance-id: W1KG1756
+-  '':
+    bdrc-instance-id: W1KG9580
+-  '':
+    bdrc-instance-id: W1KG16155
+-  '':
+    bdrc-instance-id: W1KG10279
+-  '':
+    bdrc-instance-id: W3CN3440
+-  '':
+    bdrc-instance-id: W8LS19553
+-  '':
+    bdrc-instance-id: W22065
+-  '':
+    bdrc-instance-id: W1KG13697
+-  '':
+    bdrc-instance-id: W00EGS1017325
+-  '':
+    bdrc-instance-id: W1KG4616
+-  '':
+    bdrc-instance-id: W19884
+-  '':
+    bdrc-instance-id: W16837
+-  '':
+    bdrc-instance-id: W8LS36507
+-  '':
+    bdrc-instance-id: W1KG21596
+-  '':
+    bdrc-instance-id: W1PD45495
+-  '':
+    bdrc-instance-id: W8LS19936
+-  '':
+    bdrc-instance-id: W8LS19401
+-  '':
+    bdrc-instance-id: W8LS31192
+-  '':
+    bdrc-instance-id: W8LS36359
+-  '':
+    bdrc-instance-id: W12422
+-  '':
+    bdrc-instance-id: W1KG8916
+-  '':
+    bdrc-instance-id: W8LS19816
+-  '':
+    bdrc-instance-id: W4CZ302352
+-  '':
+    bdrc-instance-id: W1PD83964
+-  '':
+    bdrc-instance-id: W8LS31868
+-  '':
+    bdrc-instance-id: W21902
+-  '':
+    bdrc-instance-id: W1KG16712
+-  '':
+    bdrc-instance-id: W00KG03789
+-  '':
+    bdrc-instance-id: W1KG12287
+-  '':
+    bdrc-instance-id: W1KG89134
+-  '':
+    bdrc-instance-id: W1KG1253
+-  '':
+    bdrc-instance-id: W2DB4622
+-  '':
+    bdrc-instance-id: W1KG14506
+-  '':
+    bdrc-instance-id: W1NLM561
+-  '':
+    bdrc-instance-id: W1KG14742
+-  '':
+    bdrc-instance-id: W1KG12668
+-  '':
+    bdrc-instance-id: W1KG14739
+-  '':
+    bdrc-instance-id: W1CZ1292
+-  '':
+    bdrc-instance-id: W8LS31424
+-  '':
+    bdrc-instance-id: W2CZ10141
+-  '':
+    bdrc-instance-id: W1KG23131
+-  '':
+    bdrc-instance-id: W1KG11803
+-  '':
+    bdrc-instance-id: W1NLM138
+-  '':
+    bdrc-instance-id: W1KG24247
+-  '':
+    bdrc-instance-id: W1EE1
+-  '':
+    bdrc-instance-id: W20087
+-  '':
+    bdrc-instance-id: W7972
+-  '':
+    bdrc-instance-id: W19811
+-  '':
+    bdrc-instance-id: W4CZ294155
+-  '':
+    bdrc-instance-id: W26001
+-  '':
+    bdrc-instance-id: W1NLM59
+-  '':
+    bdrc-instance-id: W29901
+-  '':
+    bdrc-instance-id: W1KG14509
+-  '':
+    bdrc-instance-id: W21504
+-  '':
+    bdrc-instance-id: W1KG21601
+-  '':
+    bdrc-instance-id: W1NLM514
+-  '':
+    bdrc-instance-id: W1KG22637
+-  '':
+    bdrc-instance-id: W29634
+-  '':
+    bdrc-instance-id: W1AC19
+-  '':
+    bdrc-instance-id: W1KG20928
+-  '':
+    bdrc-instance-id: W4CZ302700
+-  '':
+    bdrc-instance-id: W18978
+-  '':
+    bdrc-instance-id: W1KG9800
+-  '':
+    bdrc-instance-id: W3CN12205
+-  '':
+    bdrc-instance-id: W00KG02861
+-  '':
+    bdrc-instance-id: W00KG01622
+-  '':
+    bdrc-instance-id: W23918
+-  '':
+    bdrc-instance-id: W8LS19996
+-  '':
+    bdrc-instance-id: W1KG12714
+-  '':
+    bdrc-instance-id: W29620
+-  '':
+    bdrc-instance-id: W1KG3716
+-  '':
+    bdrc-instance-id: W1KG8824
+-  '':
+    bdrc-instance-id: W3CN4273
+-  '':
+    bdrc-instance-id: W1CZ1987
+-  '':
+    bdrc-instance-id: W8LS19721
+-  '':
+    bdrc-instance-id: W4CZ4826
+-  '':
+    bdrc-instance-id: W1NLM651
+-  '':
+    bdrc-instance-id: W1CZ688
+-  '':
+    bdrc-instance-id: W1NLM546
+-  '':
+    bdrc-instance-id: W4PD5185
+-  '':
+    bdrc-instance-id: W1KG8725
+-  '':
+    bdrc-instance-id: W8LS31021
+-  '':
+    bdrc-instance-id: W1GS11
+-  '':
+    bdrc-instance-id: W1KG12158
+-  '':
+    bdrc-instance-id: W1CZ1130
+-  '':
+    bdrc-instance-id: W1PD88977
+-  '':
+    bdrc-instance-id: W23659
+-  '':
+    bdrc-instance-id: W1NLM397
+-  '':
+    bdrc-instance-id: W1GS54155
+-  '':
+    bdrc-instance-id: W19990
+-  '':
+    bdrc-instance-id: W2DB25433
+-  '':
+    bdrc-instance-id: W1KG14740
+-  '':
+    bdrc-instance-id: W1KG2834
+-  '':
+    bdrc-instance-id: W1NLM118
+-  '':
+    bdrc-instance-id: W1CZ1858
+-  '':
+    bdrc-instance-id: W10954
+-  '':
+    bdrc-instance-id: W22148
+-  '':
+    bdrc-instance-id: W1KG24469
+-  '':
+    bdrc-instance-id: W8LS22890
+-  '':
+    bdrc-instance-id: W8LS16262
+-  '':
+    bdrc-instance-id: W3CN1545
+-  '':
+    bdrc-instance-id: W3CN508
+-  '':
+    bdrc-instance-id: W4CZ301827
+-  '':
+    bdrc-instance-id: W1KG3396
+-  '':
+    bdrc-instance-id: W8LS29374
+-  '':
+    bdrc-instance-id: W1KG16570
+-  '':
+    bdrc-instance-id: W1KG25222
+-  '':
+    bdrc-instance-id: W1KG3231
+-  '':
+    bdrc-instance-id: W1KG13617
+-  '':
+    bdrc-instance-id: W3CN1694
+-  '':
+    bdrc-instance-id: W3PD384
+-  '':
+    bdrc-instance-id: W1KG6162
+-  '':
+    bdrc-instance-id: W23220
+-  '':
+    bdrc-instance-id: W1AC9
+-  '':
+    bdrc-instance-id: W4CZ301723
+-  '':
+    bdrc-instance-id: W1KG24477
+-  '':
+    bdrc-instance-id: W23196
+-  '':
+    bdrc-instance-id: W1KG3816
+-  '':
+    bdrc-instance-id: W1KG21089
+-  '':
+    bdrc-instance-id: W1KG10141
+-  '':
+    bdrc-instance-id: W4CZ302331
+-  '':
+    bdrc-instance-id: W1KG17432
+-  '':
+    bdrc-instance-id: W4CZ302335
+-  '':
+    bdrc-instance-id: W8LS31335
+-  '':
+    bdrc-instance-id: W4CZ74356
+-  '':
+    bdrc-instance-id: W1CZ1008
+-  '':
+    bdrc-instance-id: W4CZ302347
+-  '':
+    bdrc-instance-id: W1PD177852
+-  '':
+    bdrc-instance-id: W8LS19837
+-  '':
+    bdrc-instance-id: W00EGS1016952
+-  '':
+    bdrc-instance-id: W19643
+-  '':
+    bdrc-instance-id: W19618
+-  '':
+    bdrc-instance-id: W1KG22944
+-  '':
+    bdrc-instance-id: W1KG22571
+-  '':
+    bdrc-instance-id: W1KG4242
+-  '':
+    bdrc-instance-id: W4CZ1044
+-  '':
+    bdrc-instance-id: W1KG15936
+-  '':
+    bdrc-instance-id: W1KG24650
+-  '':
+    bdrc-instance-id: W20510
+-  '':
+    bdrc-instance-id: W1KG22240
+-  '':
+    bdrc-instance-id: W8LS66529
+-  '':
+    bdrc-instance-id: W1KG4469
+-  '':
+    bdrc-instance-id: W1NLM234
+-  '':
+    bdrc-instance-id: W1CZ1011
+-  '':
+    bdrc-instance-id: W4CZ57645
+-  '':
+    bdrc-instance-id: W8LS31535
+-  '':
+    bdrc-instance-id: W1NLM177
+-  '':
+    bdrc-instance-id: W1KG5151
+-  '':
+    bdrc-instance-id: W1EE24
+-  '':
+    bdrc-instance-id: W00EGS1017352
+-  '':
+    bdrc-instance-id: W3CN1873
+-  '':
+    bdrc-instance-id: W3JT13623
+-  '':
+    bdrc-instance-id: W1971
+-  '':
+    bdrc-instance-id: W1KG14961
+-  '':
+    bdrc-instance-id: W22325
+-  '':
+    bdrc-instance-id: W1KG17191
+-  '':
+    bdrc-instance-id: W1AC207
+-  '':
+    bdrc-instance-id: W3CN6715
+-  '':
+    bdrc-instance-id: W00EGS1017357
+-  '':
+    bdrc-instance-id: W1KG9858
+-  '':
+    bdrc-instance-id: W1CZ1857
+-  '':
+    bdrc-instance-id: W1KG12986
+-  '':
+    bdrc-instance-id: W1KG3866
+-  '':
+    bdrc-instance-id: W3CN1726
+-  '':
+    bdrc-instance-id: W8LS17072
+-  '':
+    bdrc-instance-id: W1NLM587
+-  '':
+    bdrc-instance-id: W1KG11946
+-  '':
+    bdrc-instance-id: W1KG12958
+-  '':
+    bdrc-instance-id: W1PD137803
+-  '':
+    bdrc-instance-id: W1CZ888
+-  '':
+    bdrc-instance-id: W4CZ45219
+-  '':
+    bdrc-instance-id: W2CZ8012
+-  '':
+    bdrc-instance-id: W6469
+-  '':
+    bdrc-instance-id: W00EGS1017633
+-  '':
+    bdrc-instance-id: W17276
+-  '':
+    bdrc-instance-id: W1KG16566
+-  '':
+    bdrc-instance-id: W1KG21818
+-  '':
+    bdrc-instance-id: W1NLM157
+-  '':
+    bdrc-instance-id: W3CN4669
+-  '':
+    bdrc-instance-id: W00EGS1017328
+-  '':
+    bdrc-instance-id: W15964
+-  '':
+    bdrc-instance-id: W1AC52
+-  '':
+    bdrc-instance-id: W29517
+-  '':
+    bdrc-instance-id: W1AC228
+-  '':
+    bdrc-instance-id: W1KG25336
+-  '':
+    bdrc-instance-id: W17320
+-  '':
+    bdrc-instance-id: W21690
+-  '':
+    bdrc-instance-id: W22250
+-  '':
+    bdrc-instance-id: W1KG18188
+-  '':
+    bdrc-instance-id: W1KG25307
+-  '':
+    bdrc-instance-id: W1KG12952
+-  '':
+    bdrc-instance-id: W1KG1869
+-  '':
+    bdrc-instance-id: W1CZ855
+-  '':
+    bdrc-instance-id: W1KG3172
+-  '':
+    bdrc-instance-id: W00KG04062
+-  '':
+    bdrc-instance-id: W1KG24019
+-  '':
+    bdrc-instance-id: W1KG1321
+-  '':
+    bdrc-instance-id: W1NLM166
+-  '':
+    bdrc-instance-id: W3CN14330
+-  '':
+    bdrc-instance-id: W1KG20930
+-  '':
+    bdrc-instance-id: W00KG03791
+-  '':
+    bdrc-instance-id: W1KG17585
+-  '':
+    bdrc-instance-id: W8LS22929
+-  '':
+    bdrc-instance-id: W1CZ3868
+-  '':
+    bdrc-instance-id: W1KG89109
+-  '':
+    bdrc-instance-id: W1AC314
+-  '':
+    bdrc-instance-id: W2PD9561
+-  '':
+    bdrc-instance-id: W2DB13636
+-  '':
+    bdrc-instance-id: W8LS32604
+-  '':
+    bdrc-instance-id: W1KG14732
+-  '':
+    bdrc-instance-id: W1PD127348
+-  '':
+    bdrc-instance-id: W1KG2788
+-  '':
+    bdrc-instance-id: W23151
+-  '':
+    bdrc-instance-id: W2124
+-  '':
+    bdrc-instance-id: W4CZ74208
+-  '':
+    bdrc-instance-id: W4CZ74214
+-  '':
+    bdrc-instance-id: W21506
+-  '':
+    bdrc-instance-id: W8LS15887
+-  '':
+    bdrc-instance-id: W24075
+-  '':
+    bdrc-instance-id: W1EE17
+-  '':
+    bdrc-instance-id: W8LS22920
+-  '':
+    bdrc-instance-id: W1CZ2513
+-  '':
+    bdrc-instance-id: W4CZ315274
+-  '':
+    bdrc-instance-id: W1KG12624
+-  '':
+    bdrc-instance-id: W27736
+-  '':
+    bdrc-instance-id: W10431
+-  '':
+    bdrc-instance-id: W29627
+-  '':
+    bdrc-instance-id: W3JT13336
+-  '':
+    bdrc-instance-id: W00EGS1016703
+-  '':
+    bdrc-instance-id: W27267
+-  '':
+    bdrc-instance-id: W4CZ1108
+-  '':
+    bdrc-instance-id: W27266
+-  '':
+    bdrc-instance-id: W22349
+-  '':
+    bdrc-instance-id: W1KG11753
+-  '':
+    bdrc-instance-id: W15222
+-  '':
+    bdrc-instance-id: W1KG1611
+-  '':
+    bdrc-instance-id: W1KG11756
+-  '':
+    bdrc-instance-id: W8LS66415
+-  '':
+    bdrc-instance-id: W1NLM484
+-  '':
+    bdrc-instance-id: W00KG015
+-  '':
+    bdrc-instance-id: W00KG09700
+-  '':
+    bdrc-instance-id: W1PD90154
+-  '':
+    bdrc-instance-id: W1GS60383
+-  '':
+    bdrc-instance-id: W1KG3397
+-  '':
+    bdrc-instance-id: W3CN5402
+-  '':
+    bdrc-instance-id: W20202
+-  '':
+    bdrc-instance-id: W15749
+-  '':
+    bdrc-instance-id: W1KG23482
+-  '':
+    bdrc-instance-id: W20576
+-  '':
+    bdrc-instance-id: W2PD17092
+-  '':
+    bdrc-instance-id: W23179
+-  '':
+    bdrc-instance-id: W1KG587
+-  '':
+    bdrc-instance-id: W2PD19198
+-  '':
+    bdrc-instance-id: W8LS17272
+-  '':
+    bdrc-instance-id: W22468
+-  '':
+    bdrc-instance-id: W24519
+-  '':
+    bdrc-instance-id: W8LS32577
+-  '':
+    bdrc-instance-id: W1PD159527
+-  '':
+    bdrc-instance-id: W2CZ7915
+-  '':
+    bdrc-instance-id: W1KG581
+-  '':
+    bdrc-instance-id: W2PD19191
+-  '':
+    bdrc-instance-id: W1NLM179
+-  '':
+    bdrc-instance-id: W23430
+-  '':
+    bdrc-instance-id: W22321
+-  '':
+    bdrc-instance-id: W8LS31984
+-  '':
+    bdrc-instance-id: W23423
+-  '':
+    bdrc-instance-id: W19684
+-  '':
+    bdrc-instance-id: W23661
+-  '':
+    bdrc-instance-id: W2CZ8074
+-  '':
+    bdrc-instance-id: W1KG3708
+-  '':
+    bdrc-instance-id: W1CZ2742
+-  '':
+    bdrc-instance-id: W00KG01631
+-  '':
+    bdrc-instance-id: W8LS20159
+-  '':
+    bdrc-instance-id: W1NLM270
+-  '':
+    bdrc-instance-id: W1KG20990
+-  '':
+    bdrc-instance-id: W3CN7614
+-  '':
+    bdrc-instance-id: W00EGS1016213
+-  '':
+    bdrc-instance-id: W23259
+-  '':
+    bdrc-instance-id: W1AC210
+-  '':
+    bdrc-instance-id: W1KG15939
+-  '':
+    bdrc-instance-id: W1KG2820
+-  '':
+    bdrc-instance-id: W1KG25311
+-  '':
+    bdrc-instance-id: W1KG1097
+-  '':
+    bdrc-instance-id: W1NLM372
+-  '':
+    bdrc-instance-id: W1KG15406
+-  '':
+    bdrc-instance-id: W21685
+-  '':
+    bdrc-instance-id: W23183
+-  '':
+    bdrc-instance-id: W4CZ1260
+-  '':
+    bdrc-instance-id: W1KG22991
+-  '':
+    bdrc-instance-id: W16515
+-  '':
+    bdrc-instance-id: W1KG16599
+-  '':
+    bdrc-instance-id: W1NLM826
+-  '':
+    bdrc-instance-id: W1KG12111
+-  '':
+    bdrc-instance-id: W16476
+-  '':
+    bdrc-instance-id: W1NLM812
+-  '':
+    bdrc-instance-id: W1KG16571
+-  '':
+    bdrc-instance-id: W1KG15937
+-  '':
+    bdrc-instance-id: W2CZ8042
+-  '':
+    bdrc-instance-id: W1KG15906
+-  '':
+    bdrc-instance-id: W3CN1582
+-  '':
+    bdrc-instance-id: W1KG16458
+-  '':
+    bdrc-instance-id: W3CN4666
+-  '':
+    bdrc-instance-id: W1KG23847
+-  '':
+    bdrc-instance-id: W9935
+-  '':
+    bdrc-instance-id: W30348
+-  '':
+    bdrc-instance-id: W9888
+-  '':
+    bdrc-instance-id: W1NLM700
+-  '':
+    bdrc-instance-id: W2KG207348
+-  '':
+    bdrc-instance-id: W20338
+-  '':
+    bdrc-instance-id: W29644
+-  '':
+    bdrc-instance-id: W1KG9033
+-  '':
+    bdrc-instance-id: W4CZ302706
+-  '':
+    bdrc-instance-id: W3JT13376
+-  '':
+    bdrc-instance-id: W4CZ302659
+-  '':
+    bdrc-instance-id: W1KG10496
+-  '':
+    bdrc-instance-id: W21511
+-  '':
+    bdrc-instance-id: W26623
+-  '':
+    bdrc-instance-id: W30100
+-  '':
+    bdrc-instance-id: W10547
+-  '':
+    bdrc-instance-id: W1KG15077
+-  '':
+    bdrc-instance-id: W1PD107155
+-  '':
+    bdrc-instance-id: W8LS17335
+-  '':
+    bdrc-instance-id: W2PD17472
+-  '':
+    bdrc-instance-id: W2CZ8056
+-  '':
+    bdrc-instance-id: W1KG9259
+-  '':
+    bdrc-instance-id: W1AC426
+-  '':
+    bdrc-instance-id: W14550
+-  '':
+    bdrc-instance-id: W1KG1104
+-  '':
+    bdrc-instance-id: W22103
+-  '':
+    bdrc-instance-id: W19466
+-  '':
+    bdrc-instance-id: W21612
+-  '':
+    bdrc-instance-id: W1KG23849
+-  '':
+    bdrc-instance-id: W17319
+-  '':
+    bdrc-instance-id: W26673
+-  '':
+    bdrc-instance-id: W1GS139873
+-  '':
+    bdrc-instance-id: W00KG02390
+-  '':
+    bdrc-instance-id: W1KG12674
+-  '':
+    bdrc-instance-id: W1KG13759
+-  '':
+    bdrc-instance-id: W10247
+-  '':
+    bdrc-instance-id: W1KG15910
+-  '':
+    bdrc-instance-id: W20405
+-  '':
+    bdrc-instance-id: W8LS67598
+-  '':
+    bdrc-instance-id: W1KG4472
+-  '':
+    bdrc-instance-id: W4CZ74538
+-  '':
+    bdrc-instance-id: W1CZ1133
+-  '':
+    bdrc-instance-id: W27914
+-  '':
+    bdrc-instance-id: W3CN4600
+-  '':
+    bdrc-instance-id: W1KG1803
+-  '':
+    bdrc-instance-id: W3CN6733
+-  '':
+    bdrc-instance-id: W15436
+-  '':
+    bdrc-instance-id: W1KG14624
+-  '':
+    bdrc-instance-id: W1KG14678
+-  '':
+    bdrc-instance-id: W1GS49535
+-  '':
+    bdrc-instance-id: W00KG09355
+-  '':
+    bdrc-instance-id: W8LS17126
+-  '':
+    bdrc-instance-id: W22145
+-  '':
+    bdrc-instance-id: W1155
+-  '':
+    bdrc-instance-id: W00KG03996
+-  '':
+    bdrc-instance-id: W1KG18138
+-  '':
+    bdrc-instance-id: W1KG4204
+-  '':
+    bdrc-instance-id: W4CZ301813
+-  '':
+    bdrc-instance-id: W8LS17125
+-  '':
+    bdrc-instance-id: W1KG12667
+-  '':
+    bdrc-instance-id: W19976
+-  '':
+    bdrc-instance-id: W19225
+-  '':
+    bdrc-instance-id: W21601
+-  '':
+    bdrc-instance-id: W00KG010085
+-  '':
+    bdrc-instance-id: W8LS20132
+-  '':
+    bdrc-instance-id: W8LS31871
+-  '':
+    bdrc-instance-id: W22062
+-  '':
+    bdrc-instance-id: W1KG21229
+-  '':
+    bdrc-instance-id: W2CZ7908
+-  '':
+    bdrc-instance-id: W1KG15907
+-  '':
+    bdrc-instance-id: W3CN5005
+-  '':
+    bdrc-instance-id: W4CZ45283
+-  '':
+    bdrc-instance-id: W1AC315
+-  '':
+    bdrc-instance-id: W1KG23850
+-  '':
+    bdrc-instance-id: W1KG25359
+-  '':
+    bdrc-instance-id: W1AC220
+-  '':
+    bdrc-instance-id: W3CN7788
+-  '':
+    bdrc-instance-id: W1KG25605
+-  '':
+    bdrc-instance-id: W3CN4804
+-  '':
+    bdrc-instance-id: W4CZ315252
+-  '':
+    bdrc-instance-id: W20404
+-  '':
+    bdrc-instance-id: W1KG1624
+-  '':
+    bdrc-instance-id: W8LS19688
+-  '':
+    bdrc-instance-id: W8LS17083
+-  '':
+    bdrc-instance-id: W1KG10163
+-  '':
+    bdrc-instance-id: W1KG16650
+-  '':
+    bdrc-instance-id: W926
+-  '':
+    bdrc-instance-id: W3CN8173
+-  '':
+    bdrc-instance-id: W1EE38
+-  '':
+    bdrc-instance-id: W2PD20319
+-  '':
+    bdrc-instance-id: W8LS31536
+-  '':
+    bdrc-instance-id: W00KG0624
+-  '':
+    bdrc-instance-id: W1KG15578
+-  '':
+    bdrc-instance-id: W1KG22905
+-  '':
+    bdrc-instance-id: W4CZ302234
+-  '':
+    bdrc-instance-id: W3CN5453
+-  '':
+    bdrc-instance-id: W30396
+-  '':
+    bdrc-instance-id: W1KG12776
+-  '':
+    bdrc-instance-id: W6459
+-  '':
+    bdrc-instance-id: W3PD364
+-  '':
+    bdrc-instance-id: W1KG89110
+-  '':
+    bdrc-instance-id: W2DB25438
+-  '':
+    bdrc-instance-id: W8LS66818
+-  '':
+    bdrc-instance-id: W1KG12669
+-  '':
+    bdrc-instance-id: W1KG20705
+-  '':
+    bdrc-instance-id: W2PD17435
+-  '':
+    bdrc-instance-id: W3PD1091
+-  '':
+    bdrc-instance-id: W00EGS1016963
+-  '':
+    bdrc-instance-id: W8LS15911
+-  '':
+    bdrc-instance-id: W1KG24716
+-  '':
+    bdrc-instance-id: W1KG3168
+-  '':
+    bdrc-instance-id: W20023
+-  '':
+    bdrc-instance-id: W30286
+-  '':
+    bdrc-instance-id: W21728
+-  '':
+    bdrc-instance-id: W1KG2818
+-  '':
+    bdrc-instance-id: W21729
+-  '':
+    bdrc-instance-id: W1KG12222
+-  '':
+    bdrc-instance-id: W1KG17150
+-  '':
+    bdrc-instance-id: W00KG02333
+-  '':
+    bdrc-instance-id: W1KG1608
+-  '':
+    bdrc-instance-id: W1KG26247
+-  '':
+    bdrc-instance-id: W1KG16156
+-  '':
+    bdrc-instance-id: W4CZ302660
+-  '':
+    bdrc-instance-id: W2PD17428
+-  '':
+    bdrc-instance-id: W4CZ57561
+-  '':
+    bdrc-instance-id: W1KG22055
+-  '':
+    bdrc-instance-id: W4CZ45217
+-  '':
+    bdrc-instance-id: W1KG5965
+-  '':
+    bdrc-instance-id: W1NLM516
+-  '':
+    bdrc-instance-id: W1NLM410
+-  '':
+    bdrc-instance-id: W23221
+-  '':
+    bdrc-instance-id: W22116
+-  '':
+    bdrc-instance-id: W20566
+-  '':
+    bdrc-instance-id: W1KG12110
+-  '':
+    bdrc-instance-id: W2CZ7900
+-  '':
+    bdrc-instance-id: W1KG18407
+-  '':
+    bdrc-instance-id: W00KG03990
+-  '':
+    bdrc-instance-id: W8LS31727
+-  '':
+    bdrc-instance-id: W8LS31537
+-  '':
+    bdrc-instance-id: W1KG16449
+-  '':
+    bdrc-instance-id: W1KG18432
+-  '':
+    bdrc-instance-id: W3CN1579
+-  '':
+    bdrc-instance-id: W1KG16591
+-  '':
+    bdrc-instance-id: W3JT13553
+-  '':
+    bdrc-instance-id: W1AC401
+-  '':
+    bdrc-instance-id: W1KG17148
+-  '':
+    bdrc-instance-id: W1NLM513
+-  '':
+    bdrc-instance-id: W1KG22447
+-  '':
+    bdrc-instance-id: W2CZ9084
+-  '':
+    bdrc-instance-id: W29485
+-  '':
+    bdrc-instance-id: W2DB16630
+-  '':
+    bdrc-instance-id: W16079
+-  '':
+    bdrc-instance-id: W00KG02749
+-  '':
+    bdrc-instance-id: W3CN5354
+-  '':
+    bdrc-instance-id: W12829
+-  '':
+    bdrc-instance-id: W1NLM178
+-  '':
+    bdrc-instance-id: W1KG9862
+-  '':
+    bdrc-instance-id: W20843
+-  '':
+    bdrc-instance-id: W1KG1656
+-  '':
+    bdrc-instance-id: W2CZ7898
+-  '':
+    bdrc-instance-id: W23627
+-  '':
+    bdrc-instance-id: W2DB4603
+-  '':
+    bdrc-instance-id: W1KG17182
+-  '':
+    bdrc-instance-id: W1EE55
+-  '':
+    bdrc-instance-id: W1NLM316
+-  '':
+    bdrc-instance-id: W1KG16138
+-  '':
+    bdrc-instance-id: W1CZ689
+-  '':
+    bdrc-instance-id: W1AC328
+-  '':
+    bdrc-instance-id: W1KG8838
+-  '':
+    bdrc-instance-id: W8LS26135
+-  '':
+    bdrc-instance-id: W18047
+-  '':
+    bdrc-instance-id: W1KG9276
+-  '':
+    bdrc-instance-id: W1NLM124
+-  '':
+    bdrc-instance-id: W3CN715
+-  '':
+    bdrc-instance-id: W1CZ929
+-  '':
+    bdrc-instance-id: W26630
+-  '':
+    bdrc-instance-id: W27804
+-  '':
+    bdrc-instance-id: W1CZ928
+-  '':
+    bdrc-instance-id: W3CN1569
+-  '':
+    bdrc-instance-id: W21295
+-  '':
+    bdrc-instance-id: W1KG17580
+-  '':
+    bdrc-instance-id: W8LS31183
+-  '':
+    bdrc-instance-id: W1NLM186
+-  '':
+    bdrc-instance-id: W4CZ307379
+-  '':
+    bdrc-instance-id: W1KG10630
+-  '':
+    bdrc-instance-id: W27270
+-  '':
+    bdrc-instance-id: W4CZ22138
+-  '':
+    bdrc-instance-id: W1NLM714
+-  '':
+    bdrc-instance-id: W00KG03838
+-  '':
+    bdrc-instance-id: W4CZ307426
+-  '':
+    bdrc-instance-id: W1KG10193
+-  '':
+    bdrc-instance-id: W8LS16235
+-  '':
+    bdrc-instance-id: W8LS17007
+-  '':
+    bdrc-instance-id: W8LS18060
+-  '':
+    bdrc-instance-id: W1CZ1981
+-  '':
+    bdrc-instance-id: W1CZ1123
+-  '':
+    bdrc-instance-id: W1KG17420
+-  '':
+    bdrc-instance-id: W00KG03940
+-  '':
+    bdrc-instance-id: W3CN7487
+-  '':
+    bdrc-instance-id: W1KG15471
+-  '':
+    bdrc-instance-id: W1KG22296
+-  '':
+    bdrc-instance-id: W21807
+-  '':
+    bdrc-instance-id: W3CN4276
+-  '':
+    bdrc-instance-id: W1KG11903
+-  '':
+    bdrc-instance-id: W8LS26609
+-  '':
+    bdrc-instance-id: W1PD181206
+-  '':
+    bdrc-instance-id: W3CN21530
+-  '':
+    bdrc-instance-id: W4CZ58532
+-  '':
+    bdrc-instance-id: W1174
+-  '':
+    bdrc-instance-id: W3CN4957
+-  '':
+    bdrc-instance-id: W4CZ45238
+-  '':
+    bdrc-instance-id: W00KG01632
+-  '':
+    bdrc-instance-id: W1KG25128
+-  '':
+    bdrc-instance-id: W12827
+-  '':
+    bdrc-instance-id: W29100
+-  '':
+    bdrc-instance-id: W00KG09694
+-  '':
+    bdrc-instance-id: W30387
+-  '':
+    bdrc-instance-id: W1KG8527
+-  '':
+    bdrc-instance-id: W2PD19979
+-  '':
+    bdrc-instance-id: W8LS19350
+-  '':
+    bdrc-instance-id: W1CZ1268
+-  '':
+    bdrc-instance-id: W1NLM708
+-  '':
+    bdrc-instance-id: W1NLM81
+-  '':
+    bdrc-instance-id: W1KG12382
+-  '':
+    bdrc-instance-id: W3CN18522
+-  '':
+    bdrc-instance-id: W18122
+-  '':
+    bdrc-instance-id: W00KG01588
+-  '':
+    bdrc-instance-id: W1KG4251
+-  '':
+    bdrc-instance-id: W21879
+-  '':
+    bdrc-instance-id: W00EGS1016752
+-  '':
+    bdrc-instance-id: W1AC43
+-  '':
+    bdrc-instance-id: W1GS91831
+-  '':
+    bdrc-instance-id: W23828
+-  '':
+    bdrc-instance-id: W1AT883
+-  '':
+    bdrc-instance-id: W1KG24248
+-  '':
+    bdrc-instance-id: W8LS17392
+-  '':
+    bdrc-instance-id: W1KG4282
+-  '':
+    bdrc-instance-id: W1AC58
+-  '':
+    bdrc-instance-id: W1KG22000
+-  '':
+    bdrc-instance-id: W00KG03592
+-  '':
+    bdrc-instance-id: W1KG5396
+-  '':
+    bdrc-instance-id: W8LS15945
+-  '':
+    bdrc-instance-id: W1KG585
+-  '':
+    bdrc-instance-id: W1KG13017
+-  '':
+    bdrc-instance-id: W1KG1249
+-  '':
+    bdrc-instance-id: W28858
+-  '':
+    bdrc-instance-id: W1KG22263
+-  '':
+    bdrc-instance-id: W1NLM183
+-  '':
+    bdrc-instance-id: W4CZ332378
+-  '':
+    bdrc-instance-id: W3PD407
+-  '':
+    bdrc-instance-id: W3CN7674
+-  '':
+    bdrc-instance-id: W22393
+-  '':
+    bdrc-instance-id: W1KG3510
+-  '':
+    bdrc-instance-id: W1KG16553
+-  '':
+    bdrc-instance-id: W00CHZ0103341
+-  '':
+    bdrc-instance-id: W8LS19927
+-  '':
+    bdrc-instance-id: W1KG24354
+-  '':
+    bdrc-instance-id: W2DB4624
+-  '':
+    bdrc-instance-id: W1KG14648
+-  '':
+    bdrc-instance-id: W22279
+-  '':
+    bdrc-instance-id: W1KG11880
+-  '':
+    bdrc-instance-id: W30366
+-  '':
+    bdrc-instance-id: W1GS60779
+-  '':
+    bdrc-instance-id: W8LS19263
+-  '':
+    bdrc-instance-id: W1KG15423
+-  '':
+    bdrc-instance-id: W20428
+-  '':
+    bdrc-instance-id: W00KG01644
+-  '':
+    bdrc-instance-id: W1KG25661
+-  '':
+    bdrc-instance-id: W8LS17299
+-  '':
+    bdrc-instance-id: W19838
+-  '':
+    bdrc-instance-id: W1KG15897
+-  '':
+    bdrc-instance-id: W1KG10750
+-  '':
+    bdrc-instance-id: W1KG20999
+-  '':
+    bdrc-instance-id: W12034
+-  '':
+    bdrc-instance-id: W4CZ45236
+-  '':
+    bdrc-instance-id: W1PD107152
+-  '':
+    bdrc-instance-id: W1KG6256
+-  '':
+    bdrc-instance-id: W2CZ8021
+-  '':
+    bdrc-instance-id: W23831
+-  '':
+    bdrc-instance-id: W1KG4208
+-  '':
+    bdrc-instance-id: W3CN7607
+-  '':
+    bdrc-instance-id: W1KG22299
+-  '':
+    bdrc-instance-id: W8LS18157
+-  '':
+    bdrc-instance-id: W1KG3702
+-  '':
+    bdrc-instance-id: W23468
+-  '':
+    bdrc-instance-id: W3CN5020
+-  '':
+    bdrc-instance-id: W1KG16798
+-  '':
+    bdrc-instance-id: W1KG12689
+-  '':
+    bdrc-instance-id: W6468
+-  '':
+    bdrc-instance-id: W1NLM620
+-  '':
+    bdrc-instance-id: W1AC3
+-  '':
+    bdrc-instance-id: W1KG397
+-  '':
+    bdrc-instance-id: W1KG2843
+-  '':
+    bdrc-instance-id: W1KG21838
+-  '':
+    bdrc-instance-id: W6460
+-  '':
+    bdrc-instance-id: W23955
+-  '':
+    bdrc-instance-id: W19224
+-  '':
+    bdrc-instance-id: W1KG5727
+-  '':
+    bdrc-instance-id: W1GS66030
+-  '':
+    bdrc-instance-id: W3CN7567
+-  '':
+    bdrc-instance-id: W4CZ58736
+-  '':
+    bdrc-instance-id: W1KG3654
+-  '':
+    bdrc-instance-id: W1KG25320
+-  '':
+    bdrc-instance-id: W1NLM130
+-  '':
+    bdrc-instance-id: W1CZ1264
+-  '':
+    bdrc-instance-id: W2DB57569
+-  '':
+    bdrc-instance-id: W00EGS1017063
+-  '':
+    bdrc-instance-id: W1KG1059
+-  '':
+    bdrc-instance-id: W00KG03623
+-  '':
+    bdrc-instance-id: W1NLM448
+-  '':
+    bdrc-instance-id: W8LS19625
+-  '':
+    bdrc-instance-id: W1AC411
+-  '':
+    bdrc-instance-id: W3CN610
+-  '':
+    bdrc-instance-id: W28811
+-  '':
+    bdrc-instance-id: W15098
+-  '':
+    bdrc-instance-id: W10736
+-  '':
+    bdrc-instance-id: W8LS25462
+-  '':
+    bdrc-instance-id: W3CN21517
+-  '':
+    bdrc-instance-id: W00EGS1016257
+-  '':
+    bdrc-instance-id: W1NLM33
+-  '':
+    bdrc-instance-id: W10195
+-  '':
+    bdrc-instance-id: W1PD45150
+-  '':
+    bdrc-instance-id: W3JT13605
+-  '':
+    bdrc-instance-id: W6472
+-  '':
+    bdrc-instance-id: W22165
+-  '':
+    bdrc-instance-id: W00KG03991
+-  '':
+    bdrc-instance-id: W21018
+-  '':
+    bdrc-instance-id: W1KG25356
+-  '':
+    bdrc-instance-id: W1KG16793
+-  '':
+    bdrc-instance-id: W1KG3830
+-  '':
+    bdrc-instance-id: W8LS18260
+-  '':
+    bdrc-instance-id: W1KG12631
+-  '':
+    bdrc-instance-id: W11818
+-  '':
+    bdrc-instance-id: W8LS43853
+-  '':
+    bdrc-instance-id: W1KG4005
+-  '':
+    bdrc-instance-id: W3CN15714
+-  '':
+    bdrc-instance-id: W20224
+-  '':
+    bdrc-instance-id: W8LS17032
+-  '':
+    bdrc-instance-id: W28841
+-  '':
+    bdrc-instance-id: W00EGS1017040
+-  '':
+    bdrc-instance-id: W3CN18477
+-  '':
+    bdrc-instance-id: W1NLM221
+-  '':
+    bdrc-instance-id: W00KG01646
+-  '':
+    bdrc-instance-id: W23709
+-  '':
+    bdrc-instance-id: W1KG3999
+-  '':
+    bdrc-instance-id: W1GS8
+-  '':
+    bdrc-instance-id: W1KG22208
+-  '':
+    bdrc-instance-id: W1KG24040
+-  '':
+    bdrc-instance-id: W00KG03605
+-  '':
+    bdrc-instance-id: W3CN21538
+-  '':
+    bdrc-instance-id: W1KG4006
+-  '':
+    bdrc-instance-id: W8LS18307
+-  '':
+    bdrc-instance-id: W3CN12969
+-  '':
+    bdrc-instance-id: W8LS16731
+-  '':
+    bdrc-instance-id: W1KG23488
+-  '':
+    bdrc-instance-id: W22188
+-  '':
+    bdrc-instance-id: W3CN9095
+-  '':
+    bdrc-instance-id: W1KG22210
+-  '':
+    bdrc-instance-id: W1KG17446
+-  '':
+    bdrc-instance-id: W8LS19709
+-  '':
+    bdrc-instance-id: W00EGS1016899
+-  '':
+    bdrc-instance-id: W2CZ7973
+-  '':
+    bdrc-instance-id: W1KG24651
+-  '':
+    bdrc-instance-id: W1KG1671
+-  '':
+    bdrc-instance-id: W1NLM669
+-  '':
+    bdrc-instance-id: W1KG13166
+-  '':
+    bdrc-instance-id: W2PD20768
+-  '':
+    bdrc-instance-id: W23229
+-  '':
+    bdrc-instance-id: W1KG15417
+-  '':
+    bdrc-instance-id: W8LS31211
+-  '':
+    bdrc-instance-id: W1KG17178
+-  '':
+    bdrc-instance-id: W1EE66
+-  '':
+    bdrc-instance-id: W00KG03891
+-  '':
+    bdrc-instance-id: W8LS20099
+-  '':
+    bdrc-instance-id: W20876
+-  '':
+    bdrc-instance-id: W2PD20320
+-  '':
+    bdrc-instance-id: W1KG3705
+-  '':
+    bdrc-instance-id: W3CN15718
+-  '':
+    bdrc-instance-id: W1KG25719
+-  '':
+    bdrc-instance-id: W8LS29383
+-  '':
+    bdrc-instance-id: W4CZ299950
+-  '':
+    bdrc-instance-id: W1KG18319
+-  '':
+    bdrc-instance-id: W23931
+-  '':
+    bdrc-instance-id: W1KG21756
+-  '':
+    bdrc-instance-id: W23819
+-  '':
+    bdrc-instance-id: W3CN5099
+-  '':
+    bdrc-instance-id: W1KG10149
+-  '':
+    bdrc-instance-id: W1KG18038
+-  '':
+    bdrc-instance-id: W20406
+-  '':
+    bdrc-instance-id: W1904
+-  '':
+    bdrc-instance-id: W28833
+-  '':
+    bdrc-instance-id: W20411
+-  '':
+    bdrc-instance-id: W8LS29332
+-  '':
+    bdrc-instance-id: W20179
+-  '':
+    bdrc-instance-id: W1KG8531
+-  '':
+    bdrc-instance-id: W1KG15913
+-  '':
+    bdrc-instance-id: W1KG11781
+-  '':
+    bdrc-instance-id: W1KG11817
+-  '':
+    bdrc-instance-id: W1KG5400
+-  '':
+    bdrc-instance-id: W00EGS1016958
+-  '':
+    bdrc-instance-id: W1KG12961
+-  '':
+    bdrc-instance-id: W21741
+-  '':
+    bdrc-instance-id: W1KG9087
+-  '':
+    bdrc-instance-id: W1KG892
+-  '':
+    bdrc-instance-id: W8LS19999
+-  '':
+    bdrc-instance-id: W1NLM350
+-  '':
+    bdrc-instance-id: W2EE6
+-  '':
+    bdrc-instance-id: W17713
+-  '':
+    bdrc-instance-id: W1KG16715
+-  '':
+    bdrc-instance-id: W30420
+-  '':
+    bdrc-instance-id: W8LS31981
+-  '':
+    bdrc-instance-id: W1NLM562
+-  '':
+    bdrc-instance-id: W10319
+-  '':
+    bdrc-instance-id: W8LS17638
+-  '':
+    bdrc-instance-id: W1NLM229
+-  '':
+    bdrc-instance-id: W1PD96348
+-  '':
+    bdrc-instance-id: W3CN3209
+-  '':
+    bdrc-instance-id: W2PD20775
+-  '':
+    bdrc-instance-id: W1AC47
+-  '':
+    bdrc-instance-id: W1EE52
+-  '':
+    bdrc-instance-id: W2793
+-  '':
+    bdrc-instance-id: W1KG22085
+-  '':
+    bdrc-instance-id: W30139
+-  '':
+    bdrc-instance-id: W9748
+-  '':
+    bdrc-instance-id: W21493
+-  '':
+    bdrc-instance-id: W8147
+-  '':
+    bdrc-instance-id: W1CZ2541
+-  '':
+    bdrc-instance-id: W20386
+-  '':
+    bdrc-instance-id: W1NLM49
+-  '':
+    bdrc-instance-id: W148
+-  '':
+    bdrc-instance-id: W2PD20078
+-  '':
+    bdrc-instance-id: W1KG5905
+-  '':
+    bdrc-instance-id: W22300
+-  '':
+    bdrc-instance-id: W23629
+-  '':
+    bdrc-instance-id: W23543
+-  '':
+    bdrc-instance-id: W4CZ299949
+-  '':
+    bdrc-instance-id: W3CN10219
+-  '':
+    bdrc-instance-id: W1KG21952
+-  '':
+    bdrc-instance-id: W00KG03704
+-  '':
+    bdrc-instance-id: W1KG15898
+-  '':
+    bdrc-instance-id: W2PD20777
+-  '':
+    bdrc-instance-id: W1KG12953
+-  '':
+    bdrc-instance-id: W30075
+-  '':
+    bdrc-instance-id: W1KG12979
+-  '':
+    bdrc-instance-id: W3CN8147
+-  '':
+    bdrc-instance-id: W2KG208021
+-  '':
+    bdrc-instance-id: W1PD83963
+-  '':
+    bdrc-instance-id: W3CN4729
+-  '':
+    bdrc-instance-id: W1KG8466
+-  '':
+    bdrc-instance-id: W27411
+-  '':
+    bdrc-instance-id: W3JT13691
+-  '':
+    bdrc-instance-id: W1NLM319
+-  '':
+    bdrc-instance-id: W1KG12208
+-  '':
+    bdrc-instance-id: W1KG21718
+-  '':
+    bdrc-instance-id: W8LS17358
+-  '':
+    bdrc-instance-id: W1NLM202
+-  '':
+    bdrc-instance-id: W1EE64
+-  '':
+    bdrc-instance-id: W1KG12534
+-  '':
+    bdrc-instance-id: W00EGS1017426
+-  '':
+    bdrc-instance-id: W1KG13701
+-  '':
+    bdrc-instance-id: W3CN657
+-  '':
+    bdrc-instance-id: W1KG21087
+-  '':
+    bdrc-instance-id: W1GS60386
+-  '':
+    bdrc-instance-id: W1KG24470
+-  '':
+    bdrc-instance-id: W1KG17222
+-  '':
+    bdrc-instance-id: W17166
+-  '':
+    bdrc-instance-id: W1KG12224
+-  '':
+    bdrc-instance-id: W1EE21
+-  '':
+    bdrc-instance-id: W1CZ2000
+-  '':
+    bdrc-instance-id: W1KG24794
+-  '':
+    bdrc-instance-id: W1KG4228
+-  '':
+    bdrc-instance-id: W1CZ2730
+-  '':
+    bdrc-instance-id: W1KG15057
+-  '':
+    bdrc-instance-id: W4CZ1099
+-  '':
+    bdrc-instance-id: W20186
+-  '':
+    bdrc-instance-id: W30197
+-  '':
+    bdrc-instance-id: W8LS31336
+-  '':
+    bdrc-instance-id: W28956
+-  '':
+    bdrc-instance-id: W3CN6507
+-  '':
+    bdrc-instance-id: W14254
+-  '':
+    bdrc-instance-id: W2DB16422
+-  '':
+    bdrc-instance-id: W30433
+-  '':
+    bdrc-instance-id: W1KG14786
+-  '':
+    bdrc-instance-id: W22007
+-  '':
+    bdrc-instance-id: W00KG08362
+-  '':
+    bdrc-instance-id: W3CN6709
+-  '':
+    bdrc-instance-id: W1KG12658
+-  '':
+    bdrc-instance-id: W1NLM580
+-  '':
+    bdrc-instance-id: W1KG17449
+-  '':
+    bdrc-instance-id: W8LS16495
+-  '':
+    bdrc-instance-id: W1NLM593
+-  '':
+    bdrc-instance-id: W1KG10779
+-  '':
+    bdrc-instance-id: W1KG9290
+-  '':
+    bdrc-instance-id: W1KG825
+-  '':
+    bdrc-instance-id: W20448
+-  '':
+    bdrc-instance-id: W8LS32606
+-  '':
+    bdrc-instance-id: W1KG12205
+-  '':
+    bdrc-instance-id: W00KG04005
+-  '':
+    bdrc-instance-id: W19873
+-  '':
+    bdrc-instance-id: W1KG25888
+-  '':
+    bdrc-instance-id: W00EGS1016299
+-  '':
+    bdrc-instance-id: W00KG02660
+-  '':
+    bdrc-instance-id: W12639
+-  '':
+    bdrc-instance-id: W00KG02677
+-  '':
+    bdrc-instance-id: W10198
+-  '':
+    bdrc-instance-id: W00KG01660
+-  '':
+    bdrc-instance-id: W00EGS1017007
+-  '':
+    bdrc-instance-id: W22013
+-  '':
+    bdrc-instance-id: W23687
+-  '':
+    bdrc-instance-id: W1KG1248
+-  '':
+    bdrc-instance-id: W3CN1542
+-  '':
+    bdrc-instance-id: W15282
+-  '':
+    bdrc-instance-id: W1229
+-  '':
+    bdrc-instance-id: W1KG25658
+-  '':
+    bdrc-instance-id: W1KG25316
+-  '':
+    bdrc-instance-id: W29895
+-  '':
+    bdrc-instance-id: W1KG14533
+-  '':
+    bdrc-instance-id: W1KG3514
+-  '':
+    bdrc-instance-id: W1CZ1114
+-  '':
+    bdrc-instance-id: W1PD83975
+-  '':
+    bdrc-instance-id: W00KG02358
+-  '':
+    bdrc-instance-id: W1PD97739
+-  '':
+    bdrc-instance-id: W8LS24695
+-  '':
+    bdrc-instance-id: W23871
+-  '':
+    bdrc-instance-id: W2CZ9080
+-  '':
+    bdrc-instance-id: W1KG16805
+-  '':
+    bdrc-instance-id: W1NLM780
+-  '':
+    bdrc-instance-id: W1NLM758
+-  '':
+    bdrc-instance-id: W00KG02
+-  '':
+    bdrc-instance-id: W24008
+-  '':
+    bdrc-instance-id: W10160
+-  '':
+    bdrc-instance-id: W00EGS1016835
+-  '':
+    bdrc-instance-id: W1986
+-  '':
+    bdrc-instance-id: W3MS866
+-  '':
+    bdrc-instance-id: W3CN15679
+-  '':
+    bdrc-instance-id: W4CZ307386
+-  '':
+    bdrc-instance-id: W8LS19416
+-  '':
+    bdrc-instance-id: W1KG10153
+-  '':
+    bdrc-instance-id: W20827
+-  '':
+    bdrc-instance-id: W8227
+-  '':
+    bdrc-instance-id: W8LS20018
+-  '':
+    bdrc-instance-id: W26627
+-  '':
+    bdrc-instance-id: W1AC49
+-  '':
+    bdrc-instance-id: W2PD17434
+-  '':
+    bdrc-instance-id: W1KG15901
+-  '':
+    bdrc-instance-id: W3CN17746
+-  '':
+    bdrc-instance-id: W1KG8579
+-  '':
+    bdrc-instance-id: W1AC459
+-  '':
+    bdrc-instance-id: W1KG16721
+-  '':
+    bdrc-instance-id: W1EE61
+-  '':
+    bdrc-instance-id: W1AB6
+-  '':
+    bdrc-instance-id: W23177
+-  '':
+    bdrc-instance-id: W8LS18673
+-  '':
+    bdrc-instance-id: W1KG24021
+-  '':
+    bdrc-instance-id: W1KG1880
+-  '':
+    bdrc-instance-id: W1KG13772
+-  '':
+    bdrc-instance-id: W1KG13828
+-  '':
+    bdrc-instance-id: W21974
+-  '':
+    bdrc-instance-id: W27312
+-  '':
+    bdrc-instance-id: W23746
+-  '':
+    bdrc-instance-id: W1NLM261
+-  '':
+    bdrc-instance-id: W28855
+-  '':
+    bdrc-instance-id: W1KG8898
+-  '':
+    bdrc-instance-id: W8LS19272
+-  '':
+    bdrc-instance-id: W1KG1804
+-  '':
+    bdrc-instance-id: W1KG23599
+-  '':
+    bdrc-instance-id: W00KG01607
+-  '':
+    bdrc-instance-id: W1KG12770
+-  '':
+    bdrc-instance-id: W3CN9701
+-  '':
+    bdrc-instance-id: W1KG3513
+-  '':
+    bdrc-instance-id: W2PD19497
+-  '':
+    bdrc-instance-id: W1KG16797
+-  '':
+    bdrc-instance-id: W3JT13365
+-  '':
+    bdrc-instance-id: W10419
+-  '':
+    bdrc-instance-id: W1KG12075
+-  '':
+    bdrc-instance-id: W1KG14577
+-  '':
+    bdrc-instance-id: W15590
+-  '':
+    bdrc-instance-id: W3CN18526
+-  '':
+    bdrc-instance-id: W1KG17055
+-  '':
+    bdrc-instance-id: W1KG22902
+-  '':
+    bdrc-instance-id: W22069
+-  '':
+    bdrc-instance-id: W1NLM215
+-  '':
+    bdrc-instance-id: W00CHZ0103343
+-  '':
+    bdrc-instance-id: W23822
+-  '':
+    bdrc-instance-id: W3CN4841
+-  '':
+    bdrc-instance-id: W00CHZ0103344
+-  '':
+    bdrc-instance-id: W2CZ10542
+-  '':
+    bdrc-instance-id: W1NLM201
+-  '':
+    bdrc-instance-id: W3CN4269
+-  '':
+    bdrc-instance-id: W8LS17800
+-  '':
+    bdrc-instance-id: W3CN511
+-  '':
+    bdrc-instance-id: W1KG26102
+-  '':
+    bdrc-instance-id: W1GS4
+-  '':
+    bdrc-instance-id: W1KG11861
+-  '':
+    bdrc-instance-id: W2KG207560
+-  '':
+    bdrc-instance-id: W21611
+-  '':
+    bdrc-instance-id: W8LS31891
+-  '':
+    bdrc-instance-id: W9088
+-  '':
+    bdrc-instance-id: W1KG4467
+-  '':
+    bdrc-instance-id: W1KG1625
+-  '':
+    bdrc-instance-id: W27295
+-  '':
+    bdrc-instance-id: W8LS19491
+-  '':
+    bdrc-instance-id: W3JT13534
+-  '':
+    bdrc-instance-id: W00EGS1016984
+-  '':
+    bdrc-instance-id: W12837
+-  '':
+    bdrc-instance-id: W1NLM248
+-  '':
+    bdrc-instance-id: W1NLM502
+-  '':
+    bdrc-instance-id: W1KG14132
+-  '':
+    bdrc-instance-id: W8LS19449
+-  '':
+    bdrc-instance-id: W8LS19431
+-  '':
+    bdrc-instance-id: W8LS19434
+-  '':
+    bdrc-instance-id: W8LS19467
+-  '':
+    bdrc-instance-id: W8LS19458
+-  '':
+    bdrc-instance-id: W8LS19377
+-  '':
+    bdrc-instance-id: W8LS19428
+-  '':
+    bdrc-instance-id: W8LS19446
+-  '':
+    bdrc-instance-id: W8LS19473
+-  '':
+    bdrc-instance-id: W8LS19362
+-  '':
+    bdrc-instance-id: W8LS19359
+-  '':
+    bdrc-instance-id: W8LS19488
+-  '':
+    bdrc-instance-id: W1KG9855
+-  '':
+    bdrc-instance-id: W1KG4601
+-  '':
+    bdrc-instance-id: W1CZ2857
+-  '':
+    bdrc-instance-id: W1CZ1128
+-  '':
+    bdrc-instance-id: W13914
+-  '':
+    bdrc-instance-id: W1KG3400
+-  '':
+    bdrc-instance-id: W8LS25459
+-  '':
+    bdrc-instance-id: W1NLM288
+-  '':
+    bdrc-instance-id: W1KG4859
+-  '':
+    bdrc-instance-id: W8LS32402
+-  '':
+    bdrc-instance-id: W1KG16139
+-  '':
+    bdrc-instance-id: W1GS108076
+-  '':
+    bdrc-instance-id: W28974
+-  '':
+    bdrc-instance-id: W1PD83960
+-  '':
+    bdrc-instance-id: W3CN3171
+-  '':
+    bdrc-instance-id: W1KG17451
+-  '':
+    bdrc-instance-id: W1PD105890
+-  '':
+    bdrc-instance-id: W2CZ8034
+-  '':
+    bdrc-instance-id: W1AC374
+-  '':
+    bdrc-instance-id: W21871
+-  '':
+    bdrc-instance-id: W1CZ1862
+-  '':
+    bdrc-instance-id: W1CZ1860
+-  '':
+    bdrc-instance-id: W1PD94
+-  '':
+    bdrc-instance-id: W8869
+-  '':
+    bdrc-instance-id: W1KG9281
+-  '':
+    bdrc-instance-id: W3CN6727
+-  '':
+    bdrc-instance-id: W3CN4343
+-  '':
+    bdrc-instance-id: W8LS17539
+-  '':
+    bdrc-instance-id: W19213
+-  '':
+    bdrc-instance-id: W1NLM935
+-  '':
+    bdrc-instance-id: W1KG17590
+-  '':
+    bdrc-instance-id: W1CZ1988
+-  '':
+    bdrc-instance-id: W1AC221
+-  '':
+    bdrc-instance-id: W23839
+-  '':
+    bdrc-instance-id: W4CZ65561
+-  '':
+    bdrc-instance-id: W1KG13989
+-  '':
+    bdrc-instance-id: W2KG200150
+-  '':
+    bdrc-instance-id: W4CZ45223
+-  '':
+    bdrc-instance-id: W21783
+-  '':
+    bdrc-instance-id: W4CZ65568
+-  '':
+    bdrc-instance-id: W3CN1729
+-  '':
+    bdrc-instance-id: W1KG21888
+-  '':
+    bdrc-instance-id: W1CZ1056
+-  '':
+    bdrc-instance-id: W1AC223
+-  '':
+    bdrc-instance-id: W8LS31137
+-  '':
+    bdrc-instance-id: W1NLM467
+-  '':
+    bdrc-instance-id: W1NLM839
+-  '':
+    bdrc-instance-id: W20132
+-  '':
+    bdrc-instance-id: W3CN1651
+-  '':
+    bdrc-instance-id: W23616
+-  '':
+    bdrc-instance-id: W00EGS1017077
+-  '':
+    bdrc-instance-id: W20078
+-  '':
+    bdrc-instance-id: W1EE12
+-  '':
+    bdrc-instance-id: W1KG11708
+-  '':
+    bdrc-instance-id: W1CZ2273
+-  '':
+    bdrc-instance-id: W8LS31422
+-  '':
+    bdrc-instance-id: W1KG14783
+-  '':
+    bdrc-instance-id: W8LS31865
+-  '':
+    bdrc-instance-id: W8LS31425
+-  '':
+    bdrc-instance-id: W2KG209054
+-  '':
+    bdrc-instance-id: W4CZ45233
+-  '':
+    bdrc-instance-id: W23956
+-  '':
+    bdrc-instance-id: W1KG11762
+-  '':
+    bdrc-instance-id: W1KG13761
+-  '':
+    bdrc-instance-id: W1KG17176
+-  '':
+    bdrc-instance-id: W00EGS1016951
+-  '':
+    bdrc-instance-id: W1NLM51
+-  '':
+    bdrc-instance-id: W1KG1666
+-  '':
+    bdrc-instance-id: W18609
+-  '':
+    bdrc-instance-id: W1KG24542
+-  '':
+    bdrc-instance-id: W14060
+-  '':
+    bdrc-instance-id: W1AC16
+-  '':
+    bdrc-instance-id: W2PD20069
+-  '':
+    bdrc-instance-id: W1NLM246
+-  '':
+    bdrc-instance-id: W3CN14300
+-  '':
+    bdrc-instance-id: W1KG89111
+-  '':
+    bdrc-instance-id: W1KG13996
+-  '':
+    bdrc-instance-id: W29206
+-  '':
+    bdrc-instance-id: W1KG8585
+-  '':
+    bdrc-instance-id: W15257
+-  '':
+    bdrc-instance-id: W3CN5381
+-  '':
+    bdrc-instance-id: W2CZ6214
+-  '':
+    bdrc-instance-id: W3MS85
+-  '':
+    bdrc-instance-id: W1KG3545
+-  '':
+    bdrc-instance-id: W1PD8
+-  '':
+    bdrc-instance-id: W2PD17424
+-  '':
+    bdrc-instance-id: W1AC218
+-  '':
+    bdrc-instance-id: W1CZ1007
+-  '':
+    bdrc-instance-id: W1KG5987
+-  '':
+    bdrc-instance-id: W29654
+-  '':
+    bdrc-instance-id: W1KG23485
+-  '':
+    bdrc-instance-id: W1CZ1112
+-  '':
+    bdrc-instance-id: W1KG16596
+-  '':
+    bdrc-instance-id: W2KG208151
+-  '':
+    bdrc-instance-id: W1KG23417
+-  '':
+    bdrc-instance-id: W30072
+-  '':
+    bdrc-instance-id: W4CZ20871
+-  '':
+    bdrc-instance-id: W1AC265
+-  '':
+    bdrc-instance-id: W1PD107142
+-  '':
+    bdrc-instance-id: W2PD20766
+-  '':
+    bdrc-instance-id: W1934
+-  '':
+    bdrc-instance-id: W8LS15963
+-  '':
+    bdrc-instance-id: W1KG25401
+-  '':
+    bdrc-instance-id: W22343
+-  '':
+    bdrc-instance-id: W1CZ1147
+-  '':
+    bdrc-instance-id: W00EGS1017082
+-  '':
+    bdrc-instance-id: W8LS15906
+-  '':
+    bdrc-instance-id: W23821
+-  '':
+    bdrc-instance-id: W1NLM156
+-  '':
+    bdrc-instance-id: W00KG01628
+-  '':
+    bdrc-instance-id: W14669
+-  '':
+    bdrc-instance-id: W1KG10281
+-  '':
+    bdrc-instance-id: W2CZ7839
+-  '':
+    bdrc-instance-id: W1KG18130
+-  '':
+    bdrc-instance-id: W703
+-  '':
+    bdrc-instance-id: W19762
+-  '':
+    bdrc-instance-id: W1KG3832
+-  '':
+    bdrc-instance-id: W00EGS1016766
+-  '':
+    bdrc-instance-id: W3CN9074
+-  '':
+    bdrc-instance-id: W23699
+-  '':
+    bdrc-instance-id: W22319
+-  '':
+    bdrc-instance-id: W3CN14375
+-  '':
+    bdrc-instance-id: W8LS20192
+-  '':
+    bdrc-instance-id: W1KG5420
+-  '':
+    bdrc-instance-id: W22348
+-  '':
+    bdrc-instance-id: W3CN17729
+-  '':
+    bdrc-instance-id: W8LS22956
+-  '':
+    bdrc-instance-id: W1KG18314
+-  '':
+    bdrc-instance-id: W1AC229
+-  '':
+    bdrc-instance-id: W4CZ299952
+-  '':
+    bdrc-instance-id: W1CZ900
+-  '':
+    bdrc-instance-id: W4PD1213
+-  '':
+    bdrc-instance-id: W1KG3980
+-  '':
+    bdrc-instance-id: W1KG15904
+-  '':
+    bdrc-instance-id: W8LS31311
+-  '':
+    bdrc-instance-id: W8LS20102
+-  '':
+    bdrc-instance-id: W1KG10288
+-  '':
+    bdrc-instance-id: W2GS1140
+-  '':
+    bdrc-instance-id: W30263
+-  '':
+    bdrc-instance-id: W4CZ309044
+-  '':
+    bdrc-instance-id: W00KG01623
+-  '':
+    bdrc-instance-id: W1KG1251
+-  '':
+    bdrc-instance-id: W27874
+-  '':
+    bdrc-instance-id: W2PD19203
+-  '':
+    bdrc-instance-id: W1KG21226
+-  '':
+    bdrc-instance-id: W1KG1132
+-  '':
+    bdrc-instance-id: W8LS19676
+-  '':
+    bdrc-instance-id: W00EGS1016240
+-  '':
+    bdrc-instance-id: W1NLM473
+-  '':
+    bdrc-instance-id: W1KG16788
+-  '':
+    bdrc-instance-id: W7303
+-  '':
+    bdrc-instance-id: W29009
+-  '':
+    bdrc-instance-id: W30407
+-  '':
+    bdrc-instance-id: W1KG21227
+-  '':
+    bdrc-instance-id: W1KG10784
+-  '':
+    bdrc-instance-id: W1NLM153
+-  '':
+    bdrc-instance-id: W1KG25059
+-  '':
+    bdrc-instance-id: W3CN6816
+-  '':
+    bdrc-instance-id: W1KG10161
+-  '':
+    bdrc-instance-id: W1KG4286
+-  '':
+    bdrc-instance-id: W1KG10019
+-  '':
+    bdrc-instance-id: W00EGS1017863
+-  '':
+    bdrc-instance-id: W2PD17459
+-  '':
+    bdrc-instance-id: W21662
+-  '':
+    bdrc-instance-id: W1NLM623
+-  '':
+    bdrc-instance-id: W8LS19960
+-  '':
+    bdrc-instance-id: W8LS19993
+-  '':
+    bdrc-instance-id: W8LS19969
+-  '':
+    bdrc-instance-id: W4CZ315251
+-  '':
+    bdrc-instance-id: W15286
+-  '':
+    bdrc-instance-id: W1KG15827
+-  '':
+    bdrc-instance-id: W1KG12954
+-  '':
+    bdrc-instance-id: W1KG24549
+-  '':
+    bdrc-instance-id: W1NLM569
+-  '':
+    bdrc-instance-id: W8LS19870
+-  '':
+    bdrc-instance-id: W2PD17465
+-  '':
+    bdrc-instance-id: W1KG21017
+-  '':
+    bdrc-instance-id: W00KG01608
+-  '':
+    bdrc-instance-id: W1NLM247
+-  '':
+    bdrc-instance-id: W1PD289
+-  '':
+    bdrc-instance-id: W4CZ321196
+-  '':
+    bdrc-instance-id: W22170
+-  '':
+    bdrc-instance-id: W29662
+-  '':
+    bdrc-instance-id: W28950
+-  '':
+    bdrc-instance-id: W1KG5787
+-  '':
+    bdrc-instance-id: W8LS18493
+-  '':
+    bdrc-instance-id: W8LS31173
+-  '':
+    bdrc-instance-id: W1KG422
+-  '':
+    bdrc-instance-id: W2DB4601
+-  '':
+    bdrc-instance-id: W1AC448
+-  '':
+    bdrc-instance-id: W20390
+-  '':
+    bdrc-instance-id: W00KG01658
+-  '':
+    bdrc-instance-id: W23454
+-  '':
+    bdrc-instance-id: W4CZ1111
+-  '':
+    bdrc-instance-id: W1KG13603
+-  '':
+    bdrc-instance-id: W1NLM353
+-  '':
+    bdrc-instance-id: W1KG22484
+-  '':
+    bdrc-instance-id: W22290
+-  '':
+    bdrc-instance-id: W00KG01642
+-  '':
+    bdrc-instance-id: W3CN1356
+-  '':
+    bdrc-instance-id: W4CZ299956
+-  '':
+    bdrc-instance-id: W8LS20051
+-  '':
+    bdrc-instance-id: W1KG12662
+-  '':
+    bdrc-instance-id: W1KG8853
+-  '':
+    bdrc-instance-id: W1CZ902
+-  '':
+    bdrc-instance-id: W29621
+-  '':
+    bdrc-instance-id: W21617
+-  '':
+    bdrc-instance-id: W2DB13642
+-  '':
+    bdrc-instance-id: W00EGS1016701
+-  '':
+    bdrc-instance-id: W19816
+-  '':
+    bdrc-instance-id: W30123
+-  '':
+    bdrc-instance-id: W24052
+-  '':
+    bdrc-instance-id: W1KG22611
+-  '':
+    bdrc-instance-id: W00KG09733
+-  '':
+    bdrc-instance-id: W00KG09761
+-  '':
+    bdrc-instance-id: W1AC368
+-  '':
+    bdrc-instance-id: W29900
+-  '':
+    bdrc-instance-id: W00KG09769
+-  '':
+    bdrc-instance-id: W00KG01625
+-  '':
+    bdrc-instance-id: W00KG01648
+-  '':
+    bdrc-instance-id: W22009
+-  '':
+    bdrc-instance-id: W29151
+-  '':
+    bdrc-instance-id: W3MS875
+-  '':
+    bdrc-instance-id: W11826
+-  '':
+    bdrc-instance-id: W1KG8893
+-  '':
+    bdrc-instance-id: W8LS17254
+-  '':
+    bdrc-instance-id: W8LS17065
+-  '':
+    bdrc-instance-id: W8LS19613
+-  '':
+    bdrc-instance-id: W8LS31218
+-  '':
+    bdrc-instance-id: W1CZ2744
+-  '':
+    bdrc-instance-id: W3CN1472
+-  '':
+    bdrc-instance-id: W11392
+-  '':
+    bdrc-instance-id: W2DB4570
+-  '':
+    bdrc-instance-id: W1NLM515
+-  '':
+    bdrc-instance-id: W28861
+-  '':
+    bdrc-instance-id: W00KG03976
+-  '':
+    bdrc-instance-id: W8LS31065
+-  '':
+    bdrc-instance-id: W1KG14
+-  '':
+    bdrc-instance-id: W27867
+-  '':
+    bdrc-instance-id: W00KG010089
+-  '':
+    bdrc-instance-id: W1KG15807
+-  '':
+    bdrc-instance-id: W1KG16157
+-  '':
+    bdrc-instance-id: W3CN2586
+-  '':
+    bdrc-instance-id: W23568
+-  '':
+    bdrc-instance-id: W1KG16216
+-  '':
+    bdrc-instance-id: W1KG4313
+-  '':
+    bdrc-instance-id: W1KG1686
+-  '':
+    bdrc-instance-id: W27516
+-  '':
+    bdrc-instance-id: W8LS19275
+-  '':
+    bdrc-instance-id: W00KG01657
+-  '':
+    bdrc-instance-id: W19463
+-  '':
+    bdrc-instance-id: W23180
+-  '':
+    bdrc-instance-id: W3CN7741
+-  '':
+    bdrc-instance-id: W8LS19846
+-  '':
+    bdrc-instance-id: W8LS16578
+-  '':
+    bdrc-instance-id: W8LS20195
+-  '':
+    bdrc-instance-id: W27884
+-  '':
+    bdrc-instance-id: W8LS19685
+-  '':
+    bdrc-instance-id: W8LS19314
+-  '':
+    bdrc-instance-id: W8LS20138
+-  '':
+    bdrc-instance-id: W8LS20081
+-  '':
+    bdrc-instance-id: W8LS18313
+-  '':
+    bdrc-instance-id: W8LS19682
+-  '':
+    bdrc-instance-id: W4CZ321191
+-  '':
+    bdrc-instance-id: W8LS20039
+-  '':
+    bdrc-instance-id: W1KG12135
+-  '':
+    bdrc-instance-id: W1CZ2856
+-  '':
+    bdrc-instance-id: W1KG23491
+-  '':
+    bdrc-instance-id: W1KG521
+-  '':
+    bdrc-instance-id: W1NLM78
+-  '':
+    bdrc-instance-id: W27302
+-  '':
+    bdrc-instance-id: W8LS31539
+-  '':
+    bdrc-instance-id: W1KG4615
+-  '':
+    bdrc-instance-id: W1KG12370
+-  '':
+    bdrc-instance-id: W1KG10687
+-  '':
+    bdrc-instance-id: W10437
+-  '':
+    bdrc-instance-id: W1NLM809
+-  '':
+    bdrc-instance-id: W30303
+-  '':
+    bdrc-instance-id: W1PD159529
+-  '':
+    bdrc-instance-id: W1022
+-  '':
+    bdrc-instance-id: W11399
+-  '':
+    bdrc-instance-id: W1KG11694
+-  '':
+    bdrc-instance-id: W1KG9412
+-  '':
+    bdrc-instance-id: W1CZ1989
+-  '':
+    bdrc-instance-id: W147
+-  '':
+    bdrc-instance-id: W3CN1595
+-  '':
+    bdrc-instance-id: W30182
+-  '':
+    bdrc-instance-id: W00KG01641
+-  '':
+    bdrc-instance-id: W140
+-  '':
+    bdrc-instance-id: W24575
+-  '':
+    bdrc-instance-id: W3CN5023
+-  '':
+    bdrc-instance-id: W2KG208135
+-  '':
+    bdrc-instance-id: W1GS135531
+-  '':
+    bdrc-instance-id: W1NLM235
+-  '':
+    bdrc-instance-id: W1KG1654
+-  '':
+    bdrc-instance-id: W1GS56161
+-  '':
+    bdrc-instance-id: W1NLM981
+-  '':
+    bdrc-instance-id: W1KG12913
+-  '':
+    bdrc-instance-id: W1KG25593
+-  '':
+    bdrc-instance-id: W1CZ2853
+-  '':
+    bdrc-instance-id: W8LS32551
+-  '':
+    bdrc-instance-id: W00KG03837
+-  '':
+    bdrc-instance-id: W1PD45094
+-  '':
+    bdrc-instance-id: W1KG3871
+-  '':
+    bdrc-instance-id: W22076
+-  '':
+    bdrc-instance-id: W1KG9280
+-  '':
+    bdrc-instance-id: W8LS19963
+-  '':
+    bdrc-instance-id: W25250
+-  '':
+    bdrc-instance-id: W1GS2162
+-  '':
+    bdrc-instance-id: W27598
+-  '':
+    bdrc-instance-id: W1EE25
+-  '':
+    bdrc-instance-id: W2KG209031
+-  '':
+    bdrc-instance-id: W3CN1876
+-  '':
+    bdrc-instance-id: W1KG16569
+-  '':
+    bdrc-instance-id: W4CZ1100
+-  '':
+    bdrc-instance-id: W00EGS1017462
+-  '':
+    bdrc-instance-id: W1KG11794
+-  '':
+    bdrc-instance-id: W1KG4519
+-  '':
+    bdrc-instance-id: W1CZ1246
+-  '':
+    bdrc-instance-id: W4CZ16869
+-  '':
+    bdrc-instance-id: W1AC213
+-  '':
+    bdrc-instance-id: W1KG5150
+-  '':
+    bdrc-instance-id: W1KG23421
+-  '':
+    bdrc-instance-id: W23571
+-  '':
+    bdrc-instance-id: W8LS66412
+-  '':
+    bdrc-instance-id: W1KG22266
+-  '':
+    bdrc-instance-id: W1KG23848
+-  '':
+    bdrc-instance-id: W29573
+-  '':
+    bdrc-instance-id: W4CZ307980
+-  '':
+    bdrc-instance-id: W1KG8751
+-  '':
+    bdrc-instance-id: W25058
+-  '':
+    bdrc-instance-id: W4CZ307981
+-  '':
+    bdrc-instance-id: W1KG15938
+-  '':
+    bdrc-instance-id: W1KG9122
+-  '':
+    bdrc-instance-id: W22181
+-  '':
+    bdrc-instance-id: W1PD2074
+-  '':
+    bdrc-instance-id: W1KG16796
+-  '':
+    bdrc-instance-id: W1PD159424
+-  '':
+    bdrc-instance-id: W1KG22083
+-  '':
+    bdrc-instance-id: W2KG209058
+-  '':
+    bdrc-instance-id: W11128
+-  '':
+    bdrc-instance-id: W28810
+-  '':
+    bdrc-instance-id: W1KG12215
+-  '':
+    bdrc-instance-id: W1KG11948
+-  '':
+    bdrc-instance-id: W15659
+-  '':
+    bdrc-instance-id: W3JT13718
+-  '':
+    bdrc-instance-id: W1KG3537
+-  '':
+    bdrc-instance-id: W4CZ7933
+-  '':
+    bdrc-instance-id: W2CZ5681
+-  '':
+    bdrc-instance-id: W00EGS1016238
+-  '':
+    bdrc-instance-id: W1CZ1260
+-  '':
+    bdrc-instance-id: W1CZ1115
+-  '':
+    bdrc-instance-id: W00KG09824
+-  '':
+    bdrc-instance-id: W28948
+-  '':
+    bdrc-instance-id: W20831
+-  '':
+    bdrc-instance-id: W1NLM540
+-  '':
+    bdrc-instance-id: W3CN3332
+-  '':
+    bdrc-instance-id: W1NLM929
+-  '':
+    bdrc-instance-id: W1KG10763
+-  '':
+    bdrc-instance-id: W1KG12093
+-  '':
+    bdrc-instance-id: W21557
+-  '':
+    bdrc-instance-id: W1KG13789
+-  '':
+    bdrc-instance-id: W00KG09830
+-  '':
+    bdrc-instance-id: W8LS18274
+-  '':
+    bdrc-instance-id: W25006
+-  '':
+    bdrc-instance-id: W1KG12962
+-  '':
+    bdrc-instance-id: W28852
+-  '':
+    bdrc-instance-id: W1KG2819
+-  '':
+    bdrc-instance-id: W1KG25297
+-  '':
+    bdrc-instance-id: W1KG13116
+-  '':
+    bdrc-instance-id: W8LS20183
+-  '':
+    bdrc-instance-id: W00EGS1016296
+-  '':
+    bdrc-instance-id: W2DB13639
+-  '':
+    bdrc-instance-id: W00KG03685
+-  '':
+    bdrc-instance-id: W1AC406
+-  '':
+    bdrc-instance-id: W1KG17023
+-  '':
+    bdrc-instance-id: W3CN15346
+-  '':
+    bdrc-instance-id: W15562
+-  '':
+    bdrc-instance-id: W2PD17521
+-  '':
+    bdrc-instance-id: W8LS19320
+-  '':
+    bdrc-instance-id: W1KG1559
+-  '':
+    bdrc-instance-id: W1KG25332
+-  '':
+    bdrc-instance-id: W8LS20126
+-  '':
+    bdrc-instance-id: W11575
+-  '':
+    bdrc-instance-id: W1KG12176
+-  '':
+    bdrc-instance-id: W28955
+-  '':
+    bdrc-instance-id: W00KG03548
+-  '':
+    bdrc-instance-id: W29669
+-  '':
+    bdrc-instance-id: W3CN17763
+-  '':
+    bdrc-instance-id: W8871
+-  '':
+    bdrc-instance-id: W8LS16531
+-  '':
+    bdrc-instance-id: W1CZ1997
+-  '':
+    bdrc-instance-id: W1KG22444
+-  '':
+    bdrc-instance-id: W1NLM343
+-  '':
+    bdrc-instance-id: W2DB25435
+-  '':
+    bdrc-instance-id: W1NLM576
+-  '':
+    bdrc-instance-id: W23222
+-  '':
+    bdrc-instance-id: W1KG3657
+-  '':
+    bdrc-instance-id: W00KG09216
+-  '':
+    bdrc-instance-id: W1PD45152
+-  '':
+    bdrc-instance-id: W1AC422
+-  '':
+    bdrc-instance-id: W1KG16212
+-  '':
+    bdrc-instance-id: W2DB13640
+-  '':
+    bdrc-instance-id: W1KG1789
+-  '':
+    bdrc-instance-id: W1CZ1167
+-  '':
+    bdrc-instance-id: W8LS24010
+-  '':
+    bdrc-instance-id: W1NLM211
+-  '':
+    bdrc-instance-id: W2KG208136
+-  '':
+    bdrc-instance-id: W00EGS1017136
+-  '':
+    bdrc-instance-id: W21508
+-  '':
+    bdrc-instance-id: W1CZ2050
+-  '':
+    bdrc-instance-id: W30477
+-  '':
+    bdrc-instance-id: W30135
+-  '':
+    bdrc-instance-id: W3CN1548
+-  '':
+    bdrc-instance-id: W1CZ897
+-  '':
+    bdrc-instance-id: W1AC225
+-  '':
+    bdrc-instance-id: W1NLM224
+-  '':
+    bdrc-instance-id: W4CZ299882
+-  '':
+    bdrc-instance-id: W3CN5324
+-  '':
+    bdrc-instance-id: W00EGS1016286
+-  '':
+    bdrc-instance-id: W15575
+-  '':
+    bdrc-instance-id: W8LS24653
+-  '':
+    bdrc-instance-id: W3JT13749
+-  '':
+    bdrc-instance-id: W30071
+-  '':
+    bdrc-instance-id: W1KG17418
+-  '':
+    bdrc-instance-id: W2CZ7988
+-  '':
+    bdrc-instance-id: W2CZ9085
+-  '':
+    bdrc-instance-id: W1GS45274
+-  '':
+    bdrc-instance-id: W4CZ74210
+-  '':
+    bdrc-instance-id: W22677
+-  '':
+    bdrc-instance-id: W19341
+-  '':
+    bdrc-instance-id: W19508
+-  '':
+    bdrc-instance-id: W1KG12430
+-  '':
+    bdrc-instance-id: W22096
+-  '':
+    bdrc-instance-id: W1KG12666
+-  '':
+    bdrc-instance-id: W3JT13690
+-  '':
+    bdrc-instance-id: W3CN21542
+-  '':
+    bdrc-instance-id: W29569
+-  '':
+    bdrc-instance-id: W23347
+-  '':
+    bdrc-instance-id: W00KG01614
+-  '':
+    bdrc-instance-id: W00KG01639
+-  '':
+    bdrc-instance-id: W00KG01626
+-  '':
+    bdrc-instance-id: W00KG01640
+-  '':
+    bdrc-instance-id: W00KG01615
+-  '':
+    bdrc-instance-id: W00KG01629
+-  '':
+    bdrc-instance-id: W00KG01637
+-  '':
+    bdrc-instance-id: W00KG01635
+-  '':
+    bdrc-instance-id: W00KG01630
+-  '':
+    bdrc-instance-id: W00KG01616
+-  '':
+    bdrc-instance-id: W23181
+-  '':
+    bdrc-instance-id: W2PD17461
+-  '':
+    bdrc-instance-id: W2PD17413
+-  '':
+    bdrc-instance-id: W1KG3407
+-  '':
+    bdrc-instance-id: W00KG09391
+-  '':
+    bdrc-instance-id: W2PD17551
+-  '':
+    bdrc-instance-id: W23227
+-  '':
+    bdrc-instance-id: W8LS19622
+-  '':
+    bdrc-instance-id: W3CN3019
+-  '':
+    bdrc-instance-id: W8LS32770
+-  '':
+    bdrc-instance-id: W1PD83974
+-  '':
+    bdrc-instance-id: W1KG11867
+-  '':
+    bdrc-instance-id: W1CZ1245
+-  '':
+    bdrc-instance-id: W00EGS1016251
+-  '':
+    bdrc-instance-id: W3JT13723
+-  '':
+    bdrc-instance-id: W27298
+-  '':
+    bdrc-instance-id: W8LS15736
+-  '':
+    bdrc-instance-id: W21624
+-  '':
+    bdrc-instance-id: W1KG5774
+-  '':
+    bdrc-instance-id: W1KG14410
+-  '':
+    bdrc-instance-id: W19975
+-  '':
+    bdrc-instance-id: W1KG26275
+-  '':
+    bdrc-instance-id: W30112
+-  '':
+    bdrc-instance-id: W1KG21752
+-  '':
+    bdrc-instance-id: W1EE60
+-  '':
+    bdrc-instance-id: W21492
+-  '':
+    bdrc-instance-id: W1CZ2397
+-  '':
+    bdrc-instance-id: W1KG15926
+-  '':
+    bdrc-instance-id: W25113
+-  '':
+    bdrc-instance-id: W3JT13588
+-  '':
+    bdrc-instance-id: W8LS32720
+-  '':
+    bdrc-instance-id: W30040
+-  '':
+    bdrc-instance-id: W4PD506
+-  '':
+    bdrc-instance-id: W27937
+-  '':
+    bdrc-instance-id: W4CZ302336
+-  '':
+    bdrc-instance-id: W1CZ1093
+-  '':
+    bdrc-instance-id: W1KG16786
+-  '':
+    bdrc-instance-id: W8LS17337
+-  '':
+    bdrc-instance-id: W00EGS1017151
+-  '':
+    bdrc-instance-id: W1CZ2484
+-  '':
+    bdrc-instance-id: W1KG26086
+-  '':
+    bdrc-instance-id: W1KG14746
+-  '':
+    bdrc-instance-id: W8LS15888
+-  '':
+    bdrc-instance-id: W21865
+-  '':
+    bdrc-instance-id: W17169
+-  '':
+    bdrc-instance-id: W00KG09748
+-  '':
+    bdrc-instance-id: W1NLM677
+-  '':
+    bdrc-instance-id: W2KG208158
+-  '':
+    bdrc-instance-id: W13868
+-  '':
+    bdrc-instance-id: W1KG2144
+-  '':
+    bdrc-instance-id: W30484
+-  '':
+    bdrc-instance-id: W29983
+-  '':
+    bdrc-instance-id: W8LS16693
+-  '':
+    bdrc-instance-id: W1KG18290
+-  '':
+    bdrc-instance-id: W3CN6525
+-  '':
+    bdrc-instance-id: W8LS19117
+-  '':
+    bdrc-instance-id: W3CN1720
+-  '':
+    bdrc-instance-id: W1KG21960
+-  '':
+    bdrc-instance-id: W1KG17189
+-  '':
+    bdrc-instance-id: W3CN8796
+-  '':
+    bdrc-instance-id: W2PD19380
+-  '':
+    bdrc-instance-id: W1PD5
+-  '':
+    bdrc-instance-id: W10982
+-  '':
+    bdrc-instance-id: W1NLM184
+-  '':
+    bdrc-instance-id: W1KG15419
+-  '':
+    bdrc-instance-id: W1KG21014
+-  '':
+    bdrc-instance-id: W1KG13585
+-  '':
+    bdrc-instance-id: W1KG4253
+-  '':
+    bdrc-instance-id: W00KG02531
+-  '':
+    bdrc-instance-id: W1KG25062
+-  '':
+    bdrc-instance-id: W1KG9453
+-  '':
+    bdrc-instance-id: W1GS60377
+-  '':
+    bdrc-instance-id: W3JT13689
+-  '':
+    bdrc-instance-id: W1EE63
+-  '':
+    bdrc-instance-id: W1CZ1852
+-  '':
+    bdrc-instance-id: W3CN5357
+-  '':
+    bdrc-instance-id: W1CZ1886
+-  '':
+    bdrc-instance-id: W1KG21095
+-  '':
+    bdrc-instance-id: W1CZ1216
+-  '':
+    bdrc-instance-id: W4CZ354429
+-  '':
+    bdrc-instance-id: W1KG1790
+-  '':
+    bdrc-instance-id: W1KG25676
+-  '':
+    bdrc-instance-id: W8LS19807
+-  '':
+    bdrc-instance-id: W3CN6840
+-  '':
+    bdrc-instance-id: W21892
+-  '':
+    bdrc-instance-id: W2KG207553
+-  '':
+    bdrc-instance-id: W8LS32731
+-  '':
+    bdrc-instance-id: W8LS66795
+-  '':
+    bdrc-instance-id: W2DB4574
+-  '':
+    bdrc-instance-id: W1KG1657
+-  '':
+    bdrc-instance-id: W1KG24103
+-  '':
+    bdrc-instance-id: W1KG11947
+-  '':
+    bdrc-instance-id: W8LS31217
+-  '':
+    bdrc-instance-id: W1CZ1096
+-  '':
+    bdrc-instance-id: W1GS2
+-  '':
+    bdrc-instance-id: W2CZ7974
+-  '':
+    bdrc-instance-id: W26626
+-  '':
+    bdrc-instance-id: W21962
+-  '':
+    bdrc-instance-id: W8LS16232
+-  '':
+    bdrc-instance-id: W1NLM852
+-  '':
+    bdrc-instance-id: W10426
+-  '':
+    bdrc-instance-id: W3JT13608
+-  '':
+    bdrc-instance-id: W1KG9771
+-  '':
+    bdrc-instance-id: W1KG21759
+-  '':
+    bdrc-instance-id: W29147
+-  '':
+    bdrc-instance-id: W4CZ307972
+-  '':
+    bdrc-instance-id: W3JT13663
+-  '':
+    bdrc-instance-id: W1KG17215
+-  '':
+    bdrc-instance-id: W1NLM496
+-  '':
+    bdrc-instance-id: W1CZ2417
+-  '':
+    bdrc-instance-id: W13649
+-  '':
+    bdrc-instance-id: W23888
+-  '':
+    bdrc-instance-id: W8LS19855
+-  '':
+    bdrc-instance-id: W1KG25101
+-  '':
+    bdrc-instance-id: W22197
+-  '':
+    bdrc-instance-id: W8LS16534
+-  '':
+    bdrc-instance-id: W2CZ7963
+-  '':
+    bdrc-instance-id: W8LS16253
+-  '':
+    bdrc-instance-id: W1KG22087
+-  '':
+    bdrc-instance-id: W8LS25456
+-  '':
+    bdrc-instance-id: W8LS29183
+-  '':
+    bdrc-instance-id: W1KG5182
+-  '':
+    bdrc-instance-id: W24769
+-  '':
+    bdrc-instance-id: W8LS31015
+-  '':
+    bdrc-instance-id: W1GS134940
+-  '':
+    bdrc-instance-id: W1EE22
+-  '':
+    bdrc-instance-id: W23943
+-  '':
+    bdrc-instance-id: W3CN15672
+-  '':
+    bdrc-instance-id: W23554
+-  '':
+    bdrc-instance-id: W1KG9723
+-  '':
+    bdrc-instance-id: W2MS743
+-  '':
+    bdrc-instance-id: W1KG4303
+-  '':
+    bdrc-instance-id: W1KG2827
+-  '':
+    bdrc-instance-id: W1KG16917
+-  '':
+    bdrc-instance-id: W1KG14630
+-  '':
+    bdrc-instance-id: W23775
+-  '':
+    bdrc-instance-id: W2CZ7950
+-  '':
+    bdrc-instance-id: W21888
+-  '':
+    bdrc-instance-id: W4CZ302332
+-  '':
+    bdrc-instance-id: W1CZ883
+-  '':
+    bdrc-instance-id: W8LS15869
+-  '':
+    bdrc-instance-id: W4CZ299959
+-  '':
+    bdrc-instance-id: W10298
+-  '':
+    bdrc-instance-id: W1KG22301
+-  '':
+    bdrc-instance-id: W1KG13160
+-  '':
+    bdrc-instance-id: W1EE7
+-  '':
+    bdrc-instance-id: W1CZ1878
+-  '':
+    bdrc-instance-id: W2DB13643
+-  '':
+    bdrc-instance-id: W1AC403
+-  '':
+    bdrc-instance-id: W1NLM621
+-  '':
+    bdrc-instance-id: W8LS19601
+-  '':
+    bdrc-instance-id: W3CN6409
+-  '':
+    bdrc-instance-id: W1CZ884
+-  '':
+    bdrc-instance-id: W1KG16210
+-  '':
+    bdrc-instance-id: W2CZ7955
+-  '':
+    bdrc-instance-id: W2DB4627
+-  '':
+    bdrc-instance-id: W28922
+-  '':
+    bdrc-instance-id: W1AC321
+-  '':
+    bdrc-instance-id: W8LS23409
+-  '':
+    bdrc-instance-id: W1CZ878
+-  '':
+    bdrc-instance-id: W1NLM129
+-  '':
+    bdrc-instance-id: W1367
+-  '':
+    bdrc-instance-id: W3CN1717
+-  '':
+    bdrc-instance-id: W14371
+-  '':
+    bdrc-instance-id: W3CN6837
+-  '':
+    bdrc-instance-id: W1KG5697
+-  '':
+    bdrc-instance-id: W22281
+-  '':
+    bdrc-instance-id: W10305
+-  '':
+    bdrc-instance-id: W1KG15518
+-  '':
+    bdrc-instance-id: W1PD2
+-  '':
+    bdrc-instance-id: W00EGS1017555
+-  '':
+    bdrc-instance-id: W1KG12690
+-  '':
+    bdrc-instance-id: W1KG26104
+-  '':
+    bdrc-instance-id: W00EGS1017511
+-  '':
+    bdrc-instance-id: W25094
+-  '':
+    bdrc-instance-id: W3CN18478
+-  '':
+    bdrc-instance-id: W1NLM761
+-  '':
+    bdrc-instance-id: W1NLM908
+-  '':
+    bdrc-instance-id: W30498
+-  '':
+    bdrc-instance-id: W1KG12792
+-  '':
+    bdrc-instance-id: W30180
+-  '':
+    bdrc-instance-id: W00EGS1016290
+-  '':
+    bdrc-instance-id: W1GS52137
+-  '':
+    bdrc-instance-id: W15269
+-  '':
+    bdrc-instance-id: W2CZ9154
+-  '':
+    bdrc-instance-id: W21934
+-  '':
+    bdrc-instance-id: W1KG18574
+-  '':
+    bdrc-instance-id: W2KG208149
+-  '':
+    bdrc-instance-id: W23346
+-  '':
+    bdrc-instance-id: W8LS20021
+-  '':
+    bdrc-instance-id: W1KG4312
+-  '':
+    bdrc-instance-id: W1CZ1125
+-  '':
+    bdrc-instance-id: W00EGS1017102
+-  '':
+    bdrc-instance-id: W2DB4594
+-  '':
+    bdrc-instance-id: W22024
+-  '':
+    bdrc-instance-id: W00EGS1016625
+-  '':
+    bdrc-instance-id: W19354
+-  '':
+    bdrc-instance-id: W1PD86468
+-  '':
+    bdrc-instance-id: W4CZ302363
+-  '':
+    bdrc-instance-id: W2CZ8072
+-  '':
+    bdrc-instance-id: W00KG03567
+-  '':
+    bdrc-instance-id: W1KG21719
+-  '':
+    bdrc-instance-id: W1KG406
+-  '':
+    bdrc-instance-id: W1GS60877
+-  '':
+    bdrc-instance-id: W1KG11666
+-  '':
+    bdrc-instance-id: W1KG6149
+-  '':
+    bdrc-instance-id: W1AC245
+-  '':
+    bdrc-instance-id: W1KG12956
+-  '':
+    bdrc-instance-id: W21994
+-  '':
+    bdrc-instance-id: W30175
+-  '':
+    bdrc-instance-id: W30020
+-  '':
+    bdrc-instance-id: W1EE62
+-  '':
+    bdrc-instance-id: W1KG13685
+-  '':
+    bdrc-instance-id: W1KG3655
+-  '':
+    bdrc-instance-id: W8LS29341
+-  '':
+    bdrc-instance-id: W2CZ7859
+-  '':
+    bdrc-instance-id: W29674
+-  '':
+    bdrc-instance-id: W1KG25144
+-  '':
+    bdrc-instance-id: W1KG1338
+-  '':
+    bdrc-instance-id: W1GS58453
+-  '':
+    bdrc-instance-id: W00KG04064
+-  '':
+    bdrc-instance-id: W8LS19610
+-  '':
+    bdrc-instance-id: W2DB16423
+-  '':
+    bdrc-instance-id: W1NLM332
+-  '':
+    bdrc-instance-id: W1KG15852
+-  '':
+    bdrc-instance-id: W1CZ1010
+-  '':
+    bdrc-instance-id: W1KG18764
+-  '':
+    bdrc-instance-id: W3JT13369
+-  '':
+    bdrc-instance-id: W1KG15974
+-  '':
+    bdrc-instance-id: W22246
+-  '':
+    bdrc-instance-id: W1NLM500
+-  '':
+    bdrc-instance-id: W1NLM947
+-  '':
+    bdrc-instance-id: W3CN4672
+-  '':
+    bdrc-instance-id: W17210
+-  '':
+    bdrc-instance-id: W1PD97
+-  '':
+    bdrc-instance-id: W1NLM578
+-  '':
+    bdrc-instance-id: W25168
+-  '':
+    bdrc-instance-id: W20077
+-  '':
+    bdrc-instance-id: W1KG1445
+-  '':
+    bdrc-instance-id: W1NLM661
+-  '':
+    bdrc-instance-id: W20849
+-  '':
+    bdrc-instance-id: W1KG13015
+-  '':
+    bdrc-instance-id: W1KG25213
+-  '':
+    bdrc-instance-id: W23940
+-  '':
+    bdrc-instance-id: W29101
+-  '':
+    bdrc-instance-id: W13780
+-  '':
+    bdrc-instance-id: W8LS29344
