@@ -3,7 +3,7 @@ author: དགེ་བཤེས་ཆེན་པོ་གླང་རི་ཐ
 bdrc-work-id: 
 wikidata-id: ''
 pechas:
-  - P000780
+  - P000780:<UUID> # index node
     - title: བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་
     - source: <url or bdr:>
     - author: 
