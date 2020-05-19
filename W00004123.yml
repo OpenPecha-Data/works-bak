@@ -1,10 +1,16 @@
 title: བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་
 author: དགེ་བཤེས་ཆེན་པོ་གླང་རི་ཐང་པ་
-bdrc-work-id: 
+bdrc-work-id:
 wikidata-id: ''
 pechas:
-  - P000780
+  - P000780:
+    - id: abff11b6e75749948dd2fd97de42c768
     - title: བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་
-    - source: <url or bdr:>
-    - author: 
+    - source: https://bo.wikipedia.org/wiki/བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་ # <url or bdr:>
+    - author:
+  - P000781:
+    - id: dee456cdc69940579b26df6ae949c683
+    - title: ༄༅། །བློ་སྦྱོང་ཚིག་བརྒྱད་མ་བཞུགས་སོ། །
+    - source: https://www.lotsawahouse.org/bo/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind
+    - author:
 
