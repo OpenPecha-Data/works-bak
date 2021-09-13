@@ -1,28 +1,47 @@
+id: W00000003
 title: སྤྱོད་འཇུག
 author:
 bdrc-work-id:
 wikidata-id:
 instances:
   # instances are named after publishers
-  - བསྟན་འགྱུར། ༼སྡེ་དགེ་པར་མ།༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ: # bdrc instance and publisher name
-    - bdrc-instance-id: W4CZ5369
-    - D-id: D3871
-    - google-ocr: 
-    - transcription: 
-        - pecha: P000002
-        - ref: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
-        - relevance: 0
-    - relevance: 0
-  - derge-delhi:
-    - bdrc-instance-id: W23703
-    - D-id: D3871
-    - namsel-ocr:
-    - google-ocr:
-    - relevance: 2
-  - peydurma:
-    - A-id:
-    - namsel-ocr:
-    - google-ocr:
-    - relevance: 1
-  - narthang:
-    - N-id:
+  - 39f976ec7d3c4: # instance id
+      title: བསྟན་འགྱུར། ༼སྡེ་དགེ་པར་མ།༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ  # bdrc instance and publisher name
+      source_id: W4CZ5369
+      initial_creation_type: input
+      org: bdrc
+      created_date: 13/09/2021
+      updated_date: 13/09/2021
+      loc: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
+      relevance: 0
+  - 39f976ec7d3c4: # instance id
+      title: སྤྱོད་འཇུག་རྩ་འགྲེལ
+      source_id: W21914
+      initial_creation_type: google-ocr
+      org: bdrc
+      created_date: 13/09/2021
+      updated_date: 13/09/2021
+      loc: P002910
+      relevance: 0
+  - 39f976ec7d3c4: # instance id
+      title: བསྟན་འགྱུར། ༼སྡེ་དགེ་པར་མ།༽/སྡེ་དགེ་པར་ཁང་ཆེན་མོ  # bdrc instance and publisher name
+      source_id: W4CZ5369
+      initial_creation_type: input
+      org: bdrc
+      created_date: 13/09/2021
+      updated_date: 13/09/2021
+      loc: P000002:39f976ec7d3c4a0fbd0ab594662e05d5
+      relevance: 0
+#   - derge-delhi:
+#     - bdrc-instance-id: W23703
+#     - D-id: D3871
+#     - namsel-ocr:
+#     - google-ocr:
+#     - relevance: 2
+#   - peydurma:
+#     - A-id:
+#     - namsel-ocr:
+#     - google-ocr:
+#     - relevance: 1
+#   - narthang:
+#     - N-id:
