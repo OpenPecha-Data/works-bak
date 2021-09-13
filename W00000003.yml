@@ -3,6 +3,7 @@ title: སྤྱོད་འཇུག
 author:
 bdrc-work-id:
 wikidata-id:
+collated: <repo-id> # collated repo contains all the diff of instances.
 instances:
   # instances are named after publishers
   - 39f976ec7d3c4: # instance id
